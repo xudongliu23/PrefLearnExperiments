@@ -1,0 +1,9 @@
+TopLeftSquare:x,o,b
+TopMiddleSquare:x,o,b
+TopRightSquare:x,o,b
+MiddleLeftSquare:x,o,b
+MiddleMiddleSquare:x,o,b
+MiddleRightSquare:x,o,b
+BottomLeftSquare:x,o,b
+BottomMiddleSquare:x,o,b
+BottomRightSquare:x,o,b

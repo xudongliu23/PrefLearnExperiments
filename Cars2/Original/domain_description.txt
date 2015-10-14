@@ -1,0 +1,5 @@
+BodyType:Sedan,SUV,Hatchback
+Transmission:Manual,Automatic
+EngineCapacity:2.5L,3.5L,4.5L,5.5L,6.2L
+FuelConsumed:Hybrid,Non-Hybrid
+EngineLayout:AWD,FWD

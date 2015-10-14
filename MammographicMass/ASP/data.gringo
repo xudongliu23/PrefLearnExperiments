@@ -1,0 +1,16 @@
+%% Say we have tn issues
+%%
+%%
+
+%% Data
+totalNumberOfIssues(tn).
+domSize(0,5).
+domSize(1,9).
+domSize(2,4).
+domSize(3,5).
+domSize(4,4).
+issueDom(0,0..4).
+issueDom(1,0..8).
+issueDom(2,0..3).
+issueDom(3,0..4).
+issueDom(4,0..3).

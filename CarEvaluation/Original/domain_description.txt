@@ -1,0 +1,6 @@
+BuyingPrice:vhigh,high,med,low
+MaintPrice:vhigh,high,med,low
+Doors:2,3,4,5more
+Persons:2,4,more
+Luggage:small,med,big
+Safety:low,med,high
