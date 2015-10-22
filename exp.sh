@@ -1,6 +1,13 @@
 #!/bin/bash
 
-root_dir=/home/xudong/Codes/PrefLearnExperiments
+usr_dir=""
+if [ "$(hostname)" == 'kestrel' ]; then
+  usr_dir=/homes/liu
+else
+  usr_dir=/home/xudong
+fi
+
+root_dir=${usr_dir}/Codes/PrefLearnExperiments
 
 CarEvaluation=${root_dir}/CarEvaluation/Scripts/run.sh
 number_of_all_examples_CarEvaluation=682721
@@ -13,9 +20,10 @@ Wine=${root_dir}/Wine/Scripts/run.sh
 number_of_all_examples_Wine=10429
 Cars1=${root_dir}/Cars1/Scripts/run.sh
 Cars2=${root_dir}/Cars2/Scripts/run.sh
-clingo3=/home/xudong/.tools/clingo-3.0.5/clingo-3.0.5
-gringo3=/home/xudong/.tools/gringo-3.0.5/gringo-3.0.5
-clasp=/home/xudong/.tools/clasp-3.1.1/clasp-3.1.1
+BreastCancerWisconsin=${root_dir}/BreastCancerWisconsin/Scripts/run.sh
+clingo3=${usr_dir}/.tools/clingo-3.0.5/clingo-3.0.5
+gringo3=${usr_dir}/.tools/gringo-3.0.5/gringo-3.0.5
+clasp=${usr_dir}/.tools/clasp-3.1.3/clasp-3.1.3
 
 #for (( i=1; i<10; i+=1 )); do
 #	time $CarEvaluation $gringo3 $clasp $i $number_of_all_examples_CarEvaluation
@@ -83,6 +91,10 @@ clasp=/home/xudong/.tools/clasp-3.1.1/clasp-3.1.1
 #echo "PrefLearn experiment is done on the Cars1 dataset." | mail -s "Cars1 Done" xudong.liu23@gmail.com
 #sleep 2
 #
-time $Cars2 $gringo3 $clasp
+#time $Cars2 $gringo3 $clasp
+#echo "PrefLearn experiment is done on the Cars2 dataset." | mail -s "Cars2 Done" xudong.liu23@gmail.com
+#sleep 2
+#
+time $BreastCancerWisconsin $gringo3 $clasp $usr_dir
 echo "PrefLearn experiment is done on the Cars2 dataset." | mail -s "Cars2 Done" xudong.liu23@gmail.com
 sleep 2

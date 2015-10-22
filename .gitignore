@@ -61,4 +61,12 @@ Wine/C++Src/parser
 Wine/stats.csv
 Wine/stats
 
+BreastCancerWisconsin/Original/StrictExamples
+BreastCancerWisconsin/Original/*.csv
+BreastCancerWisconsin/Transformed
+BreastCancerWisconsin/ASP/User*
+BreastCancerWisconsin/C++Src/parser
+BreastCancerWisconsin/stats.csv
+BreastCancerWisconsin/stats
+
 Wine_1000Examples

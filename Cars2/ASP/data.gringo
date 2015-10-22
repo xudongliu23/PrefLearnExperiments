@@ -4,7 +4,6 @@
 
 %% Data
 totalNumberOfIssues(tn).
-totalNumberOfIssues(tn).
 domSize(0,3).
 domSize(1,2).
 domSize(2,5).

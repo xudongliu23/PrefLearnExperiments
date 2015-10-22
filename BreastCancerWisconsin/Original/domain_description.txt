@@ -1,0 +1,9 @@
+ClumpThickness:1,2,3,4,5,6,7,8,9,10
+UniformityofCellSize:1,2,3,4,5,6,7,8,9,10
+UniformityofCellShape:1,2,3,4,5,6,7,8,9,10
+MarginalAdhesion:1,2,3,4,5,6,7,8,9,10
+SingleEpithelialCellSize:1,2,3,4,5,6,7,8,9,10
+BareNuclei:1,2,3,4,5,6,7,8,9,10
+BlandChromatin:1,2,3,4,5,6,7,8,9,10
+NormalNucleoli:1,2,3,4,5,6,7,8,9,10
+Mitoses:1,2,3,4,5,6,7,8,9,10
