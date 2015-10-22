@@ -1,8 +1,9 @@
 #!/bin/bash
 
 number_of_users=$1
-root_dir=$2
-origin_dir=$3
+number_of_iterations=$2
+root_dir=$3
+origin_dir=$4
 strictEx_dir=${origin_dir}/StrictExamples
 
 if [ ! -d ${strictEx_dir} ]; then
@@ -22,16 +23,22 @@ for (( i=0; i<$number_of_users; i+=1 )); do
 	mv ${origin_dir}/strict_examples${i}.csv ${strictEx_dir}/User${i}
 	count="$(wc -l ${strictEx_dir}/User${i}/strict_examples${i}.csv | awk '{print($1)}')"
 	half=$(($count/2))
-	shuf -n $half ${strictEx_dir}/User${i}/strict_examples${i}.csv > ${strictEx_dir}/User${i}/Training/train
-	cp ${strictEx_dir}/User${i}/strict_examples${i}.csv ${strictEx_dir}/User${i}/Testing/test
-	grep -v -x -f ${strictEx_dir}/User${i}/Training/train ${strictEx_dir}/User${i}/Testing/test \
-		> ${strictEx_dir}/User${i}/Testing/tmp && mv ${strictEx_dir}/User${i}/Testing/tmp ${strictEx_dir}/User${i}/Testing/test
+	threequarters=$((3*$count/4))
+	quarter=$(($count/4))
+	for (( j=0; j<$number_of_iterations; j+=1 )); do
+		shuf -n $count ${strictEx_dir}/User${i}/strict_examples${i}.csv > ${strictEx_dir}/User${i}/Training/train${j}
+		cp ${strictEx_dir}/User${i}/strict_examples${i}.csv ${strictEx_dir}/User${i}/Testing/test${j}
+		grep -v -x -f ${strictEx_dir}/User${i}/Training/train${j} ${strictEx_dir}/User${i}/Testing/test${j} \
+			> ${strictEx_dir}/User${i}/Testing/tmp && mv ${strictEx_dir}/User${i}/Testing/tmp ${strictEx_dir}/User${i}/Testing/test${j}
+	done
 done
 
 # Add title to the training and testing datasets, and other files
 sed -i "1s/^/$title\n/" ${origin_dir}/strict_examples_cp.csv
 for (( i=0; i<$number_of_users; i+=1 )); do
-	sed -i "1s/^/$title\n/" ${strictEx_dir}/User${i}/Training/train
-	sed -i "1s/^/$title\n/" ${strictEx_dir}/User${i}/Testing/test
 	sed -i "1s/^/$title\n/" ${strictEx_dir}/User${i}/strict_examples${i}.csv
+	for (( j=0; j<$number_of_iterations; j+=1 )); do
+		sed -i "1s/^/$title\n/" ${strictEx_dir}/User${i}/Training/train${j}
+		sed -i "1s/^/$title\n/" ${strictEx_dir}/User${i}/Testing/test${j}
+	done
 done

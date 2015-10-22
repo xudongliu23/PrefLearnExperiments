@@ -5,11 +5,12 @@
 ## These pairwise preferences are in ../Transformed/UserX/.
 
 number_of_users=$1
-origin_dir=$2
-transformed_dir=$3
-pair_prefs=$4
-parser_hr=$5
-ASP_dir=$6
+number_of_iterations=$2
+origin_dir=$3
+transformed_dir=$4
+pair_prefs=$5
+parser_hr=$6
+ASP_dir=$7
 
 ## main function
 function main {
@@ -40,23 +41,25 @@ function main {
 	
 		X=$((i+1))
 		
-		# Parse the training set
-		$parser_hr pre ${origin_dir}/domain_description.txt ${origin_dir}/outcomes.csv \
-		${origin_dir}/StrictExamples/User${i}/Training/train \
-			${ASP_dir}/outcomes.gringo > ${transformed_dir}/User${i}/Training/strict_examples_new.csv
-		sed -n "/^${X},/p" ${transformed_dir}/User${i}/Training/strict_examples_new.csv \
-			> ${transformed_dir}/User${i}/Training/prefs.csv
-		sed -i "s/^${X},/${i},/g" ${transformed_dir}/User${i}/Training/prefs.csv
-		sed -i "s/[^,]*,//" ${transformed_dir}/User${i}/Training/prefs.csv  # remove the first column for the User ID
-
-		# Parse the testing set
-		$parser_hr pre ${origin_dir}/domain_description.txt ${origin_dir}/outcomes.csv \
-		${origin_dir}/StrictExamples/User${i}/Testing/test \
-			${ASP_dir}/outcomes.gringo > ${transformed_dir}/User${i}/Testing/strict_examples_new.csv
-		sed -n "/^${X},/p" ${transformed_dir}/User${i}/Testing/strict_examples_new.csv \
-			> ${transformed_dir}/User${i}/Testing/prefs.csv
-		sed -i "s/^${X},/${i},/g" ${transformed_dir}/User${i}/Testing/prefs.csv
-		sed -i "s/[^,]*,//" ${transformed_dir}/User${i}/Testing/prefs.csv  # remove the first column for the User ID
+		for (( j=0; j<$number_of_iterations; j+=1 )); do
+			# Parse the training set
+			$parser_hr pre ${origin_dir}/domain_description.txt ${origin_dir}/outcomes.csv \
+			${origin_dir}/StrictExamples/User${i}/Training/train${j} \
+				${ASP_dir}/outcomes.gringo > ${transformed_dir}/User${i}/Training/strict_examples_new${j}.csv
+			sed -n "/^${X},/p" ${transformed_dir}/User${i}/Training/strict_examples_new${j}.csv \
+				> ${transformed_dir}/User${i}/Training/prefs${j}.csv
+			sed -i "s/^${X},/${i},/g" ${transformed_dir}/User${i}/Training/prefs${j}.csv
+			sed -i "s/[^,]*,//" ${transformed_dir}/User${i}/Training/prefs${j}.csv  # remove the first column for the User ID
+	
+			# Parse the testing set
+			$parser_hr pre ${origin_dir}/domain_description.txt ${origin_dir}/outcomes.csv \
+			${origin_dir}/StrictExamples/User${i}/Testing/test${j} \
+				${ASP_dir}/outcomes.gringo > ${transformed_dir}/User${i}/Testing/strict_examples_new${j}.csv
+			sed -n "/^${X},/p" ${transformed_dir}/User${i}/Testing/strict_examples_new${j}.csv \
+				> ${transformed_dir}/User${i}/Testing/prefs${j}.csv
+			sed -i "s/^${X},/${i},/g" ${transformed_dir}/User${i}/Testing/prefs${j}.csv
+			sed -i "s/[^,]*,//" ${transformed_dir}/User${i}/Testing/prefs${j}.csv  # remove the first column for the User ID
+		done
 	done
 }
 
