@@ -7,9 +7,17 @@ using namespace std;
 
 void getStatsSingle();
 void getStatsMultiple(int number_of_iterations);
+string exec(const char* cmd);
+
+string results_file_path = "";
 
 int main(int argc, char** argv) {
 	string number_of_iterations_string = string(argv[1]);
+	if(exec("hostname") == "kestrel") {
+		results_file_path = "/homes/liu/Codes/PrefLearnExperiments/BreastCancerWisconsin/Results/results.txt";
+	} else {
+		results_file_path = "/home/xudong/Codes/PrefLearnExperiments/BreastCancerWisconsin/Results/results.txt";
+	}
 
 	if(number_of_iterations_string == "1") {
 		getStatsSingle();
@@ -25,7 +33,7 @@ int main(int argc, char** argv) {
 void getStatsSingle() {
 	ifstream ifile;
 
-	ifile.open("/home/xudong/Codes/PrefLearnExperiments/Cars2/Results/results.txt");
+	ifile.open(results_file_path.c_str());
 	if(!ifile.is_open()) {cout << "Error opening file!" << endl;}
 	else {
 		string line;
@@ -82,7 +90,7 @@ void getStatsMultiple(int number_of_iterations) {
 		}
 	}
 
-	ifile.open("/home/xudong/Codes/PrefLearnExperiments/Cars2/Results/results.txt");
+	ifile.open(results_file_path.c_str());
 	if(!ifile.is_open()) {cout << "Error opening file!" << endl;}
 	else {
 		string line;
@@ -140,4 +148,15 @@ void getStatsMultiple(int number_of_iterations) {
 	}
 }
 
-
+string exec(const char* cmd) {
+    FILE* pipe = popen(cmd, "r");
+    if (!pipe) return "ERROR";
+    char buffer[128];
+    std::string result = "";
+    while (!feof(pipe)) {
+        if (fgets(buffer, 128, pipe) != NULL)
+            result += buffer;
+    }
+    pclose(pipe);
+    return result;
+}

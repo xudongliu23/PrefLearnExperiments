@@ -1,0 +1,9 @@
+ClumpThickness:low,medium,high,vhigh
+UniformityofCellSize:low,medium,high,vhigh
+UniformityofCellShape:low,medium,high,vhigh
+MarginalAdhesion:low,medium,high,vhigh
+SingleEpithelialCellSize:low,medium,high,vhigh
+BareNuclei:low,medium,high,vhigh
+BlandChromatin:low,medium,high,vhigh
+NormalNucleoli:low,medium,high,vhigh
+Mitoses:low,medium,high,vhigh

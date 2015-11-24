@@ -1,0 +1,10 @@
+A1:b,a
+A2:low,medium,high,vhigh
+A3:low,medium,high,vhigh
+A4:u,y,l,t
+A5:g,p,gg
+A6:low,medium,high,vhigh
+A7:low,medium,high,vhigh
+A8:low,medium,high,vhigh
+A9:t,f
+A10:t,f

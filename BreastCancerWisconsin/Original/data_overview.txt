@@ -1,5 +1,5 @@
-#attributes:6
-#outcomes:1728
+#attributes:9
+#outcomes:683
 #users:1
-#strictExamples:682721
-#eqExamples:809407
+#strictExamples:126787
+#eqExamples:106116

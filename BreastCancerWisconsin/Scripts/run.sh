@@ -4,7 +4,7 @@
 
 usr_dir=$3
 number_of_users=1
-number_of_iterations=1
+number_of_iterations=20
 root_dir=${usr_dir}/Codes/PrefLearnExperiments/BreastCancerWisconsin
 origin_dir=${root_dir}/Original
 transformed_dir=${root_dir}/Transformed
@@ -23,6 +23,7 @@ data=${ASP_dir}/data.gringo
 outcomes=${ASP_dir}/outcomes.gringo
 #rules=${ASP_dir}/rules.gringo
 pars="-c tn=9 -c mn=9"
+time_pars="--time-limit=0"
 
 results_dir=${root_dir}/Results
 parser_hr=${root_dir}/C++Src/parser
@@ -46,7 +47,7 @@ function run {
 			# Training
 			$gringo ${ASP_dir}/User${i}/Training/examples${j}.gringo $data \
 				${ASP_dir}/User${i}/Training/number_of_strict_examples${j}.gringo \
-				$outcomes ${ASP_dir}/$rules_train_ASP $pars | $clasp > ${results_dir}/User${i}/Training/res${j}.txt 2>&1
+				$outcomes ${ASP_dir}/$rules_train_ASP $pars | $clasp $time_pars > ${results_dir}/User${i}/Training/res${j}.txt 2>&1
 	
 			# Testing
 			TREE_LEARNED="$(grep -B 2 OPTIMUM ${results_dir}/User${i}/Training/res${j}.txt | sed -n 1p)" # making the rules
@@ -56,7 +57,7 @@ function run {
 			echo $TREE_LEARNED >> ${ASP_dir}/User${i}/Testing/rules_test_template${j}.gringo
 			$gringo $data ${ASP_dir}/User${i}/Testing/examples${j}.gringo \
 				${ASP_dir}/User${i}/Testing/number_of_strict_examples${j}.gringo \
-				$outcomes ${ASP_dir}/User${i}/Testing/rules_test_template${j}.gringo | $clasp > ${results_dir}/User${i}/Testing/res${j}.txt 2>&1
+				$outcomes ${ASP_dir}/User${i}/Testing/rules_test_template${j}.gringo | $clasp $time_pars > ${results_dir}/User${i}/Testing/res${j}.txt 2>&1
 		done
 	done
 }

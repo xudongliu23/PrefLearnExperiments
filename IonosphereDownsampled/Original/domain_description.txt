@@ -1,0 +1,15 @@
+A1:low,high
+A2:low,high
+A3:low,high
+A4:low,high
+A5:low,high
+A6:low,high
+A7:low,high
+A8:low,high
+A9:low,high
+A10:low,high
+A11:low,high
+A12:low,high
+A13:low,high
+A14:low,high
+A15:low,high

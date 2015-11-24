@@ -26,7 +26,7 @@ for (( i=0; i<$number_of_users; i+=1 )); do
 	threequarters=$((3*$count/4))
 	quarter=$(($count/4))
 	for (( j=0; j<$number_of_iterations; j+=1 )); do
-		shuf -n 20 ${strictEx_dir}/User${i}/strict_examples${i}.csv > ${strictEx_dir}/User${i}/Training/train${j}
+		shuf -n 10 ${strictEx_dir}/User${i}/strict_examples${i}.csv > ${strictEx_dir}/User${i}/Training/train${j}
 		cp ${strictEx_dir}/User${i}/strict_examples${i}.csv ${strictEx_dir}/User${i}/Testing/test${j}
 		grep -v -x -f ${strictEx_dir}/User${i}/Training/train${j} ${strictEx_dir}/User${i}/Testing/test${j} \
 			> ${strictEx_dir}/User${i}/Testing/tmp && mv ${strictEx_dir}/User${i}/Testing/tmp ${strictEx_dir}/User${i}/Testing/test${j}

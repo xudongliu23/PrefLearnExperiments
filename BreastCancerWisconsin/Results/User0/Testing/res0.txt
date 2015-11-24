@@ -1,11 +1,10 @@
 clasp version 3.1.3
 Reading from stdin
-Solving...
-Answer: 1
-numberOfSatStrictEx(58260)
-SATISFIABLE
+*** Info : (clasp): INTERRUPTED by signal!
+UNKNOWN
 
-Models       : 1     
+INTERRUPTED  : 1
+Models       : 0+    
 Calls        : 1
-Time         : 8.799s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
-CPU Time     : 0.680s
+Time         : 0.222s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.030s
