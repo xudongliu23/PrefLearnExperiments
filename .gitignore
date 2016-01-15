@@ -20,7 +20,7 @@ CarEvaluation/Original/StrictExamples
 CarEvaluation/Original/*.csv
 CarEvaluation/Transformed
 CarEvaluation/ASP/User*
-CarEvaluation/Results
+CarEvaluation/Results/User0
 CarEvaluation/C++Src/parser
 CarEvaluation/stats.csv
 CarEvaluation/stats
@@ -29,7 +29,7 @@ MammographicMass/Original/StrictExamples
 MammographicMass/Original/*.csv
 MammographicMass/Transformed
 MammographicMass/ASP/User*
-MammographicMass/Results
+MammographicMass/Results/User0
 MammographicMass/C++Src/parser
 MammographicMass/stats.csv
 MammographicMass/stats
@@ -38,7 +38,7 @@ Nursery/Original/StrictExamples
 Nursery/Original/*.csv
 Nursery/Transformed
 Nursery/ASP/User*
-Nursery/Results
+Nursery/Results/User0
 Nursery/C++Src/parser
 Nursery/stats.csv
 Nursery/stats
@@ -47,7 +47,7 @@ TicTacToe/Original/StrictExamples
 TicTacToe/Original/*.csv
 TicTacToe/Transformed
 TicTacToe/ASP/User*
-TicTacToe/Results
+TicTacToe/Results/User0
 TicTacToe/C++Src/parser
 TicTacToe/stats.csv
 TicTacToe/stats
@@ -56,7 +56,7 @@ Wine/Original/StrictExamples
 Wine/Original/*.csv
 Wine/Transformed
 Wine/ASP/User*
-Wine/Results
+Wine/Results/User0
 Wine/C++Src/parser
 Wine/stats.csv
 Wine/stats
@@ -65,7 +65,7 @@ BreastCancerWisconsin/Original/StrictExamples
 BreastCancerWisconsin/Original/*.csv
 BreastCancerWisconsin/Transformed
 BreastCancerWisconsin/ASP/User*
-BreastCancerWisconsin/Results
+BreastCancerWisconsin/Results/User0
 BreastCancerWisconsin/C++Src/parser
 BreastCancerWisconsin/stats.csv
 BreastCancerWisconsin/stats
@@ -76,7 +76,7 @@ BreastCancerWisconsinDownsampled/Original/StrictExamples
 BreastCancerWisconsinDownsampled/Original/*.csv
 BreastCancerWisconsinDownsampled/Transformed
 BreastCancerWisconsinDownsampled/ASP/User*
-BreastCancerWisconsinDownsampled/Results
+BreastCancerWisconsinDownsampled/Results/User0
 BreastCancerWisconsinDownsampled/C++Src/parser
 BreastCancerWisconsinDownsampled/stats.csv
 BreastCancerWisconsinDownsampled/stats
@@ -85,7 +85,7 @@ CreditApprovalDownsampled/Original/StrictExamples
 CreditApprovalDownsampled/Original/*.csv
 CreditApprovalDownsampled/Transformed
 CreditApprovalDownsampled/ASP/User*
-CreditApprovalDownsampled/Results
+CreditApprovalDownsampled/Results/User0
 CreditApprovalDownsampled/C++Src/parser
 CreditApprovalDownsampled/stats.csv
 CreditApprovalDownsampled/stats
@@ -94,7 +94,7 @@ CreditApprovalDownsampledFurther/Original/StrictExamples
 CreditApprovalDownsampledFurther/Original/*.csv
 CreditApprovalDownsampledFurther/Transformed
 CreditApprovalDownsampledFurther/ASP/User*
-CreditApprovalDownsampledFurther/Results
+CreditApprovalDownsampledFurther/Results/User0
 CreditApprovalDownsampledFurther/C++Src/parser
 CreditApprovalDownsampledFurther/stats.csv
 CreditApprovalDownsampledFurther/stats
@@ -103,7 +103,7 @@ Ionosphere/Original/StrictExamples
 Ionosphere/Original/*.csv
 Ionosphere/Transformed
 Ionosphere/ASP/User*
-Ionosphere/Results
+Ionosphere/Results/User0
 Ionosphere/C++Src/parser
 Ionosphere/stats.csv
 Ionosphere/stats
@@ -112,7 +112,7 @@ IonosphereDownsampled/Original/StrictExamples
 IonosphereDownsampled/Original/*.csv
 IonosphereDownsampled/Transformed
 IonosphereDownsampled/ASP/User*
-IonosphereDownsampled/Results
+IonosphereDownsampled/Results/User0
 IonosphereDownsampled/C++Src/parser
 IonosphereDownsampled/stats.csv
 IonosphereDownsampled/stats
@@ -121,7 +121,7 @@ SpectHeartDownsampled/Original/StrictExamples
 SpectHeartDownsampled/Original/*.csv
 SpectHeartDownsampled/Transformed
 SpectHeartDownsampled/ASP/User*
-SpectHeartDownsampled/Results
+SpectHeartDownsampled/Results/User0
 SpectHeartDownsampled/C++Src/parser
 SpectHeartDownsampled/stats.csv
 SpectHeartDownsampled/stats
@@ -130,7 +130,7 @@ VehicleDownsampledFurther/Original/StrictExamples
 VehicleDownsampledFurther/Original/*.csv
 VehicleDownsampledFurther/Transformed
 VehicleDownsampledFurther/ASP/User*
-VehicleDownsampledFurther/Results
+VehicleDownsampledFurther/Results/User0
 VehicleDownsampledFurther/C++Src/parser
 VehicleDownsampledFurther/stats.csv
 VehicleDownsampledFurther/stats
