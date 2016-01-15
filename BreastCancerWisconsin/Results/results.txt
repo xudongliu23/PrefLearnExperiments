@@ -1,0 +1,12 @@
+MaxLearn UIUP PLP-trees for user 0 iteration 0:
+
+Using training data:
+Satisfy 10 out of 10 (1) examples.
+
+Using testing data:
+Satisfy  out of 126777 () examples.
+
+
+MaxLearn UIUP PLP-trees for user 0 iteration 1:
+
+Using training data:

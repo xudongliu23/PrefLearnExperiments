@@ -1,0 +1,245 @@
+MaxLearn UIUP PLP-trees for user 0:
+
+
+Using training data number 0:
+0.CapSurface: g f y s 
+Satisfy 6 out of 6 (1) examples.
+
+Using testing data number 0:
+Satisfy 3652 out of 8442 (0.4326) examples.
+
+
+Using training data number 1:
+0.StalkShape: t e 
+1.CapSurface: s g f y 
+2.GillSize: n b 
+3.Odor: high medium low vhigh 
+4.Bruises: t f 
+Satisfy 6 out of 6 (1) examples.
+
+Using testing data number 1:
+Satisfy 5414 out of 8442 (0.6413) examples.
+
+
+Using training data number 2:
+0.GillSize: b n 
+1.CapShape: vhigh high low medium 
+2.Odor: medium high low vhigh 
+3.StalkShape: t e 
+4.Bruises: t f 
+Satisfy 6 out of 6 (1) examples.
+
+Using testing data number 2:
+Satisfy 4956 out of 8442 (0.5871) examples.
+
+
+Using training data number 3:
+0.GillSpacing: c d w 
+1.Bruises: f t 
+2.GillColor: vhigh medium high low 
+3.CapShape: medium low high vhigh 
+4.CapColor: high low medium vhigh 
+5.CapSurface: s g f y 
+6.GillSize: n b 
+7.Odor: medium vhigh low high 
+Satisfy 6 out of 6 (1) examples.
+
+Using testing data number 3:
+Satisfy 3125 out of 8442 (0.3702) examples.
+
+
+Using training data number 4:
+0.Bruises: t f 
+1.GillSize: b n 
+2.CapColor: vhigh medium low high 
+3.StalkShape: e t 
+Satisfy 6 out of 6 (1) examples.
+
+Using testing data number 4:
+Satisfy 4811 out of 8442 (0.5699) examples.
+
+
+Using training data number 5:
+0.CapShape: vhigh low high medium 
+1.Bruises: t f 
+2.GillColor: high medium vhigh low 
+3.Odor: high vhigh low medium 
+Satisfy 6 out of 6 (1) examples.
+
+Using testing data number 5:
+Satisfy 4586 out of 8442 (0.5432) examples.
+
+
+Using training data number 6:
+0.GillSpacing: w c d 
+1.Odor: high low vhigh medium 
+2.Bruises: t f 
+3.StalkShape: t e 
+4.CapShape: medium vhigh high low 
+5.GillSize: n b 
+Satisfy 6 out of 6 (1) examples.
+
+Using testing data number 6:
+Satisfy 5807 out of 8442 (0.6879) examples.
+
+
+Using training data number 7:
+0.StalkShape: t e 
+1.CapSurface: y g s f 
+2.GillColor: vhigh low high medium 
+3.CapShape: vhigh medium low high 
+Satisfy 6 out of 6 (1) examples.
+
+Using testing data number 7:
+Satisfy 5675 out of 8442 (0.6722) examples.
+
+
+Using training data number 8:
+0.StalkShape: t e 
+1.GillColor: low vhigh high medium 
+2.CapShape: medium vhigh low high 
+3.GillSize: b n 
+4.CapSurface: g s f y 
+5.GillSpacing: c d w 
+6.Odor: medium low vhigh high 
+Satisfy 6 out of 6 (1) examples.
+
+Using testing data number 8:
+Satisfy 6236 out of 8442 (0.7387) examples.
+
+
+Using training data number 9:
+0.GillColor: high vhigh low medium 
+1.Odor: low vhigh medium high 
+2.StalkShape: e t 
+3.CapSurface: f y g s 
+4.Bruises: t f 
+Satisfy 6 out of 6 (1) examples.
+
+Using testing data number 9:
+Satisfy 4199 out of 8442 (0.4974) examples.
+
+
+Using training data number 10:
+0.StalkShape: t e 
+1.GillSize: b n 
+2.CapShape: vhigh high low medium 
+3.GillColor: medium vhigh high low 
+4.CapColor: low high medium vhigh 
+5.CapSurface: s g y f 
+6.Odor: high medium vhigh low 
+Satisfy 6 out of 6 (1) examples.
+
+Using testing data number 10:
+Satisfy 6285 out of 8442 (0.7445) examples.
+
+
+Using training data number 11:
+0.StalkShape: t e 
+1.GillAttachment: d f a n 
+2.Odor: vhigh high low medium 
+3.GillSpacing: d c w 
+4.Bruises: t f 
+Satisfy 6 out of 6 (1) examples.
+
+Using testing data number 11:
+Satisfy 6090 out of 8442 (0.7214) examples.
+
+
+Using training data number 12:
+0.StalkShape: t e 
+1.GillSpacing: c w d 
+2.CapSurface: f s y g 
+3.CapColor: vhigh medium low high 
+Satisfy 6 out of 6 (1) examples.
+
+Using testing data number 12:
+Satisfy 6215 out of 8442 (0.7362) examples.
+
+
+Using training data number 13:
+0.Odor: high medium low vhigh 
+1.CapShape: medium low vhigh high 
+2.GillSpacing: c d w 
+3.GillSize: b n 
+4.StalkShape: t e 
+Satisfy 6 out of 6 (1) examples.
+
+Using testing data number 13:
+Satisfy 5299 out of 8442 (0.6277) examples.
+
+
+Using training data number 14:
+0.Odor: low high vhigh medium 
+1.GillSize: n b 
+2.StalkShape: t e 
+Satisfy 6 out of 6 (1) examples.
+
+Using testing data number 14:
+Satisfy 5818 out of 8442 (0.6892) examples.
+
+
+Using training data number 15:
+0.CapColor: vhigh low high medium 
+1.GillSpacing: w c d 
+2.CapShape: medium high vhigh low 
+3.Bruises: f t 
+4.Odor: vhigh low high medium 
+5.StalkShape: t e 
+Satisfy 6 out of 6 (1) examples.
+
+Using testing data number 15:
+Satisfy 5318 out of 8442 (0.6299) examples.
+
+
+Using training data number 16:
+0.Bruises: f t 
+1.StalkShape: t e 
+2.Odor: low medium vhigh high 
+Satisfy 6 out of 6 (1) examples.
+
+Using testing data number 16:
+Satisfy 4830 out of 8442 (0.5721) examples.
+
+
+Using training data number 17:
+0.Bruises: t f 
+1.StalkShape: t e 
+2.CapShape: low high medium vhigh 
+3.GillSize: n b 
+4.GillColor: low medium vhigh high 
+5.CapSurface: s g y f 
+Satisfy 6 out of 6 (1) examples.
+
+Using testing data number 17:
+Satisfy 5218 out of 8442 (0.6181) examples.
+
+
+Using training data number 18:
+0.CapSurface: f y s g 
+1.GillSize: b n 
+2.GillSpacing: c w d 
+3.Odor: vhigh medium high low 
+4.Bruises: t f 
+5.CapShape: vhigh low medium high 
+6.StalkShape: t e 
+7.CapColor: vhigh low high medium 
+Satisfy 6 out of 6 (1) examples.
+
+Using testing data number 18:
+Satisfy 5225 out of 8442 (0.6189) examples.
+
+
+Using training data number 19:
+0.GillColor: low high medium vhigh 
+1.GillSpacing: w d c 
+2.StalkShape: e t 
+3.CapSurface: y g f s 
+4.Bruises: f t 
+5.Odor: low high medium vhigh 
+Satisfy 6 out of 6 (1) examples.
+
+Using testing data number 19:
+Satisfy 5027 out of 8442 (0.5955) examples.
+
+

@@ -6,25 +6,31 @@
 #include <string.h>
 using namespace std;
 
-void getStatsSingle(string path);
+void getStatsSingle(string path, int sampleSize);
 
 int main(int argc, char** argv) {
+#if 0
 	string path = argv[2];
 	if(strcmp(argv[1], "acuracy") == 0) {
 		getStatsSingle(path);
 	}
 	else if(strcmp(argv[1], "time") == 0) {
-		getAvgRunTime(path);
+		//getAvgRunTime(path);
 	}
+#endif
+
+	string path = argv[1];
+	int sampleSize = atoi(argv[2]);
+	getStatsSingle(path, sampleSize);
 
 
 	return 0;
 }
 
-void getStatsSingle(string path) {
+void getStatsSingle(string path, int sampleSize) {
 	ifstream ifile;
-	double table[3];
-	for(int i=0; i<3; i++) {
+	double table[2];
+	for(int i=0; i<2; i++) {
 		table[i] = 0.0;
 	}
 
@@ -45,18 +51,10 @@ void getStatsSingle(string path) {
 					table[0] += atof(line.substr(foundLeftPar+1, foundRightPar-foundLeftPar-1).c_str());
 
 					satStringInd++;
-				}
-				else if(satStringInd == 1) {
+				} else {
 					size_t foundLeftPar = line.find("(");
 					size_t foundRightPar = line.find(")");
 					table[1] += atof(line.substr(foundLeftPar+1, foundRightPar-foundLeftPar-1).c_str());
-
-					satStringInd++;
-				}
-				else {
-					size_t foundLeftPar = line.find("(");
-					size_t foundRightPar = line.find(")");
-					table[2] += atof(line.substr(foundLeftPar+1, foundRightPar-foundLeftPar-1).c_str());
 
 					satStringInd = 0;
 				}
@@ -65,9 +63,11 @@ void getStatsSingle(string path) {
 	}
 	ifile.close();
 
-	for(int i=0; i<3; i++) {
-		cout << table[i] / 20 << ",";
-	}
+	cout << sampleSize << ",";
+	//for(int i=0; i<2; i++) {
+	//	cout << table[i] / 20 << ",";
+	//}
+	cout << table[0] / 20 << "," << table[1] / 20;
 	cout << endl;
 
 }

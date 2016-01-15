@@ -1,0 +1,168 @@
+MaxLearn UIUP PLP-trees for user 0:
+
+
+Using training data number 0:
+0.MarginalAdhesion: medium low high vhigh 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 0:
+Satisfy 4264 out of 9006 (0.4735) examples.
+
+
+Using training data number 1:
+0.SingleEpithelialCellSize: low high medium vhigh 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 1:
+Satisfy 4931 out of 9006 (0.5475) examples.
+
+
+Using training data number 2:
+0.BlandChromatin: medium low high vhigh 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 2:
+Satisfy 4656 out of 9006 (0.5170) examples.
+
+
+Using training data number 3:
+0.BareNuclei: medium high low vhigh 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 3:
+Satisfy 5129 out of 9006 (0.5695) examples.
+
+
+Using training data number 4:
+0.BlandChromatin: low vhigh medium high 
+1.ClumpThickness: high low vhigh medium 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 4:
+Satisfy 6466 out of 9006 (0.7180) examples.
+
+
+Using training data number 5:
+0.UniformityofCellSize: low medium high vhigh 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 5:
+Satisfy 6664 out of 9006 (0.7400) examples.
+
+
+Using training data number 6:
+0.MarginalAdhesion: medium low vhigh high 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 6:
+Satisfy 4306 out of 9006 (0.4781) examples.
+
+
+Using training data number 7:
+0.UniformityofCellSize: medium low high vhigh 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 7:
+Satisfy 4502 out of 9006 (0.4999) examples.
+
+
+Using training data number 8:
+0.ClumpThickness: medium low vhigh high 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 8:
+Satisfy 5433 out of 9006 (0.6033) examples.
+
+
+Using training data number 9:
+0.ClumpThickness: low medium high vhigh 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 9:
+Satisfy 6432 out of 9006 (0.7142) examples.
+
+
+Using training data number 10:
+0.UniformityofCellSize: high low vhigh medium 
+1.SingleEpithelialCellSize: high vhigh medium low 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 10:
+Satisfy 5290 out of 9006 (0.5874) examples.
+
+
+Using training data number 11:
+0.UniformityofCellSize: medium low vhigh high 
+1.SingleEpithelialCellSize: medium high vhigh low 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 11:
+Satisfy 4710 out of 9006 (0.5230) examples.
+
+
+Using training data number 12:
+0.ClumpThickness: high low medium vhigh 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 12:
+Satisfy 4110 out of 9006 (0.4564) examples.
+
+
+Using training data number 13:
+0.SingleEpithelialCellSize: low vhigh medium high 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 13:
+Satisfy 4508 out of 9006 (0.5006) examples.
+
+
+Using training data number 14:
+0.SingleEpithelialCellSize: low vhigh medium high 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 14:
+Satisfy 4508 out of 9006 (0.5006) examples.
+
+
+Using training data number 15:
+0.SingleEpithelialCellSize: medium vhigh high low 
+1.UniformityofCellSize: vhigh low medium high 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 15:
+Satisfy 2850 out of 9006 (0.3165) examples.
+
+
+Using training data number 16:
+0.UniformityofCellShape: high low medium vhigh 
+1.BlandChromatin: high medium vhigh low 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 16:
+Satisfy 4953 out of 9006 (0.5500) examples.
+
+
+Using training data number 17:
+0.MarginalAdhesion: low medium vhigh high 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 17:
+Satisfy 5476 out of 9006 (0.6080) examples.
+
+
+Using training data number 18:
+0.BareNuclei: medium low vhigh high 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 18:
+Satisfy 5601 out of 9006 (0.6219) examples.
+
+
+Using training data number 19:
+0.ClumpThickness: low high medium vhigh 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 19:
+Satisfy 5208 out of 9006 (0.5783) examples.
+
+

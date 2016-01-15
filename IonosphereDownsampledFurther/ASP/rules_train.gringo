@@ -1,0 +1,65 @@
+%%%% MaxLearn, UI-UP PLP-trees, multi-value issues
+
+%%%%%%% BEGIN Generate search space
+{issue(0..N-1)} :- totalNumberOfIssues(N).
+numberOfIssues(NN) :- NN = #count {issue(X)}.
+level(0..L-1) :- numberOfIssues(L).
+0{ label(L, X, Pos, Val) : issueDom(X, Val) }1 :- level(L), issueDom(X, Pos), issue(X).
+
+%% Test
+% No issue appears on two different levels.
+:- label(L1, X1, P1, V1), label(L2, X1, P2, V2), L1 != L2.
+% No level has two different issues on it.
+:- label(L1, X1, P1, V1), label(L1, X2, P2, V2), X1 != X2.
+% Make sure the number of labels for every level is equal to the size of the domain of the issue on that level.
+:- issue(X), domSize(X, S), C = #count{ label(L, X, P, V) }, S != C.
+% Local pref order involves all values of the issue.
+:- label(L1, X1, P1, V1), label(L1, X1, P2, V2), P1 != P2, V1 == V2.
+% Make sure no level is skipped.
+levelGen(L) :- label(L, X, P, V).
+:- numberOfIssues(LL), C=#count{ levelGen(L) }, C != LL.
+
+% Impose that we select no more than mn issues.
+:- numberOfIssues(C), C > mn.
+%%%%%%% END Generate search space
+
+
+%%%%%%% BEGIN Preprocessing
+% Compute NEQ
+neq(X) :- equivExample(ID1,ID2), outcome(ID1,X,V1), outcome(ID2,X,V2), V1 != V2.
+% Remove issues in NEQ
+:- label(L, X, P, V), neq(X).
+
+% Compute EQ
+eqEach(ID1, ID2, X) :- strictExample(ID1,ID2), outcome(ID1,X,V), outcome(ID2,X,V).
+eq(X) :- numberOfStrict(NS), issue(X), NS#count { eqEach(ID1, ID2, X) } NS.
+% Remove issues in EQ
+:- label(L, X, P, V), eq(X).
+%%%%%%% END Preprocessing
+
+
+%%%%%%% BEGIN Define satisfiability of strict examples
+% For each strict example, compute the first level on which they differ.
+diff(ID1, ID2, X) :- strictExample(ID1,ID2), outcome(ID1,X,V1), 
+	outcome(ID2,X,V2), V1 != V2.
+firstDiff(ID1, ID2, MinL) :- strictExample(ID1,ID2), 
+	MinL = #min[ label(L,X,P,V) : diff(ID1,ID2,X) = L ].
+
+% Define what it means to satisfy a strict example.
+%position(ID1, ID2, P1) :- firstDiff(ID1,ID2,MinL), outcome(ID1,X,V), label(MinL,X,P1,V).
+%position(ID1, ID2, P2) :- firstDiff(ID1,ID2,MinL), outcome(ID2,X,V), label(MinL,X,P2,V).
+%strictSat(ID1, ID2) :- position(ID1, ID2, P1), position(ID1, ID2, P2), P1 < P2.
+strictSat(ID1, ID2) :- firstDiff(ID1,ID2,MinL), outcome(ID1,X,V1), outcome(ID2,X,V2), 
+	label(MinL,X,P1,V1), label(MinL,X,P2,V2), P1 < P2.
+%%%%%%% END Define satisfiability of strict examples
+
+
+%%%%%%% BEGIN Optimization
+% Maximize the number of satisified examples, then minimize the size of the UI-UP model.
+#maximize { strictSat(ID1, ID2) @ 2}.
+%#minimize { label(L, X, P, V) @ 1}.
+%%%%%%% END Optimization
+
+%% Show
+#hide.
+#show label/4.

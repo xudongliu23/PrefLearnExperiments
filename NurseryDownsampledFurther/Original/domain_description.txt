@@ -1,0 +1,8 @@
+Parents:usual,pretentious,great_pret
+HasNurs:proper,less_proper,improper,critical
+Form:complete,completed,incomplete,foster
+Children:1,2,3,more
+Housing:convenient,less_conv,critical
+Finance:convenient,inconv
+Social:nonprob,slightly_prob,problematic
+Health:recommended,priority,not_recom

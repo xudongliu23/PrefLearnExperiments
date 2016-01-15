@@ -3,42 +3,36 @@
 ## This script creates strict_examples.gringo and outcomes.gringo for ASP experiments.
 
 number_of_users=$1
-transformed_dir=$2
-ASP_dir=$3
-pair_prefs=$4
-examples_ASP=$5
-number_of_strict_ex=$6
+number_of_iterations=$2
+transformed_dir=$3
+ASP_dir=$4
+pair_prefs=$5
+examples_ASP=$6
+number_of_strict_ex=$7
 
 ## for strict_examples.gringo
 function strictExamples {
 	for (( i=0; i<$number_of_users; i+=1 )); do
 		if [ ! -d ${ASP_dir}/User${i} ]; then
 			mkdir ${ASP_dir}/User${i}
+			mkdir ${ASP_dir}/User${i}/Training
+			mkdir ${ASP_dir}/User${i}/Testing
 		fi
 
-    for (( j=0; j<2; j+=1 )); do
-      for (( k=0; k<10; k+=1 )); do
-				# Strict examples ASP encoding for training (1000 examples)
-				if [ -f ${transformed_dir}/User${i}/Training/prefs${j}${k}.csv ]; then
-					cp ${transformed_dir}/User${i}/Training/prefs${j}${k}.csv ${ASP_dir}/User${i}/Training/examples${j}${k}.gringo
-				fi
-				sed -i "s/^/strictExample(/g" ${ASP_dir}/User${i}/Training/examples${j}${k}.gringo
-				sed -i "s/$/)./g" ${ASP_dir}/User${i}/Training/examples${j}${k}.gringo
-
-				# Strict examples ASP encoding for testing (1000 examples)
-				if [ -f ${transformed_dir}/User${i}/Testing/prefs${j}${k}.csv ]; then
-					cp ${transformed_dir}/User${i}/Testing/prefs${j}${k}.csv ${ASP_dir}/User${i}/Testing/examples${j}${k}.gringo
-				fi
-				sed -i "s/^/strictExample(/g" ${ASP_dir}/User${i}/Testing/examples${j}${k}.gringo
-				sed -i "s/$/)./g" ${ASP_dir}/User${i}/Testing/examples${j}${k}.gringo
-
-				# Strict examples ASP encoding for testing (all examples except the 1000 training examples)
-				if [ -f ${transformed_dir}/User${i}/Testing/prefs_extra${j}${k}.csv ]; then
-					cp ${transformed_dir}/User${i}/Testing/prefs_extra${j}${k}.csv ${ASP_dir}/User${i}/Testing/examples_extra${j}${k}.gringo
-				fi
-				sed -i "s/^/strictExample(/g" ${ASP_dir}/User${i}/Testing/examples_extra${j}${k}.gringo
-				sed -i "s/$/)./g" ${ASP_dir}/User${i}/Testing/examples_extra${j}${k}.gringo
-			done
+		for (( j=0; j<$number_of_iterations; j+=1 )); do
+			# Strict examples ASP encoding for training
+			if [ -f ${transformed_dir}/User${i}/Training/prefs${j}.csv ]; then
+				cp ${transformed_dir}/User${i}/Training/prefs${j}.csv ${ASP_dir}/User${i}/Training/examples${j}.gringo
+			fi
+			sed -i "s/^/strictExample(/g" ${ASP_dir}/User${i}/Training/examples${j}.gringo
+			sed -i "s/$/)./g" ${ASP_dir}/User${i}/Training/examples${j}.gringo
+	
+			# Strict examples ASP encoding for testing
+			if [ -f ${transformed_dir}/User${i}/Testing/prefs${j}.csv ]; then
+				cp ${transformed_dir}/User${i}/Testing/prefs${j}.csv ${ASP_dir}/User${i}/Testing/examples${j}.gringo
+			fi
+			sed -i "s/^/strictExample(/g" ${ASP_dir}/User${i}/Testing/examples${j}.gringo
+			sed -i "s/$/)./g" ${ASP_dir}/User${i}/Testing/examples${j}.gringo
 		done
 	done
 }
@@ -48,22 +42,18 @@ function numberOfStrictEx {
 	for (( i=0; i<$number_of_users; i+=1 )); do
 		if [ ! -d ${ASP_dir}/User${i} ]; then
 			mkdir ${ASP_dir}/User${i}
+			mkdir ${ASP_dir}/User${i}/Training
+			mkdir ${ASP_dir}/User${i}/Testing
 		fi
 
-    for (( j=0; j<2; j+=1 )); do
-      for (( k=0; k<10; k+=1 )); do
-				# Number of strict examples ASP encoding for training
-				NUMBER="$(wc -l ${ASP_dir}/User${i}/Training/examples${j}${k}.gringo | awk '{print($1)}')"
-				echo "numberOfStrict(${NUMBER})." > ${ASP_dir}/User${i}/Training/number_of_strict_examples${j}${k}.gringo
-
-				# Number of strict examples ASP encoding for testing (1000 examples)
-				NUMBER="$(wc -l ${ASP_dir}/User${i}/Testing/examples${j}${k}.gringo | awk '{print($1)}')"
-				echo "numberOfStrict(${NUMBER})." > ${ASP_dir}/User${i}/Testing/number_of_strict_examples${j}${k}.gringo
-
-				# Number of strict examples ASP encoding for testing (all examples except the 1000 training examples)
-				NUMBER="$(wc -l ${ASP_dir}/User${i}/Testing/examples_extra${j}${k}.gringo | awk '{print($1)}')"
-				echo "numberOfStrict(${NUMBER})." > ${ASP_dir}/User${i}/Testing/number_of_strict_examples_extra${j}${k}.gringo
-			done
+		for (( j=0; j<$number_of_iterations; j+=1 )); do
+			# Number of strict examples ASP encoding for training
+			NUMBER="$(wc -l ${ASP_dir}/User${i}/Training/examples${j}.gringo | awk '{print($1)}')"
+			echo "numberOfStrict(${NUMBER})." > ${ASP_dir}/User${i}/Training/number_of_strict_examples${j}.gringo
+	
+			# Number of strict examples ASP encoding for testing
+			NUMBER="$(wc -l ${ASP_dir}/User${i}/Testing/examples${j}.gringo | awk '{print($1)}')"
+			echo "numberOfStrict(${NUMBER})." > ${ASP_dir}/User${i}/Testing/number_of_strict_examples${j}.gringo
 		done
 	done
 }

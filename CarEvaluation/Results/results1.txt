@@ -1,0 +1,183 @@
+MaxLearn UIUP PLP-trees for user 0:
+
+
+Using training data number 0:
+0.Doors: 4 3 2 5more 
+1.BuyingPrice: vhigh high med low 
+2.Safety: high low med 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 0:
+Satisfy 321932 out of 682720 (0.4715) examples.
+
+
+Using training data number 1:
+0.Doors: 3 2 5more 4 
+1.MaintPrice: high vhigh med low 
+2.Safety: high low med 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 1:
+Satisfy 310679 out of 682720 (0.4551) examples.
+
+
+Using training data number 2:
+0.Safety: high med low 
+1.Luggage: small big med 
+2.Persons: 4 2 more 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 2:
+Satisfy 500127 out of 682720 (0.7326) examples.
+
+
+Using training data number 3:
+0.BuyingPrice: med high low vhigh 
+1.Safety: med low high 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 3:
+Satisfy 350971 out of 682720 (0.5141) examples.
+
+
+Using training data number 4:
+0.BuyingPrice: med low high vhigh 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 4:
+Satisfy 342060 out of 682720 (0.5010) examples.
+
+
+Using training data number 5:
+0.BuyingPrice: high vhigh med low 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 5:
+Satisfy 181428 out of 682720 (0.2657) examples.
+
+
+Using training data number 6:
+0.BuyingPrice: vhigh med low high 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 6:
+Satisfy 233052 out of 682720 (0.3414) examples.
+
+
+Using training data number 7:
+0.BuyingPrice: low med high vhigh 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 7:
+Satisfy 351495 out of 682720 (0.5148) examples.
+
+
+Using training data number 8:
+0.BuyingPrice: low med vhigh high 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 8:
+Satisfy 335943 out of 682720 (0.4921) examples.
+
+
+Using training data number 9:
+0.Safety: high med low 
+1.Doors: 4 3 5more 2 
+2.Luggage: big small med 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 9:
+Satisfy 520731 out of 682720 (0.7627) examples.
+
+
+Using training data number 10:
+0.Luggage: big med small 
+1.Doors: 2 4 5more 3 
+2.Safety: med low high 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 10:
+Satisfy 375466 out of 682720 (0.5500) examples.
+
+
+Using training data number 11:
+0.Luggage: med small big 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 11:
+Satisfy 213229 out of 682720 (0.3123) examples.
+
+
+Using training data number 12:
+0.BuyingPrice: vhigh high low med 
+1.Persons: 2 more 4 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 12:
+Satisfy 197631 out of 682720 (0.2895) examples.
+
+
+Using training data number 13:
+0.Safety: high low med 
+1.Doors: 5more 4 2 3 
+2.Persons: 2 4 more 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 13:
+Satisfy 380379 out of 682720 (0.5572) examples.
+
+
+Using training data number 14:
+0.BuyingPrice: med vhigh low high 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 14:
+Satisfy 276324 out of 682720 (0.4047) examples.
+
+
+Using training data number 15:
+0.MaintPrice: med low vhigh high 
+1.BuyingPrice: high vhigh low med 
+2.Safety: high low med 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 15:
+Satisfy 378713 out of 682720 (0.5547) examples.
+
+
+Using training data number 16:
+0.MaintPrice: low high med vhigh 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 16:
+Satisfy 315511 out of 682720 (0.4621) examples.
+
+
+Using training data number 17:
+0.Luggage: small big med 
+1.Doors: 5more 4 3 2 
+2.Safety: low med high 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 17:
+Satisfy 291289 out of 682720 (0.4267) examples.
+
+
+Using training data number 18:
+0.Safety: med low high 
+1.Doors: 4 5more 2 3 
+2.Luggage: small med big 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 18:
+Satisfy 282116 out of 682720 (0.4132) examples.
+
+
+Using training data number 19:
+0.BuyingPrice: med high vhigh low 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 19:
+Satisfy 254184 out of 682720 (0.3723) examples.
+
+

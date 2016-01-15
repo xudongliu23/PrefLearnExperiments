@@ -1,0 +1,226 @@
+MaxLearn UIUP PLP-trees for user 0:
+
+
+Using training data number 0:
+0.Age: 10 30 40 20 50 60 70 90 80 
+1.BI-RADS: 3 1 2 4 5 
+2.Shape: 4 2 3 1 
+3.Margin: 3 2 5 1 4 
+Satisfy 20 out of 20 (1) examples.
+
+Using testing data number 0:
+Satisfy 139986 out of 165869 (0.8440) examples.
+
+
+Using training data number 1:
+0.Age: 10 20 30 40 50 60 70 90 80 
+1.BI-RADS: 1 3 5 2 4 
+2.Density: 2 4 1 3 
+3.Margin: 2 5 1 3 4 
+4.Shape: 3 2 1 4 
+Satisfy 20 out of 20 (1) examples.
+
+Using testing data number 1:
+Satisfy 146432 out of 165869 (0.8828) examples.
+
+
+Using training data number 2:
+0.Age: 20 90 30 40 50 10 60 70 80 
+1.Density: 4 2 3 1 
+2.Margin: 4 5 2 3 1 
+3.BI-RADS: 4 2 1 3 5 
+4.Shape: 3 4 2 1 
+Satisfy 20 out of 20 (1) examples.
+
+Using testing data number 2:
+Satisfy 143281 out of 165869 (0.8638) examples.
+
+
+Using training data number 3:
+0.Age: 30 40 20 50 80 70 90 10 60 
+1.Density: 1 4 2 3 
+2.Shape: 1 4 3 2 
+3.Margin: 4 1 5 2 3 
+Satisfy 20 out of 20 (1) examples.
+
+Using testing data number 3:
+Satisfy 119553 out of 165869 (0.7208) examples.
+
+
+Using training data number 4:
+0.Age: 20 40 30 50 60 90 10 70 80 
+1.Margin: 1 2 5 4 3 
+2.Shape: 2 4 1 3 
+3.BI-RADS: 2 1 3 4 5 
+Satisfy 20 out of 20 (1) examples.
+
+Using testing data number 4:
+Satisfy 136277 out of 165869 (0.8216) examples.
+
+
+Using training data number 5:
+0.Age: 30 20 40 50 60 90 10 70 80 
+1.Margin: 1 2 5 3 4 
+Satisfy 20 out of 20 (1) examples.
+
+Using testing data number 5:
+Satisfy 138135 out of 165869 (0.8328) examples.
+
+
+Using training data number 6:
+0.Age: 20 90 30 50 40 60 70 10 80 
+1.Margin: 1 2 4 5 3 
+2.Shape: 4 1 2 3 
+3.Density: 4 1 3 2 
+4.BI-RADS: 4 3 1 2 5 
+Satisfy 20 out of 20 (1) examples.
+
+Using testing data number 6:
+Satisfy 126748 out of 165869 (0.7641) examples.
+
+
+Using training data number 7:
+0.Age: 20 30 90 40 50 10 80 60 70 
+1.Density: 1 4 2 3 
+2.Margin: 5 3 1 2 4 
+Satisfy 18 out of 20 (0.9) examples.
+
+Using testing data number 7:
+Satisfy 134234 out of 165869 (0.8093) examples.
+
+
+Using training data number 8:
+0.Age: 20 30 40 50 90 10 60 80 70 
+1.Margin: 3 4 2 1 5 
+2.Density: 1 2 3 4 
+3.BI-RADS: 3 2 1 4 5 
+Satisfy 20 out of 20 (1) examples.
+
+Using testing data number 8:
+Satisfy 139499 out of 165869 (0.8410) examples.
+
+
+Using training data number 9:
+0.Age: 20 30 40 10 50 90 60 80 70 
+1.BI-RADS: 2 3 4 1 5 
+2.Margin: 4 5 2 1 3 
+Satisfy 20 out of 20 (1) examples.
+
+Using testing data number 9:
+Satisfy 139118 out of 165869 (0.8387) examples.
+
+
+Using training data number 10:
+0.Age: 10 40 90 20 50 30 70 60 80 
+1.Shape: 4 2 1 3 
+2.Margin: 3 2 1 5 4 
+Satisfy 20 out of 20 (1) examples.
+
+Using testing data number 10:
+Satisfy 112799 out of 165869 (0.6800) examples.
+
+
+Using training data number 11:
+0.Age: 10 40 30 50 20 80 90 60 70 
+1.BI-RADS: 5 1 2 4 3 
+2.Density: 2 3 4 1 
+3.Shape: 2 3 1 4 
+4.Margin: 2 1 3 4 5 
+Satisfy 20 out of 20 (1) examples.
+
+Using testing data number 11:
+Satisfy 121915 out of 165869 (0.7350) examples.
+
+
+Using training data number 12:
+0.Density: 2 3 4 1 
+1.Age: 90 40 50 60 70 20 30 80 10 
+2.BI-RADS: 3 4 5 1 2 
+3.Shape: 4 2 1 3 
+4.Margin: 4 1 3 5 2 
+Satisfy 20 out of 20 (1) examples.
+
+Using testing data number 12:
+Satisfy 104990 out of 165869 (0.6330) examples.
+
+
+Using training data number 13:
+0.BI-RADS: 3 4 5 2 1 
+1.Age: 10 90 30 40 50 60 70 20 80 
+2.Margin: 2 1 3 4 5 
+3.Density: 4 1 3 2 
+4.Shape: 3 4 2 1 
+Satisfy 20 out of 20 (1) examples.
+
+Using testing data number 13:
+Satisfy 121580 out of 165869 (0.7330) examples.
+
+
+Using training data number 14:
+0.Age: 20 40 10 90 50 30 60 70 80 
+1.Shape: 2 1 3 4 
+2.Margin: 3 4 2 1 5 
+3.BI-RADS: 2 3 1 4 5 
+Satisfy 19 out of 20 (0.95) examples.
+
+Using testing data number 14:
+Satisfy 128544 out of 165869 (0.7750) examples.
+
+
+Using training data number 15:
+0.Age: 30 20 80 40 90 50 60 70 10 
+1.Density: 4 3 1 2 
+2.Shape: 3 4 1 2 
+3.BI-RADS: 3 1 4 2 5 
+Satisfy 20 out of 20 (1) examples.
+
+Using testing data number 15:
+Satisfy 127681 out of 165869 (0.7698) examples.
+
+
+Using training data number 16:
+0.Age: 10 30 40 50 60 20 90 70 80 
+1.Margin: 2 4 1 3 5 
+2.Shape: 4 2 3 1 
+Satisfy 20 out of 20 (1) examples.
+
+Using testing data number 16:
+Satisfy 132020 out of 165869 (0.7959) examples.
+
+
+Using training data number 17:
+0.Age: 10 90 30 40 50 80 60 20 70 
+1.Density: 3 2 4 1 
+2.BI-RADS: 2 4 1 3 5 
+3.Shape: 4 1 2 3 
+4.Margin: 3 1 5 4 2 
+Satisfy 20 out of 20 (1) examples.
+
+Using testing data number 17:
+Satisfy 126338 out of 165869 (0.7617) examples.
+
+
+Using training data number 18:
+0.Density: 2 4 3 1 
+1.Age: 30 40 50 20 60 70 80 10 90 
+2.Shape: 3 1 2 4 
+3.BI-RADS: 2 3 5 4 1 
+4.Margin: 1 5 2 3 4 
+Satisfy 20 out of 20 (1) examples.
+
+Using testing data number 18:
+Satisfy 126893 out of 165869 (0.7650) examples.
+
+
+Using training data number 19:
+0.Age: 30 90 10 20 40 50 60 70 80 
+1.BI-RADS: 1 5 3 4 2 
+2.Margin: 3 1 5 2 4 
+3.Density: 1 2 4 3 
+4.Shape: 3 4 1 2 
+Satisfy 20 out of 20 (1) examples.
+
+Using testing data number 19:
+Satisfy 143619 out of 165869 (0.8659) examples.
+
+

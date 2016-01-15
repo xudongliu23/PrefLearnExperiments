@@ -1,0 +1,232 @@
+MaxLearn UIUP PLP-trees for user 0:
+
+
+Using training data number 0:
+0.Persons: more 4 2 
+1.Luggage: med big small 
+2.MaintPrice: vhigh high low med 
+3.Safety: med low high 
+Satisfy 5 out of 5 (1) examples.
+
+Using testing data number 0:
+Satisfy 488535 out of 682716 (0.7156) examples.
+
+
+Using training data number 1:
+0.MaintPrice: med low high vhigh 
+1.Luggage: big small med 
+2.Safety: high low med 
+3.BuyingPrice: vhigh high low med 
+4.Persons: more 4 2 
+Satisfy 5 out of 5 (1) examples.
+
+Using testing data number 1:
+Satisfy 425525 out of 682716 (0.6233) examples.
+
+
+Using training data number 2:
+0.Doors: 3 2 5more 4 
+1.Luggage: small big med 
+2.Persons: 4 more 2 
+3.Safety: high med low 
+Satisfy 5 out of 5 (1) examples.
+
+Using testing data number 2:
+Satisfy 334909 out of 682716 (0.4906) examples.
+
+
+Using training data number 3:
+0.Safety: high med low 
+1.Doors: 4 2 3 5more 
+2.Luggage: med small big 
+3.Persons: 4 2 more 
+4.BuyingPrice: low vhigh high med 
+Satisfy 5 out of 5 (1) examples.
+
+Using testing data number 3:
+Satisfy 516026 out of 682716 (0.7558) examples.
+
+
+Using training data number 4:
+0.Safety: high med low 
+1.MaintPrice: low med high vhigh 
+2.Persons: 4 2 more 
+3.Luggage: med big small 
+4.Doors: 5more 2 4 3 
+Satisfy 5 out of 5 (1) examples.
+
+Using testing data number 4:
+Satisfy 549700 out of 682716 (0.8052) examples.
+
+
+Using training data number 5:
+0.Doors: 4 2 5more 3 
+1.BuyingPrice: vhigh low med high 
+2.Luggage: small med big 
+3.Safety: med high low 
+4.MaintPrice: low high med vhigh 
+5.Persons: 2 4 more 
+Satisfy 5 out of 5 (1) examples.
+
+Using testing data number 5:
+Satisfy 334639 out of 682716 (0.4902) examples.
+
+
+Using training data number 6:
+0.MaintPrice: med high vhigh low 
+1.Safety: low high med 
+2.Persons: more 4 2 
+3.BuyingPrice: med high low vhigh 
+4.Luggage: big small med 
+Satisfy 5 out of 5 (1) examples.
+
+Using testing data number 6:
+Satisfy 332562 out of 682716 (0.4871) examples.
+
+
+Using training data number 7:
+0.MaintPrice: med low vhigh high 
+1.Safety: high med low 
+2.Luggage: big small med 
+Satisfy 5 out of 5 (1) examples.
+
+Using testing data number 7:
+Satisfy 437421 out of 682716 (0.6407) examples.
+
+
+Using training data number 8:
+0.Persons: 4 more 2 
+1.BuyingPrice: med vhigh high low 
+2.Safety: med high low 
+3.Doors: 3 5more 4 2 
+Satisfy 5 out of 5 (1) examples.
+
+Using testing data number 8:
+Satisfy 493609 out of 682716 (0.7230) examples.
+
+
+Using training data number 9:
+0.Safety: med high low 
+1.Persons: more 4 2 
+2.BuyingPrice: low med high vhigh 
+3.Luggage: small med big 
+4.Doors: 3 5more 2 4 
+5.MaintPrice: low vhigh high med 
+Satisfy 5 out of 5 (1) examples.
+
+Using testing data number 9:
+Satisfy 521707 out of 682716 (0.7642) examples.
+
+
+Using training data number 10:
+0.Safety: high med low 
+1.Doors: 2 5more 4 3 
+2.Persons: 2 4 more 
+3.Luggage: small med big 
+Satisfy 5 out of 5 (1) examples.
+
+Using testing data number 10:
+Satisfy 497989 out of 682716 (0.7294) examples.
+
+
+Using training data number 11:
+0.MaintPrice: med low vhigh high 
+1.Safety: med high low 
+2.Doors: 3 5more 4 2 
+3.Luggage: big med small 
+Satisfy 5 out of 5 (1) examples.
+
+Using testing data number 11:
+Satisfy 428463 out of 682716 (0.6276) examples.
+
+
+Using training data number 12:
+0.Persons: more 2 4 
+1.BuyingPrice: vhigh low med high 
+2.MaintPrice: vhigh high low med 
+3.Luggage: small med big 
+4.Safety: low high med 
+Satisfy 5 out of 5 (1) examples.
+
+Using testing data number 12:
+Satisfy 321982 out of 682716 (0.4716) examples.
+
+
+Using training data number 13:
+0.Doors: 3 5more 2 4 
+1.Luggage: big small med 
+2.Safety: high low med 
+3.MaintPrice: med vhigh high low 
+4.Persons: 2 more 4 
+Satisfy 5 out of 5 (1) examples.
+
+Using testing data number 13:
+Satisfy 349639 out of 682716 (0.5121) examples.
+
+
+Using training data number 14:
+0.Persons: 4 more 2 
+1.Luggage: big med small 
+2.MaintPrice: med high low vhigh 
+3.Safety: low high med 
+4.BuyingPrice: vhigh high med low 
+Satisfy 5 out of 5 (1) examples.
+
+Using testing data number 14:
+Satisfy 512256 out of 682716 (0.7503) examples.
+
+
+Using training data number 15:
+0.Luggage: big small med 
+1.MaintPrice: vhigh low high med 
+2.Doors: 3 4 2 5more 
+3.Safety: high med low 
+4.BuyingPrice: high low vhigh med 
+Satisfy 5 out of 5 (1) examples.
+
+Using testing data number 15:
+Satisfy 343083 out of 682716 (0.5025) examples.
+
+
+Using training data number 16:
+0.MaintPrice: low med high vhigh 
+1.Luggage: med small big 
+2.Doors: 2 3 5more 4 
+Satisfy 5 out of 5 (1) examples.
+
+Using testing data number 16:
+Satisfy 408828 out of 682716 (0.5988) examples.
+
+
+Using training data number 17:
+0.Persons: 4 more 2 
+1.BuyingPrice: med low high vhigh 
+2.Luggage: med small big 
+3.Safety: low high med 
+Satisfy 5 out of 5 (1) examples.
+
+Using testing data number 17:
+Satisfy 516183 out of 682716 (0.7561) examples.
+
+
+Using training data number 18:
+0.Luggage: small med big 
+1.Doors: 4 2 3 5more 
+2.Safety: high low med 
+Satisfy 5 out of 5 (1) examples.
+
+Using testing data number 18:
+Satisfy 284589 out of 682716 (0.4168) examples.
+
+
+Using training data number 19:
+0.Safety: high med low 
+1.Doors: 2 3 4 5more 
+2.Luggage: big med small 
+3.Persons: more 4 2 
+Satisfy 5 out of 5 (1) examples.
+
+Using testing data number 19:
+Satisfy 517917 out of 682716 (0.7586) examples.
+
+

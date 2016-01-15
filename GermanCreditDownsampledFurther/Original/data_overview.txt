@@ -1,0 +1,5 @@
+#attributes:10
+#outcomes:914
+#users:1
+#strictExamples:172368
+#eqExamples:244873

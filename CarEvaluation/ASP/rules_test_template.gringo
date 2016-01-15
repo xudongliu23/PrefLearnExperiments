@@ -1,0 +1,27 @@
+%%%% MaxLearn, UI-UP PLP-trees, multi-value issues, Testing
+
+%%%%%%% BEGIN Define number of satisfied strict examples
+% For each strict example, compute the first level on which they differ.
+diff(ID1, ID2, X) :- strictExample(ID1,ID2), outcome(ID1,X,V1), 
+	outcome(ID2,X,V2), V1 != V2.
+firstDiff(ID1, ID2, MinL) :- strictExample(ID1,ID2), 
+	MinL = #min[ label(L,X,P,V) : diff(ID1,ID2,X) = L ].
+
+% Define what it means to satisfy a strict example.
+%position(ID1, ID2, P1) :- firstDiff(ID1,ID2,MinL), outcome(ID1,X,V), label(MinL,X,P1,V).
+%position(ID1, ID2, P2) :- firstDiff(ID1,ID2,MinL), outcome(ID2,X,V), label(MinL,X,P2,V).
+%strictSat(ID1, ID2) :- position(ID1, ID2, P1), position(ID1, ID2, P2), P1 < P2.
+strictSat(ID1, ID2) :- firstDiff(ID1,ID2,MinL), outcome(ID1,X,V1), outcome(ID2,X,V2), 
+	label(MinL,X,P1,V1), label(MinL,X,P2,V2), P1 < P2.
+
+% Define the number of satisfied strict examples.
+numberOfSatStrictEx(N) :- N = #count { strictSat(ID1, ID2) }.
+%%%%%%% END Define number of satisfied of strict examples
+
+
+
+%% Show
+#hide.
+#show numberOfSatStrictEx/1.
+
+

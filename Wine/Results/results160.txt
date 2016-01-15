@@ -1,0 +1,380 @@
+MaxLearn UIUP PLP-trees for user 0:
+
+
+Using training data number 00:
+0.Flavanoids: vhigh high medium low 
+1.OD280OfDilutedWines: vhigh high medium low 
+2.Proanthocyanins: high medium low vhigh 
+3.Hue: high medium vhigh low 
+4.MalicAcid: low vhigh high medium 
+Satisfy 156 out of 160 (0.975) examples.
+
+Using testing data number 00:
+Satisfy 150 out of 160 (0.9375) examples.
+
+Using extra testing data number 00:
+Satisfy 9699 out of 10269 (0.9445) examples.
+
+
+Using training data number 01:
+0.Flavanoids: vhigh high medium low 
+1.Proanthocyanins: medium low vhigh high 
+2.MalicAcid: medium low high vhigh 
+3.NonflavanoidPhenols: vhigh low high medium 
+4.OD280OfDilutedWines: high medium low vhigh 
+5.Proline: medium low vhigh high 
+6.Ash: high vhigh medium low 
+7.Hue: vhigh low high medium 
+Satisfy 156 out of 160 (0.975) examples.
+
+Using testing data number 01:
+Satisfy 153 out of 160 (0.9563) examples.
+
+Using extra testing data number 01:
+Satisfy 9613 out of 10269 (0.9361) examples.
+
+
+Using training data number 02:
+0.Flavanoids: vhigh high medium low 
+1.Hue: high medium vhigh low 
+2.Proanthocyanins: vhigh low medium high 
+3.OD280OfDilutedWines: vhigh low medium high 
+4.TotalPhenols: high vhigh low medium 
+5.NonflavanoidPhenols: low medium vhigh high 
+6.MalicAcid: low high vhigh medium 
+7.Alcohol: medium high low vhigh 
+Satisfy 154 out of 160 (0.9625) examples.
+
+Using testing data number 02:
+Satisfy 154 out of 160 (0.9625) examples.
+
+Using extra testing data number 02:
+Satisfy 9829 out of 10269 (0.9572) examples.
+
+
+Using training data number 03:
+0.Flavanoids: vhigh high medium low 
+1.Proline: vhigh high low medium 
+2.AlcalinityOfAsh: high vhigh medium low 
+3.Hue: medium vhigh low high 
+4.Magnesium: high low vhigh medium 
+5.Alcohol: high vhigh low medium 
+6.TotalPhenols: medium low vhigh high 
+Satisfy 157 out of 160 (0.98125) examples.
+
+Using testing data number 03:
+Satisfy 155 out of 160 (0.9688) examples.
+
+Using extra testing data number 03:
+Satisfy 9853 out of 10269 (0.9595) examples.
+
+
+Using training data number 04:
+0.Flavanoids: vhigh high medium low 
+1.Proline: high vhigh medium low 
+10.Proanthocyanins: medium vhigh low high 
+2.Hue: medium high low vhigh 
+3.NonflavanoidPhenols: vhigh medium high low 
+4.Ash: medium vhigh high low 
+5.OD280OfDilutedWines: medium vhigh low high 
+6.Alcohol: low medium vhigh high 
+7.AlcalinityOfAsh: medium high vhigh low 
+8.MalicAcid: vhigh high medium low 
+9.Magnesium: low medium vhigh high 
+Satisfy 156 out of 160 (0.975) examples.
+
+Using testing data number 04:
+Satisfy 154 out of 160 (0.9625) examples.
+
+Using extra testing data number 04:
+Satisfy 9761 out of 10269 (0.9505) examples.
+
+
+Using training data number 05:
+0.Flavanoids: vhigh high medium low 
+1.Hue: high medium vhigh low 
+2.OD280OfDilutedWines: medium vhigh high low 
+3.MalicAcid: low medium high vhigh 
+4.Proline: medium high vhigh low 
+5.Magnesium: vhigh high medium low 
+6.AlcalinityOfAsh: medium high low vhigh 
+7.Proanthocyanins: low medium high vhigh 
+8.Ash: medium vhigh high low 
+9.TotalPhenols: vhigh medium low high 
+Satisfy 156 out of 160 (0.975) examples.
+
+Using testing data number 05:
+Satisfy 154 out of 160 (0.9625) examples.
+
+Using extra testing data number 05:
+Satisfy 9834 out of 10269 (0.9576) examples.
+
+
+Using training data number 06:
+0.Flavanoids: vhigh high medium low 
+1.Hue: high vhigh medium low 
+2.Alcohol: high vhigh low medium 
+3.Proanthocyanins: high vhigh low medium 
+4.TotalPhenols: high vhigh low medium 
+Satisfy 157 out of 160 (0.98125) examples.
+
+Using testing data number 06:
+Satisfy 155 out of 160 (0.9688) examples.
+
+Using extra testing data number 06:
+Satisfy 9916 out of 10269 (0.9656) examples.
+
+
+Using training data number 07:
+0.Flavanoids: vhigh high medium low 
+1.Hue: high vhigh medium low 
+10.Proanthocyanins: vhigh medium high low 
+11.MalicAcid: high low medium vhigh 
+2.Alcohol: medium vhigh high low 
+3.NonflavanoidPhenols: low vhigh high medium 
+4.Ash: medium low high vhigh 
+5.Proline: medium vhigh low high 
+6.TotalPhenols: medium low high vhigh 
+7.AlcalinityOfAsh: high low vhigh medium 
+8.Magnesium: high low vhigh medium 
+9.OD280OfDilutedWines: medium vhigh low high 
+Satisfy 156 out of 160 (0.975) examples.
+
+Using testing data number 07:
+Satisfy 157 out of 160 (0.9812) examples.
+
+Using extra testing data number 07:
+Satisfy 9865 out of 10269 (0.9607) examples.
+
+
+Using training data number 08:
+0.Flavanoids: vhigh high medium low 
+1.Hue: medium high vhigh low 
+2.Proanthocyanins: low vhigh medium high 
+3.AlcalinityOfAsh: low high vhigh medium 
+4.NonflavanoidPhenols: low vhigh medium high 
+5.Magnesium: low vhigh medium high 
+6.Alcohol: high vhigh low medium 
+7.OD280OfDilutedWines: low medium high vhigh 
+8.Ash: medium vhigh high low 
+Satisfy 155 out of 160 (0.96875) examples.
+
+Using testing data number 08:
+Satisfy 149 out of 160 (0.9313) examples.
+
+Using extra testing data number 08:
+Satisfy 9730 out of 10269 (0.9475) examples.
+
+
+Using training data number 09:
+0.Flavanoids: vhigh high medium low 
+1.Hue: high medium vhigh low 
+2.MalicAcid: vhigh medium high low 
+3.Proanthocyanins: high low medium vhigh 
+4.Ash: medium high low vhigh 
+5.NonflavanoidPhenols: vhigh high low medium 
+6.Magnesium: high vhigh medium low 
+Satisfy 158 out of 160 (0.9875) examples.
+
+Using testing data number 09:
+Satisfy 156 out of 160 (0.9750) examples.
+
+Using extra testing data number 09:
+Satisfy 9875 out of 10269 (0.9616) examples.
+
+
+Using training data number 10:
+0.Flavanoids: vhigh high medium low 
+1.MalicAcid: medium low vhigh high 
+2.Ash: vhigh low high medium 
+3.AlcalinityOfAsh: high medium low vhigh 
+4.Proline: high medium vhigh low 
+5.Alcohol: high vhigh low medium 
+6.Magnesium: high vhigh medium low 
+7.Hue: vhigh low high medium 
+Satisfy 157 out of 160 (0.98125) examples.
+
+Using testing data number 10:
+Satisfy 150 out of 160 (0.9375) examples.
+
+Using extra testing data number 10:
+Satisfy 9696 out of 10269 (0.9442) examples.
+
+
+Using training data number 11:
+0.Flavanoids: vhigh high medium low 
+1.AlcalinityOfAsh: low medium high vhigh 
+2.Hue: medium high vhigh low 
+3.Proanthocyanins: high medium low vhigh 
+4.NonflavanoidPhenols: high low vhigh medium 
+5.Alcohol: medium low high vhigh 
+6.MalicAcid: low high vhigh medium 
+Satisfy 156 out of 160 (0.975) examples.
+
+Using testing data number 11:
+Satisfy 152 out of 160 (0.9500) examples.
+
+Using extra testing data number 11:
+Satisfy 9852 out of 10269 (0.9594) examples.
+
+
+Using training data number 12:
+0.Flavanoids: vhigh high medium low 
+1.AlcalinityOfAsh: low medium vhigh high 
+10.Ash: vhigh medium low high 
+2.OD280OfDilutedWines: vhigh medium high low 
+3.Proanthocyanins: medium low vhigh high 
+4.Hue: medium high vhigh low 
+5.Alcohol: medium low vhigh high 
+6.NonflavanoidPhenols: high vhigh low medium 
+7.Magnesium: medium low vhigh high 
+8.TotalPhenols: vhigh medium low high 
+9.Proline: low vhigh medium high 
+Satisfy 156 out of 160 (0.975) examples.
+
+Using testing data number 12:
+Satisfy 155 out of 160 (0.9688) examples.
+
+Using extra testing data number 12:
+Satisfy 9789 out of 10269 (0.9533) examples.
+
+
+Using training data number 13:
+0.Flavanoids: vhigh high medium low 
+1.Proline: vhigh high low medium 
+2.TotalPhenols: vhigh high low medium 
+3.Alcohol: medium low high vhigh 
+4.Ash: medium low high vhigh 
+5.MalicAcid: low high medium vhigh 
+6.NonflavanoidPhenols: low vhigh high medium 
+7.Proanthocyanins: low high vhigh medium 
+8.Magnesium: low vhigh high medium 
+Satisfy 159 out of 160 (0.99375) examples.
+
+Using testing data number 13:
+Satisfy 154 out of 160 (0.9625) examples.
+
+Using extra testing data number 13:
+Satisfy 9854 out of 10269 (0.9596) examples.
+
+
+Using training data number 14:
+0.Flavanoids: vhigh high medium low 
+1.AlcalinityOfAsh: low medium high vhigh 
+10.MalicAcid: low medium vhigh high 
+11.Alcohol: vhigh low high medium 
+2.OD280OfDilutedWines: medium low vhigh high 
+3.Hue: high low medium vhigh 
+4.Proline: medium high vhigh low 
+5.Ash: high low vhigh medium 
+6.TotalPhenols: vhigh high low medium 
+7.Proanthocyanins: vhigh low high medium 
+8.Magnesium: low high medium vhigh 
+9.NonflavanoidPhenols: vhigh medium high low 
+Satisfy 156 out of 160 (0.975) examples.
+
+Using testing data number 14:
+Satisfy 151 out of 160 (0.9437) examples.
+
+Using extra testing data number 14:
+Satisfy 9784 out of 10269 (0.9528) examples.
+
+
+Using training data number 15:
+0.Flavanoids: vhigh high medium low 
+1.OD280OfDilutedWines: vhigh medium high low 
+2.Alcohol: vhigh high low medium 
+3.TotalPhenols: medium low vhigh high 
+4.MalicAcid: medium high low vhigh 
+5.Hue: medium vhigh low high 
+6.AlcalinityOfAsh: medium low high vhigh 
+7.Magnesium: low medium high vhigh 
+Satisfy 155 out of 160 (0.96875) examples.
+
+Using testing data number 15:
+Satisfy 151 out of 160 (0.9437) examples.
+
+Using extra testing data number 15:
+Satisfy 9706 out of 10269 (0.9452) examples.
+
+
+Using training data number 16:
+0.Flavanoids: vhigh high medium low 
+1.AlcalinityOfAsh: low medium vhigh high 
+10.Ash: vhigh high medium low 
+11.Proanthocyanins: medium high vhigh low 
+2.Proline: high vhigh low medium 
+3.NonflavanoidPhenols: high vhigh low medium 
+4.Magnesium: high low medium vhigh 
+5.OD280OfDilutedWines: low medium high vhigh 
+6.Hue: vhigh medium low high 
+7.TotalPhenols: medium high low vhigh 
+8.MalicAcid: high vhigh low medium 
+9.Alcohol: high low medium vhigh 
+Satisfy 159 out of 160 (0.99375) examples.
+
+Using testing data number 16:
+Satisfy 156 out of 160 (0.9750) examples.
+
+Using extra testing data number 16:
+Satisfy 9780 out of 10269 (0.9524) examples.
+
+
+Using training data number 17:
+0.Flavanoids: vhigh high medium low 
+1.TotalPhenols: vhigh high medium low 
+2.Hue: vhigh medium low high 
+3.Magnesium: low medium vhigh high 
+4.Ash: high medium low vhigh 
+5.OD280OfDilutedWines: low vhigh high medium 
+6.MalicAcid: medium high low vhigh 
+7.Proanthocyanins: medium low vhigh high 
+8.Alcohol: medium high vhigh low 
+9.Proline: medium vhigh high low 
+Satisfy 158 out of 160 (0.9875) examples.
+
+Using testing data number 17:
+Satisfy 153 out of 160 (0.9563) examples.
+
+Using extra testing data number 17:
+Satisfy 9449 out of 10269 (0.9201) examples.
+
+
+Using training data number 18:
+0.Flavanoids: vhigh high medium low 
+1.Hue: high vhigh medium low 
+2.Proanthocyanins: medium vhigh high low 
+3.NonflavanoidPhenols: low medium vhigh high 
+4.OD280OfDilutedWines: high vhigh medium low 
+5.Magnesium: vhigh high medium low 
+6.MalicAcid: medium high low vhigh 
+7.Ash: high low medium vhigh 
+Satisfy 154 out of 160 (0.9625) examples.
+
+Using testing data number 18:
+Satisfy 156 out of 160 (0.9750) examples.
+
+Using extra testing data number 18:
+Satisfy 9868 out of 10269 (0.9610) examples.
+
+
+Using training data number 19:
+0.Flavanoids: vhigh high medium low 
+1.Proline: vhigh high low medium 
+2.OD280OfDilutedWines: high vhigh medium low 
+3.Ash: medium vhigh low high 
+4.AlcalinityOfAsh: medium low vhigh high 
+5.NonflavanoidPhenols: low medium vhigh high 
+6.Hue: low vhigh medium high 
+7.TotalPhenols: high low vhigh medium 
+8.Magnesium: medium high low vhigh 
+9.Proanthocyanins: medium high low vhigh 
+Satisfy 158 out of 160 (0.9875) examples.
+
+Using testing data number 19:
+Satisfy 150 out of 160 (0.9375) examples.
+
+Using extra testing data number 19:
+Satisfy 9935 out of 10269 (0.9675) examples.
+
+

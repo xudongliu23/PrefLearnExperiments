@@ -1,0 +1,10 @@
+CapShape:low,medium,high,vhigh
+CapSurface:f,g,y,s
+CapColor:low,medium,high,vhigh
+Bruises:t,f
+Odor:low,medium,high,vhigh
+GillAttachment:a,d,f,n
+GillSpacing:c,w,d
+GillSize:b,n
+GillColor:low,medium,high,vhigh
+StalkShape:e,t

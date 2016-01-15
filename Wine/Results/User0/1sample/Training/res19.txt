@@ -1,0 +1,17 @@
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+
+Optimization: 1
+Answer: 2
+label(1,8,3,1) label(1,8,2,3) label(1,8,1,2) label(1,8,0,0) label(2,5,3,1) label(2,5,2,3) label(2,5,1,2) label(2,5,0,0) label(0,3,3,1) label(0,3,2,3) label(0,3,1,0) label(0,3,0,2)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 2.605s (Solving: 0.21s 1st Model: 0.02s Unsat: 0.00s)
+CPU Time     : 2.510s

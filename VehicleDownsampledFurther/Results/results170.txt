@@ -1,0 +1,308 @@
+MaxLearn UIUP PLP-trees for user 0:
+
+
+Using training data number 0:
+0.MaxLengthRatio: low medium high vhigh 
+1.ScatteRatio: medium vhigh high low 
+2.PrAxisRectangularity: high vhigh medium low 
+3.PrAxisRatio: low high vhigh medium 
+4.Circularity: high vhigh medium low 
+5.Compactness: low vhigh high medium 
+6.Elongatedness: low vhigh high medium 
+7.RadiusRatio: vhigh low high medium 
+Satisfy 137 out of 170 (0.805882) examples.
+
+Using testing data number 0:
+Satisfy 58840 out of 76543 (0.7687) examples.
+
+
+Using training data number 1:
+0.MaxLengthRatio: low medium high vhigh 
+1.ScatteRatio: vhigh high medium low 
+2.PrAxisRectangularity: medium low vhigh high 
+3.RadiusRatio: low high medium vhigh 
+4.PrAxisRatio: high vhigh medium low 
+5.Circularity: high low vhigh medium 
+6.Elongatedness: medium low vhigh high 
+7.Compactness: low medium high vhigh 
+Satisfy 142 out of 170 (0.835294) examples.
+
+Using testing data number 1:
+Satisfy 60211 out of 76543 (0.7866) examples.
+
+
+Using training data number 2:
+0.MaxLengthRatio: low medium high vhigh 
+1.PrAxisRectangularity: vhigh medium high low 
+2.RadiusRatio: low medium vhigh high 
+3.ScatteRatio: vhigh high low medium 
+4.Compactness: high medium vhigh low 
+5.MaxLengthRectangulari: medium high vhigh low 
+6.Circularity: vhigh medium high low 
+7.Elongatedness: vhigh high medium low 
+8.PrAxisRatio: vhigh medium high low 
+9.DistanceCircularity: low vhigh high medium 
+Satisfy 132 out of 170 (0.776471) examples.
+
+Using testing data number 2:
+Satisfy 58910 out of 76543 (0.7696) examples.
+
+
+Using training data number 3:
+0.MaxLengthRatio: low medium vhigh high 
+1.PrAxisRectangularity: vhigh medium high low 
+2.DistanceCircularity: medium vhigh low high 
+3.ScatteRatio: high vhigh medium low 
+4.PrAxisRatio: low high medium vhigh 
+5.Elongatedness: vhigh low medium high 
+6.Compactness: medium high low vhigh 
+7.Circularity: high low medium vhigh 
+8.MaxLengthRectangulari: medium high vhigh low 
+Satisfy 141 out of 170 (0.829412) examples.
+
+Using testing data number 3:
+Satisfy 58828 out of 76543 (0.7686) examples.
+
+
+Using training data number 4:
+0.MaxLengthRatio: low medium high vhigh 
+1.Compactness: vhigh low medium high 
+2.MaxLengthRectangulari: vhigh low medium high 
+3.Elongatedness: medium low high vhigh 
+4.Circularity: medium high vhigh low 
+5.DistanceCircularity: vhigh low high medium 
+6.PrAxisRatio: low high vhigh medium 
+7.PrAxisRectangularity: vhigh medium low high 
+8.ScatteRatio: high vhigh medium low 
+Satisfy 138 out of 170 (0.811765) examples.
+
+Using testing data number 4:
+Satisfy 57697 out of 76543 (0.7538) examples.
+
+
+Using training data number 5:
+0.MaxLengthRatio: low medium high vhigh 
+1.Elongatedness: low high medium vhigh 
+2.Compactness: low vhigh high medium 
+3.MaxLengthRectangulari: high medium low vhigh 
+4.PrAxisRatio: medium high low vhigh 
+5.ScatteRatio: medium vhigh low high 
+6.PrAxisRectangularity: low vhigh medium high 
+Satisfy 140 out of 170 (0.823529) examples.
+
+Using testing data number 5:
+Satisfy 59355 out of 76543 (0.7754) examples.
+
+
+Using training data number 6:
+0.MaxLengthRatio: low medium vhigh high 
+1.RadiusRatio: high vhigh medium low 
+2.Elongatedness: low high medium vhigh 
+3.ScatteRatio: vhigh low high medium 
+4.PrAxisRatio: high medium vhigh low 
+5.PrAxisRectangularity: high low vhigh medium 
+6.Compactness: vhigh low medium high 
+7.DistanceCircularity: high vhigh low medium 
+8.Circularity: high vhigh medium low 
+Satisfy 143 out of 170 (0.841176) examples.
+
+Using testing data number 6:
+Satisfy 58388 out of 76543 (0.7628) examples.
+
+
+Using training data number 7:
+0.MaxLengthRatio: low medium high vhigh 
+1.ScatteRatio: vhigh high medium low 
+2.Circularity: medium high vhigh low 
+3.DistanceCircularity: low high vhigh medium 
+4.Compactness: high low medium vhigh 
+5.MaxLengthRectangulari: high low vhigh medium 
+6.Elongatedness: low high vhigh medium 
+Satisfy 140 out of 170 (0.823529) examples.
+
+Using testing data number 7:
+Satisfy 60051 out of 76543 (0.7845) examples.
+
+
+Using training data number 8:
+0.MaxLengthRatio: low medium vhigh high 
+1.Circularity: vhigh high medium low 
+2.RadiusRatio: vhigh high low medium 
+3.Compactness: low vhigh high medium 
+4.DistanceCircularity: vhigh medium high low 
+5.PrAxisRatio: high vhigh low medium 
+6.ScatteRatio: medium low vhigh high 
+7.MaxLengthRectangulari: low high vhigh medium 
+Satisfy 143 out of 170 (0.841176) examples.
+
+Using testing data number 8:
+Satisfy 58898 out of 76543 (0.7695) examples.
+
+
+Using training data number 9:
+0.MaxLengthRatio: low medium high vhigh 
+1.ScatteRatio: vhigh medium high low 
+2.Elongatedness: medium low vhigh high 
+3.Compactness: vhigh medium low high 
+4.DistanceCircularity: medium vhigh low high 
+5.MaxLengthRectangulari: vhigh low high medium 
+6.RadiusRatio: low high medium vhigh 
+7.PrAxisRatio: low medium high vhigh 
+Satisfy 140 out of 170 (0.823529) examples.
+
+Using testing data number 9:
+Satisfy 59386 out of 76543 (0.7759) examples.
+
+
+Using training data number 10:
+0.MaxLengthRatio: low medium high vhigh 
+1.Elongatedness: medium low high vhigh 
+2.PrAxisRectangularity: vhigh medium high low 
+3.DistanceCircularity: low medium high vhigh 
+4.ScatteRatio: vhigh low high medium 
+5.PrAxisRatio: high medium low vhigh 
+6.Circularity: medium low vhigh high 
+7.MaxLengthRectangulari: high low medium vhigh 
+8.RadiusRatio: high low vhigh medium 
+Satisfy 143 out of 170 (0.841176) examples.
+
+Using testing data number 10:
+Satisfy 60053 out of 76543 (0.7846) examples.
+
+
+Using training data number 11:
+0.MaxLengthRatio: low medium high vhigh 
+1.PrAxisRectangularity: vhigh high medium low 
+2.ScatteRatio: high vhigh low medium 
+3.Elongatedness: vhigh high low medium 
+4.RadiusRatio: high vhigh low medium 
+5.Circularity: low vhigh medium high 
+6.MaxLengthRectangulari: low medium vhigh high 
+7.DistanceCircularity: vhigh high low medium 
+Satisfy 145 out of 170 (0.852941) examples.
+
+Using testing data number 11:
+Satisfy 59369 out of 76543 (0.7756) examples.
+
+
+Using training data number 12:
+0.MaxLengthRatio: low medium high vhigh 
+1.PrAxisRectangularity: vhigh high medium low 
+2.ScatteRatio: high vhigh low medium 
+3.PrAxisRatio: vhigh medium low high 
+4.RadiusRatio: high vhigh medium low 
+5.Circularity: vhigh medium high low 
+6.Elongatedness: high vhigh medium low 
+7.Compactness: high low medium vhigh 
+8.DistanceCircularity: medium vhigh low high 
+Satisfy 140 out of 170 (0.823529) examples.
+
+Using testing data number 12:
+Satisfy 59547 out of 76543 (0.7780) examples.
+
+
+Using training data number 13:
+0.MaxLengthRatio: low medium vhigh high 
+1.Elongatedness: medium low high vhigh 
+2.ScatteRatio: medium low high vhigh 
+3.DistanceCircularity: vhigh medium low high 
+4.Compactness: medium low high vhigh 
+5.PrAxisRectangularity: vhigh low medium high 
+6.Circularity: vhigh medium high low 
+Satisfy 144 out of 170 (0.847059) examples.
+
+Using testing data number 13:
+Satisfy 59102 out of 76543 (0.7721) examples.
+
+
+Using training data number 14:
+0.MaxLengthRatio: low medium vhigh high 
+1.Elongatedness: low medium high vhigh 
+2.ScatteRatio: medium vhigh high low 
+3.MaxLengthRectangulari: high medium vhigh low 
+4.PrAxisRectangularity: medium vhigh high low 
+5.Circularity: vhigh high medium low 
+6.RadiusRatio: low high vhigh medium 
+7.PrAxisRatio: medium low vhigh high 
+8.DistanceCircularity: medium vhigh low high 
+9.Compactness: vhigh medium low high 
+Satisfy 143 out of 170 (0.841176) examples.
+
+Using testing data number 14:
+Satisfy 59657 out of 76543 (0.7794) examples.
+
+
+Using training data number 15:
+0.MaxLengthRatio: low medium high vhigh 
+1.Elongatedness: low medium high vhigh 
+2.Compactness: vhigh low high medium 
+3.DistanceCircularity: high medium low vhigh 
+4.PrAxisRatio: high low vhigh medium 
+5.ScatteRatio: low vhigh medium high 
+6.Circularity: medium high low vhigh 
+7.MaxLengthRectangulari: low vhigh high medium 
+Satisfy 141 out of 170 (0.829412) examples.
+
+Using testing data number 15:
+Satisfy 60281 out of 76543 (0.7875) examples.
+
+
+Using training data number 16:
+0.PrAxisRectangularity: vhigh medium high low 
+1.ScatteRatio: low high vhigh medium 
+2.MaxLengthRatio: low medium high vhigh 
+3.Elongatedness: medium high vhigh low 
+4.Compactness: low high vhigh medium 
+5.Circularity: high vhigh medium low 
+6.MaxLengthRectangulari: low vhigh high medium 
+7.PrAxisRatio: low high medium vhigh 
+8.RadiusRatio: medium low high vhigh 
+Satisfy 135 out of 170 (0.794118) examples.
+
+Using testing data number 16:
+Satisfy 56011 out of 76543 (0.7318) examples.
+
+
+Using training data number 17:
+0.MaxLengthRatio: low medium high vhigh 
+1.Elongatedness: low medium high vhigh 
+2.Circularity: vhigh medium high low 
+3.DistanceCircularity: medium vhigh high low 
+4.MaxLengthRectangulari: medium low vhigh high 
+5.Compactness: high medium vhigh low 
+Satisfy 139 out of 170 (0.817647) examples.
+
+Using testing data number 17:
+Satisfy 60048 out of 76543 (0.7845) examples.
+
+
+Using training data number 18:
+0.MaxLengthRatio: low medium high vhigh 
+1.Elongatedness: low medium high vhigh 
+2.MaxLengthRectangulari: medium low vhigh high 
+3.ScatteRatio: vhigh medium low high 
+4.PrAxisRatio: high low medium vhigh 
+5.DistanceCircularity: low high vhigh medium 
+6.RadiusRatio: vhigh medium low high 
+7.Circularity: vhigh high low medium 
+Satisfy 137 out of 170 (0.805882) examples.
+
+Using testing data number 18:
+Satisfy 60088 out of 76543 (0.7850) examples.
+
+
+Using training data number 19:
+0.MaxLengthRatio: low medium high vhigh 
+1.ScatteRatio: vhigh high medium low 
+2.RadiusRatio: high low vhigh medium 
+3.MaxLengthRectangulari: vhigh high medium low 
+4.PrAxisRectangularity: high medium low vhigh 
+5.Compactness: medium vhigh low high 
+6.Elongatedness: vhigh high low medium 
+7.PrAxisRatio: high vhigh low medium 
+Satisfy 139 out of 170 (0.817647) examples.
+
+Using testing data number 19:
+Satisfy 60016 out of 76543 (0.7841) examples.
+
+

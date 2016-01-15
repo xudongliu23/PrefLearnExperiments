@@ -1,0 +1,13 @@
+Alcohol:low,medium,high,vhigh
+MalicAcid:low,medium,high,vhigh
+Ash:low,medium,high,vhigh
+AlcalinityOfAsh:low,medium,high,vhigh
+Magnesium:low,medium,high,vhigh
+TotalPhenols:low,medium,high,vhigh
+Flavanoids:low,medium,high,vhigh
+NonflavanoidPhenols:low,medium,high,vhigh
+Proanthocyanins:low,medium,high,vhigh
+ColorIntensity:low,medium,high,vhigh
+Hue:low,medium,high,vhigh
+OD280OfDilutedWines:low,medium,high,vhigh
+Proline:low,medium,high,vhigh

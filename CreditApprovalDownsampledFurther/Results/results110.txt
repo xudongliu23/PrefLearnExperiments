@@ -1,0 +1,299 @@
+MaxLearn UIUP PLP-trees for user 0:
+
+
+Using training data number 0:
+0.A9: t f 
+1.A10: t f 
+2.A7: high low medium vhigh 
+3.A1: b a 
+4.A3: high medium vhigh low 
+5.A2: high low vhigh medium 
+6.A5: g gg p 
+Satisfy 108 out of 110 (0.981818) examples.
+
+Using testing data number 0:
+Satisfy 59902 out of 65969 (0.9080) examples.
+
+
+Using training data number 1:
+0.A9: t f 
+1.A10: t f 
+2.A7: medium low vhigh high 
+3.A6: vhigh high low medium 
+4.A4: t l u y 
+5.A5: g gg p 
+6.A1: a b 
+Satisfy 110 out of 110 (1) examples.
+
+Using testing data number 1:
+Satisfy 59911 out of 65969 (0.9082) examples.
+
+
+Using training data number 2:
+0.A9: t f 
+1.A7: high low vhigh medium 
+2.A10: t f 
+3.A8: high vhigh low medium 
+4.A1: b a 
+5.A2: medium high vhigh low 
+6.A6: medium vhigh low high 
+Satisfy 105 out of 110 (0.954545) examples.
+
+Using testing data number 2:
+Satisfy 59940 out of 65969 (0.9086) examples.
+
+
+Using training data number 3:
+0.A9: t f 
+1.A6: low high vhigh medium 
+2.A7: high medium vhigh low 
+3.A5: g p gg 
+4.A8: low vhigh high medium 
+5.A4: l t u y 
+6.A10: f t 
+7.A3: vhigh medium high low 
+Satisfy 109 out of 110 (0.990909) examples.
+
+Using testing data number 3:
+Satisfy 58693 out of 65969 (0.8897) examples.
+
+
+Using training data number 4:
+0.A9: t f 
+1.A10: t f 
+2.A5: gg p g 
+3.A8: high low vhigh medium 
+4.A2: high low medium vhigh 
+5.A4: y t l u 
+6.A3: vhigh high medium low 
+7.A1: a b 
+Satisfy 108 out of 110 (0.981818) examples.
+
+Using testing data number 4:
+Satisfy 59859 out of 65969 (0.9074) examples.
+
+
+Using training data number 5:
+0.A9: t f 
+1.A7: high low vhigh medium 
+2.A6: high low medium vhigh 
+3.A1: b a 
+4.A3: high medium low vhigh 
+5.A8: low vhigh medium high 
+6.A2: medium vhigh high low 
+7.A4: t l y u 
+8.A5: gg g p 
+Satisfy 108 out of 110 (0.981818) examples.
+
+Using testing data number 5:
+Satisfy 59403 out of 65969 (0.9005) examples.
+
+
+Using training data number 6:
+0.A9: t f 
+1.A3: low high vhigh medium 
+2.A10: t f 
+3.A6: low medium vhigh high 
+4.A1: a b 
+5.A8: vhigh low high medium 
+Satisfy 105 out of 110 (0.954545) examples.
+
+Using testing data number 6:
+Satisfy 59435 out of 65969 (0.9010) examples.
+
+
+Using training data number 7:
+0.A9: t f 
+1.A10: t f 
+2.A5: gg g p 
+3.A4: l t y u 
+4.A1: a b 
+5.A6: high low medium vhigh 
+6.A3: vhigh low medium high 
+7.A7: vhigh medium high low 
+8.A8: vhigh high low medium 
+9.A2: high medium low vhigh 
+Satisfy 107 out of 110 (0.972727) examples.
+
+Using testing data number 7:
+Satisfy 60780 out of 65969 (0.9213) examples.
+
+
+Using training data number 8:
+0.A9: t f 
+1.A1: a b 
+2.A8: high low vhigh medium 
+3.A3: high low vhigh medium 
+4.A10: t f 
+5.A5: p gg g 
+Satisfy 102 out of 110 (0.927273) examples.
+
+Using testing data number 8:
+Satisfy 58698 out of 65969 (0.8898) examples.
+
+
+Using training data number 9:
+0.A9: t f 
+1.A6: low high vhigh medium 
+2.A2: low medium vhigh high 
+3.A3: low high vhigh medium 
+4.A5: gg g p 
+5.A4: u l t y 
+6.A10: f t 
+7.A8: low medium vhigh high 
+Satisfy 107 out of 110 (0.972727) examples.
+
+Using testing data number 9:
+Satisfy 58858 out of 65969 (0.8922) examples.
+
+
+Using training data number 10:
+0.A9: t f 
+1.A10: t f 
+2.A7: low vhigh medium high 
+3.A3: low vhigh medium high 
+4.A2: vhigh medium low high 
+5.A1: a b 
+6.A4: t y l u 
+7.A6: medium low vhigh high 
+8.A5: g p gg 
+9.A8: low vhigh medium high 
+Satisfy 105 out of 110 (0.954545) examples.
+
+Using testing data number 10:
+Satisfy 59890 out of 65969 (0.9079) examples.
+
+
+Using training data number 11:
+0.A9: t f 
+1.A4: l t u y 
+2.A10: t f 
+3.A7: low vhigh high medium 
+4.A3: vhigh high low medium 
+Satisfy 106 out of 110 (0.963636) examples.
+
+Using testing data number 11:
+Satisfy 60153 out of 65969 (0.9118) examples.
+
+
+Using training data number 12:
+0.A9: t f 
+1.A8: high vhigh medium low 
+2.A4: t u y l 
+3.A5: gg p g 
+4.A2: medium vhigh low high 
+5.A7: vhigh medium high low 
+6.A6: vhigh low medium high 
+7.A3: vhigh high medium low 
+8.A10: f t 
+9.A1: b a 
+Satisfy 107 out of 110 (0.972727) examples.
+
+Using testing data number 12:
+Satisfy 59025 out of 65969 (0.8947) examples.
+
+
+Using training data number 13:
+0.A9: t f 
+1.A7: vhigh low high medium 
+2.A10: t f 
+3.A2: medium high vhigh low 
+4.A1: b a 
+5.A8: high low medium vhigh 
+6.A5: gg g p 
+Satisfy 108 out of 110 (0.981818) examples.
+
+Using testing data number 13:
+Satisfy 58628 out of 65969 (0.8887) examples.
+
+
+Using training data number 14:
+0.A9: t f 
+1.A3: high low vhigh medium 
+2.A2: medium low vhigh high 
+3.A6: medium vhigh low high 
+4.A5: g gg p 
+5.A4: u t y l 
+6.A10: f t 
+7.A1: a b 
+Satisfy 109 out of 110 (0.990909) examples.
+
+Using testing data number 14:
+Satisfy 58638 out of 65969 (0.8889) examples.
+
+
+Using training data number 15:
+0.A9: t f 
+1.A2: low vhigh medium high 
+2.A4: l t u y 
+3.A1: a b 
+4.A8: low vhigh high medium 
+5.A7: vhigh high medium low 
+6.A6: low high vhigh medium 
+7.A10: t f 
+8.A3: low medium high vhigh 
+Satisfy 108 out of 110 (0.981818) examples.
+
+Using testing data number 15:
+Satisfy 58255 out of 65969 (0.8831) examples.
+
+
+Using training data number 16:
+0.A9: t f 
+1.A4: l u y t 
+2.A1: a b 
+3.A7: low medium high vhigh 
+4.A3: low vhigh high medium 
+5.A5: g gg p 
+6.A10: f t 
+7.A6: medium low vhigh high 
+Satisfy 107 out of 110 (0.972727) examples.
+
+Using testing data number 16:
+Satisfy 58891 out of 65969 (0.8927) examples.
+
+
+Using training data number 17:
+0.A9: t f 
+1.A7: high low medium vhigh 
+2.A8: low vhigh high medium 
+3.A10: t f 
+4.A4: t u l y 
+5.A2: medium high low vhigh 
+6.A1: a b 
+7.A5: g gg p 
+Satisfy 108 out of 110 (0.981818) examples.
+
+Using testing data number 17:
+Satisfy 59076 out of 65969 (0.8955) examples.
+
+
+Using training data number 18:
+0.A9: t f 
+1.A1: a b 
+2.A8: vhigh high low medium 
+3.A7: low high vhigh medium 
+4.A6: high low medium vhigh 
+5.A5: gg p g 
+6.A2: medium high low vhigh 
+7.A3: medium high low vhigh 
+Satisfy 104 out of 110 (0.945455) examples.
+
+Using testing data number 18:
+Satisfy 58811 out of 65969 (0.8915) examples.
+
+
+Using training data number 19:
+0.A9: t f 
+1.A3: vhigh low high medium 
+2.A8: high medium vhigh low 
+3.A1: b a 
+4.A4: t l y u 
+5.A5: gg g p 
+6.A10: t f 
+Satisfy 107 out of 110 (0.972727) examples.
+
+Using testing data number 19:
+Satisfy 58600 out of 65969 (0.8883) examples.
+
+

@@ -1,0 +1,20 @@
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+
+Optimization: 2
+Answer: 2
+label(9,12,3,1) label(9,12,2,0) label(9,12,1,2) label(9,12,0,3) label(2,11,3,2) label(2,11,2,1) label(2,11,1,0) label(2,11,0,3) label(0,10,3,3) label(0,10,2,0) label(0,10,1,1) label(0,10,0,2) label(3,8,3,3) label(3,8,2,1) label(3,8,1,2) label(3,8,0,0) label(1,7,3,2) label(1,7,2,1) label(1,7,1,0) label(1,7,0,3) label(8,6,3,2) label(8,6,2,0) label(8,6,1,3) label(8,6,0,1) label(7,5,3,2) label(7,5,2,0) label(7,5,1,3) label(7,5,0,1) label(10,4,3,1) label(10,4,2,3) label(10,4,1,0) label(10,4,0,2) label(6,3,3,1) label(6,3,2,0) label(6,3,1,2) label(6,3,0,3) label(11,2,3,1) label(11,2,2,2) label(11,2,1,3) label(11,2,0,0) label(4,1,3,0) label(4,1,2,2) label(4,1,1,1) label(4,1,0,3) label(5,0,3,2) label(5,0,2,1) label(5,0,1,3) label(5,0,0,0)
+Optimization: 1
+Answer: 3
+label(11,12,3,1) label(11,12,2,3) label(11,12,1,0) label(11,12,0,2) label(4,11,3,1) label(4,11,2,3) label(4,11,1,0) label(4,11,0,2) label(0,10,3,3) label(0,10,2,0) label(0,10,1,1) label(0,10,0,2) label(8,8,3,1) label(8,8,2,3) label(8,8,1,0) label(8,8,0,2) label(6,7,3,1) label(6,7,2,0) label(6,7,1,2) label(6,7,0,3) label(2,6,3,2) label(2,6,2,3) label(2,6,1,0) label(2,6,0,1) label(7,5,3,2) label(7,5,2,0) label(7,5,1,3) label(7,5,0,1) label(10,4,3,1) label(10,4,2,3) label(10,4,1,0) label(10,4,0,2) label(9,3,3,1) label(9,3,2,0) label(9,3,1,3) label(9,3,0,2) label(1,2,3,2) label(1,2,2,1) label(1,2,1,3) label(1,2,0,0) label(3,1,3,0) label(3,1,2,1) label(3,1,1,2) label(3,1,0,3) label(5,0,3,0) label(5,0,2,2) label(5,0,1,1) label(5,0,0,3)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 3     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 3.357s (Solving: 1.02s 1st Model: 0.02s Unsat: 0.00s)
+CPU Time     : 3.270s

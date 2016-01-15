@@ -1,0 +1,382 @@
+MaxLearn UIUP PLP-trees for user 0:
+
+
+Using training data number 0:
+0.F4: 0 1 
+1.F13: 0 1 
+10.F7: 1 0 
+11.F11: 1 0 
+12.F2: 1 0 
+2.F8: 1 0 
+3.F9: 0 1 
+4.F3: 0 1 
+5.F14: 1 0 
+6.F12: 0 1 
+7.F1: 0 1 
+8.F6: 0 1 
+9.F5: 0 1 
+Satisfy 188 out of 200 (0.94) examples.
+
+Using testing data number 0:
+Satisfy 7202 out of 7978 (0.9027) examples.
+
+
+Using training data number 1:
+0.F4: 0 1 
+1.F9: 0 1 
+2.F15: 0 1 
+3.F10: 1 0 
+4.F13: 1 0 
+5.F6: 0 1 
+Satisfy 187 out of 200 (0.935) examples.
+
+Using testing data number 1:
+Satisfy 7412 out of 7978 (0.9291) examples.
+
+
+Using training data number 2:
+0.F9: 0 1 
+1.F4: 0 1 
+10.F7: 1 0 
+2.F15: 0 1 
+3.F5: 1 0 
+4.F11: 0 1 
+5.F14: 0 1 
+6.F8: 1 0 
+7.F1: 1 0 
+8.F6: 0 1 
+9.F2: 0 1 
+Satisfy 187 out of 200 (0.935) examples.
+
+Using testing data number 2:
+Satisfy 7435 out of 7978 (0.9319) examples.
+
+
+Using training data number 3:
+0.F4: 0 1 
+1.F9: 0 1 
+2.F10: 1 0 
+3.F15: 0 1 
+4.F8: 1 0 
+5.F14: 1 0 
+6.F3: 0 1 
+7.F2: 0 1 
+8.F5: 0 1 
+9.F11: 1 0 
+Satisfy 198 out of 200 (0.99) examples.
+
+Using testing data number 3:
+Satisfy 7383 out of 7978 (0.9254) examples.
+
+
+Using training data number 4:
+0.F9: 0 1 
+1.F4: 0 1 
+10.F5: 0 1 
+11.F13: 0 1 
+2.F15: 0 1 
+3.F14: 0 1 
+4.F3: 1 0 
+5.F11: 0 1 
+6.F2: 0 1 
+7.F8: 0 1 
+8.F7: 1 0 
+9.F10: 1 0 
+Satisfy 194 out of 200 (0.97) examples.
+
+Using testing data number 4:
+Satisfy 7410 out of 7978 (0.9288) examples.
+
+
+Using training data number 5:
+0.F4: 0 1 
+1.F15: 0 1 
+10.F13: 1 0 
+11.F7: 1 0 
+2.F9: 0 1 
+3.F2: 1 0 
+4.F6: 0 1 
+5.F1: 1 0 
+6.F11: 0 1 
+7.F3: 1 0 
+8.F8: 0 1 
+9.F14: 0 1 
+Satisfy 191 out of 200 (0.955) examples.
+
+Using testing data number 5:
+Satisfy 7305 out of 7978 (0.9156) examples.
+
+
+Using training data number 6:
+0.F9: 0 1 
+1.F15: 0 1 
+10.F10: 0 1 
+2.F1: 0 1 
+3.F4: 0 1 
+4.F6: 0 1 
+5.F14: 1 0 
+6.F7: 1 0 
+7.F11: 0 1 
+8.F13: 0 1 
+9.F12: 1 0 
+Satisfy 190 out of 200 (0.95) examples.
+
+Using testing data number 6:
+Satisfy 7200 out of 7978 (0.9025) examples.
+
+
+Using training data number 7:
+0.F9: 0 1 
+1.F4: 0 1 
+2.F15: 0 1 
+3.F14: 1 0 
+4.F10: 0 1 
+5.F3: 1 0 
+6.F13: 0 1 
+7.F2: 1 0 
+8.F7: 0 1 
+9.F12: 1 0 
+Satisfy 194 out of 200 (0.97) examples.
+
+Using testing data number 7:
+Satisfy 7448 out of 7978 (0.9336) examples.
+
+
+Using training data number 8:
+0.F9: 0 1 
+1.F4: 0 1 
+10.F13: 1 0 
+2.F15: 0 1 
+3.F1: 1 0 
+4.F3: 0 1 
+5.F2: 1 0 
+6.F12: 0 1 
+7.F5: 1 0 
+8.F8: 0 1 
+9.F14: 0 1 
+Satisfy 192 out of 200 (0.96) examples.
+
+Using testing data number 8:
+Satisfy 7448 out of 7978 (0.9336) examples.
+
+
+Using training data number 9:
+0.F4: 0 1 
+1.F9: 0 1 
+10.F10: 1 0 
+11.F12: 1 0 
+2.F7: 1 0 
+3.F15: 0 1 
+4.F14: 0 1 
+5.F8: 0 1 
+6.F1: 1 0 
+7.F11: 0 1 
+8.F6: 1 0 
+9.F2: 1 0 
+Satisfy 193 out of 200 (0.965) examples.
+
+Using testing data number 9:
+Satisfy 7397 out of 7978 (0.9272) examples.
+
+
+Using training data number 10:
+0.F9: 0 1 
+1.F4: 0 1 
+10.F6: 0 1 
+11.F5: 0 1 
+12.F12: 0 1 
+13.F7: 1 0 
+14.F13: 1 0 
+2.F15: 0 1 
+3.F11: 0 1 
+4.F8: 0 1 
+5.F2: 1 0 
+6.F3: 1 0 
+7.F10: 0 1 
+8.F14: 1 0 
+9.F1: 1 0 
+Satisfy 191 out of 200 (0.955) examples.
+
+Using testing data number 10:
+Satisfy 7449 out of 7978 (0.9337) examples.
+
+
+Using training data number 11:
+0.F4: 0 1 
+1.F9: 0 1 
+10.F1: 0 1 
+2.F3: 0 1 
+3.F15: 0 1 
+4.F6: 0 1 
+5.F7: 1 0 
+6.F14: 0 1 
+7.F2: 1 0 
+8.F5: 0 1 
+9.F10: 1 0 
+Satisfy 191 out of 200 (0.955) examples.
+
+Using testing data number 11:
+Satisfy 7402 out of 7978 (0.9278) examples.
+
+
+Using training data number 12:
+0.F9: 0 1 
+1.F4: 0 1 
+10.F2: 1 0 
+11.F6: 1 0 
+12.F5: 0 1 
+2.F15: 0 1 
+3.F14: 0 1 
+4.F3: 0 1 
+5.F7: 1 0 
+6.F8: 1 0 
+7.F10: 1 0 
+8.F12: 0 1 
+9.F13: 1 0 
+Satisfy 194 out of 200 (0.97) examples.
+
+Using testing data number 12:
+Satisfy 7423 out of 7978 (0.9304) examples.
+
+
+Using training data number 13:
+0.F4: 0 1 
+1.F9: 0 1 
+10.F5: 1 0 
+11.F12: 1 0 
+2.F6: 1 0 
+3.F15: 0 1 
+4.F11: 1 0 
+5.F1: 1 0 
+6.F2: 1 0 
+7.F14: 1 0 
+8.F13: 0 1 
+9.F7: 0 1 
+Satisfy 197 out of 200 (0.985) examples.
+
+Using testing data number 13:
+Satisfy 7347 out of 7978 (0.9209) examples.
+
+
+Using training data number 14:
+0.F9: 0 1 
+1.F4: 0 1 
+10.F2: 1 0 
+11.F8: 0 1 
+2.F1: 0 1 
+3.F15: 0 1 
+4.F13: 0 1 
+5.F14: 1 0 
+6.F3: 0 1 
+7.F7: 0 1 
+8.F6: 0 1 
+9.F11: 1 0 
+Satisfy 186 out of 200 (0.93) examples.
+
+Using testing data number 14:
+Satisfy 7407 out of 7978 (0.9284) examples.
+
+
+Using training data number 15:
+0.F4: 0 1 
+1.F9: 0 1 
+10.F13: 1 0 
+11.F3: 1 0 
+12.F1: 0 1 
+2.F15: 0 1 
+3.F12: 1 0 
+4.F11: 0 1 
+5.F5: 1 0 
+6.F8: 1 0 
+7.F2: 0 1 
+8.F6: 0 1 
+9.F10: 1 0 
+Satisfy 190 out of 200 (0.95) examples.
+
+Using testing data number 15:
+Satisfy 7490 out of 7978 (0.9388) examples.
+
+
+Using training data number 16:
+0.F4: 0 1 
+1.F9: 0 1 
+10.F6: 1 0 
+11.F14: 1 0 
+2.F15: 0 1 
+3.F8: 1 0 
+4.F3: 1 0 
+5.F10: 1 0 
+6.F11: 1 0 
+7.F1: 1 0 
+8.F13: 0 1 
+9.F5: 1 0 
+Satisfy 192 out of 200 (0.96) examples.
+
+Using testing data number 16:
+Satisfy 7457 out of 7978 (0.9347) examples.
+
+
+Using training data number 17:
+0.F4: 0 1 
+1.F9: 0 1 
+10.F14: 0 1 
+11.F2: 1 0 
+12.F3: 0 1 
+13.F12: 1 0 
+2.F15: 0 1 
+3.F10: 1 0 
+4.F7: 1 0 
+5.F11: 0 1 
+6.F8: 0 1 
+7.F5: 1 0 
+8.F13: 0 1 
+9.F1: 1 0 
+Satisfy 193 out of 200 (0.965) examples.
+
+Using testing data number 17:
+Satisfy 7495 out of 7978 (0.9395) examples.
+
+
+Using training data number 18:
+0.F4: 0 1 
+1.F9: 0 1 
+10.F5: 0 1 
+11.F14: 0 1 
+12.F6: 1 0 
+13.F10: 0 1 
+2.F11: 0 1 
+3.F15: 0 1 
+4.F3: 1 0 
+5.F2: 1 0 
+6.F7: 0 1 
+7.F13: 0 1 
+8.F8: 0 1 
+9.F12: 1 0 
+Satisfy 193 out of 200 (0.965) examples.
+
+Using testing data number 18:
+Satisfy 7388 out of 7978 (0.9260) examples.
+
+
+Using training data number 19:
+0.F4: 0 1 
+1.F9: 0 1 
+10.F12: 0 1 
+11.F11: 1 0 
+12.F10: 0 1 
+13.F2: 1 0 
+14.F3: 0 1 
+2.F15: 0 1 
+3.F7: 1 0 
+4.F13: 0 1 
+5.F6: 1 0 
+6.F14: 0 1 
+7.F8: 1 0 
+8.F5: 0 1 
+9.F1: 0 1 
+Satisfy 191 out of 200 (0.955) examples.
+
+Using testing data number 19:
+Satisfy 7495 out of 7978 (0.9395) examples.
+
+

@@ -1,0 +1,761 @@
+MaxLearn UIUP PLP-trees for user 0 iteration 0:
+
+Using training data:
+0.A27: low high 
+1.A21: high low 
+10.A25: high low 
+11.A15: low high 
+12.A1: low high 
+13.A5: high low 
+14.A22: low high 
+15.A2: high low 
+16.A11: high low 
+17.A8: high low 
+18.A14: high low 
+19.A32: high low 
+2.A10: low high 
+20.A20: high low 
+21.A13: low high 
+22.A9: low high 
+23.A4: high low 
+24.A12: low high 
+25.A24: high low 
+26.A18: high low 
+27.A33: low high 
+3.A28: low high 
+4.A23: high low 
+5.A29: low high 
+6.A7: low high 
+7.A26: low high 
+8.A6: low high 
+9.A3: low high 
+Satisfy 10 out of 10 (1) examples.
+
+Using testing data:
+Satisfy 13342 out of 25829 (0.5166) examples.
+
+
+MaxLearn UIUP PLP-trees for user 0 iteration 1:
+
+Using training data:
+0.A22: low high 
+1.A11: low high 
+10.A14: low high 
+11.A33: high low 
+12.A32: high low 
+13.A17: high low 
+14.A4: low high 
+15.A7: high low 
+16.A25: low high 
+17.A3: high low 
+18.A19: high low 
+19.A21: low high 
+2.A15: high low 
+20.A8: high low 
+21.A24: low high 
+22.A16: high low 
+23.A29: high low 
+24.A20: high low 
+3.A13: high low 
+4.A26: high low 
+5.A28: high low 
+6.A23: high low 
+7.A18: high low 
+8.A5: high low 
+9.A31: high low 
+Satisfy 10 out of 10 (1) examples.
+
+Using testing data:
+Satisfy 12884 out of 25829 (0.4988) examples.
+
+
+MaxLearn UIUP PLP-trees for user 0 iteration 2:
+
+Using training data:
+0.A30: high low 
+1.A11: high low 
+10.A5: low high 
+11.A23: low high 
+12.A4: low high 
+13.A25: low high 
+14.A14: low high 
+15.A28: low high 
+16.A8: low high 
+17.A6: high low 
+18.A22: low high 
+19.A12: low high 
+2.A29: low high 
+20.A18: low high 
+21.A10: low high 
+22.A7: low high 
+23.A9: high low 
+24.A21: low high 
+25.A27: low high 
+26.A17: high low 
+27.A13: low high 
+28.A33: low high 
+29.A15: high low 
+3.A16: low high 
+4.A31: low high 
+5.A20: high low 
+6.A26: high low 
+7.A19: high low 
+8.A2: high low 
+9.A3: low high 
+Satisfy 10 out of 10 (1) examples.
+
+Using testing data:
+Satisfy 12809 out of 25829 (0.4959) examples.
+
+
+MaxLearn UIUP PLP-trees for user 0 iteration 3:
+
+Using training data:
+0.A29: low high 
+1.A19: low high 
+10.A23: low high 
+11.A27: low high 
+12.A4: high low 
+13.A15: low high 
+14.A30: high low 
+15.A8: high low 
+16.A11: low high 
+17.A10: low high 
+18.A21: low high 
+19.A16: low high 
+2.A24: high low 
+20.A22: high low 
+21.A6: low high 
+22.A28: high low 
+23.A20: low high 
+24.A9: high low 
+25.A25: high low 
+26.A13: low high 
+27.A2: high low 
+28.A3: low high 
+29.A17: low high 
+3.A26: high low 
+30.A32: low high 
+31.A31: high low 
+32.A18: low high 
+4.A7: low high 
+5.A5: high low 
+6.A1: low high 
+7.A12: low high 
+8.A33: high low 
+9.A14: high low 
+Satisfy 10 out of 10 (1) examples.
+
+Using testing data:
+Satisfy 13773 out of 25829 (0.5332) examples.
+
+
+MaxLearn UIUP PLP-trees for user 0 iteration 4:
+
+Using training data:
+0.A12: low high 
+1.A1: low high 
+10.A9: low high 
+11.A27: high low 
+12.A33: high low 
+13.A13: high low 
+14.A3: low high 
+15.A11: high low 
+16.A14: high low 
+17.A21: low high 
+18.A5: high low 
+19.A25: high low 
+2.A31: low high 
+20.A26: low high 
+21.A23: high low 
+22.A29: high low 
+23.A17: low high 
+24.A20: high low 
+25.A22: high low 
+26.A4: low high 
+27.A2: low high 
+28.A6: high low 
+29.A19: high low 
+3.A32: low high 
+30.A8: low high 
+31.A7: low high 
+32.A18: low high 
+4.A24: high low 
+5.A30: high low 
+6.A28: low high 
+7.A10: low high 
+8.A15: high low 
+9.A16: high low 
+Satisfy 10 out of 10 (1) examples.
+
+Using testing data:
+Satisfy 13111 out of 25829 (0.5076) examples.
+
+
+MaxLearn UIUP PLP-trees for user 0 iteration 5:
+
+Using training data:
+0.A2: high low 
+1.A26: low high 
+10.A20: low high 
+11.A23: low high 
+12.A22: low high 
+13.A3: high low 
+14.A9: low high 
+15.A15: high low 
+16.A12: low high 
+17.A13: low high 
+18.A4: low high 
+19.A24: high low 
+2.A7: high low 
+20.A8: high low 
+21.A30: low high 
+22.A27: high low 
+23.A6: high low 
+24.A31: low high 
+25.A21: low high 
+26.A29: high low 
+27.A33: high low 
+28.A14: high low 
+29.A18: high low 
+3.A28: low high 
+30.A19: high low 
+31.A16: low high 
+4.A32: low high 
+5.A25: high low 
+6.A17: low high 
+7.A10: low high 
+8.A11: high low 
+9.A5: high low 
+Satisfy 10 out of 10 (1) examples.
+
+Using testing data:
+Satisfy 14771 out of 25829 (0.5719) examples.
+
+
+MaxLearn UIUP PLP-trees for user 0 iteration 6:
+
+Using training data:
+0.A23: low high 
+1.A19: low high 
+10.A9: high low 
+11.A14: high low 
+12.A5: low high 
+13.A3: high low 
+14.A8: high low 
+15.A10: low high 
+16.A28: low high 
+17.A11: high low 
+18.A7: low high 
+19.A31: low high 
+2.A17: low high 
+20.A15: high low 
+21.A2: high low 
+22.A33: low high 
+23.A18: low high 
+24.A6: high low 
+25.A22: high low 
+26.A4: high low 
+27.A13: low high 
+28.A20: low high 
+3.A1: low high 
+4.A16: low high 
+5.A26: high low 
+6.A27: low high 
+7.A21: high low 
+8.A12: high low 
+9.A25: high low 
+Satisfy 10 out of 10 (1) examples.
+
+Using testing data:
+Satisfy 12750 out of 25829 (0.4936) examples.
+
+
+MaxLearn UIUP PLP-trees for user 0 iteration 7:
+
+Using training data:
+0.A25: high low 
+1.A21: low high 
+10.A20: low high 
+11.A27: high low 
+12.A13: high low 
+13.A19: high low 
+14.A4: high low 
+15.A10: low high 
+16.A7: high low 
+17.A22: low high 
+18.A16: high low 
+19.A12: high low 
+2.A32: high low 
+20.A14: high low 
+21.A23: high low 
+22.A26: low high 
+23.A3: low high 
+24.A9: high low 
+25.A15: high low 
+26.A31: high low 
+27.A28: low high 
+28.A29: high low 
+29.A5: high low 
+3.A30: high low 
+4.A6: high low 
+5.A18: low high 
+6.A17: low high 
+7.A8: high low 
+8.A2: high low 
+9.A24: low high 
+Satisfy 10 out of 10 (1) examples.
+
+Using testing data:
+Satisfy 12470 out of 25829 (0.4828) examples.
+
+
+MaxLearn UIUP PLP-trees for user 0 iteration 8:
+
+Using training data:
+0.A29: low high 
+1.A27: low high 
+10.A7: low high 
+11.A14: high low 
+12.A18: high low 
+13.A24: low high 
+14.A28: high low 
+15.A31: low high 
+16.A3: low high 
+17.A30: high low 
+18.A25: high low 
+19.A26: low high 
+2.A2: high low 
+20.A9: low high 
+21.A19: low high 
+22.A32: high low 
+23.A5: high low 
+24.A10: low high 
+25.A23: high low 
+26.A13: low high 
+27.A4: high low 
+28.A11: low high 
+29.A6: high low 
+3.A17: low high 
+30.A20: high low 
+4.A16: high low 
+5.A15: high low 
+6.A21: high low 
+7.A33: high low 
+8.A22: low high 
+9.A8: high low 
+Satisfy 10 out of 10 (1) examples.
+
+Using testing data:
+Satisfy 14076 out of 25829 (0.5450) examples.
+
+
+MaxLearn UIUP PLP-trees for user 0 iteration 9:
+
+Using training data:
+0.A22: high low 
+1.A33: low high 
+10.A20: low high 
+11.A3: low high 
+12.A11: low high 
+13.A12: high low 
+14.A30: low high 
+15.A17: high low 
+16.A9: high low 
+17.A5: high low 
+18.A15: high low 
+19.A28: high low 
+2.A18: high low 
+20.A21: high low 
+21.A29: high low 
+22.A32: high low 
+23.A25: low high 
+24.A27: low high 
+25.A6: low high 
+26.A10: high low 
+27.A23: low high 
+28.A8: low high 
+29.A24: low high 
+3.A14: low high 
+30.A2: high low 
+4.A31: low high 
+5.A19: low high 
+6.A26: high low 
+7.A13: high low 
+8.A16: high low 
+9.A4: high low 
+Satisfy 10 out of 10 (1) examples.
+
+Using testing data:
+Satisfy 13330 out of 25829 (0.5161) examples.
+
+
+MaxLearn UIUP PLP-trees for user 0 iteration 10:
+
+Using training data:
+0.A5: low high 
+1.A13: high low 
+2.A7: high low 
+3.A22: high low 
+4.A8: high low 
+5.A30: low high 
+6.A25: low high 
+Satisfy 9 out of 10 (0.9) examples.
+
+Using testing data:
+Satisfy 11742 out of 25829 (0.4546) examples.
+
+
+MaxLearn UIUP PLP-trees for user 0 iteration 11:
+
+Using training data:
+0.A29: low high 
+1.A7: low high 
+10.A31: high low 
+11.A26: low high 
+12.A13: low high 
+13.A11: high low 
+14.A32: high low 
+15.A19: high low 
+16.A3: high low 
+17.A15: low high 
+18.A28: low high 
+19.A18: low high 
+2.A33: high low 
+20.A9: low high 
+21.A22: low high 
+22.A25: low high 
+23.A8: low high 
+24.A27: high low 
+25.A23: low high 
+26.A30: low high 
+27.A20: low high 
+28.A1: high low 
+29.A21: high low 
+3.A17: high low 
+30.A6: low high 
+31.A14: low high 
+4.A10: low high 
+5.A12: low high 
+6.A5: high low 
+7.A4: high low 
+8.A2: low high 
+9.A16: high low 
+Satisfy 10 out of 10 (1) examples.
+
+Using testing data:
+Satisfy 13515 out of 25829 (0.5232) examples.
+
+
+MaxLearn UIUP PLP-trees for user 0 iteration 12:
+
+Using training data:
+0.A2: high low 
+1.A32: low high 
+10.A29: high low 
+11.A16: high low 
+12.A11: low high 
+13.A8: high low 
+14.A18: low high 
+15.A33: low high 
+16.A6: low high 
+17.A15: low high 
+18.A13: high low 
+19.A24: low high 
+2.A14: high low 
+20.A20: high low 
+21.A12: high low 
+22.A27: low high 
+23.A4: low high 
+24.A1: low high 
+25.A22: high low 
+26.A10: low high 
+27.A26: low high 
+28.A30: low high 
+29.A5: high low 
+3.A19: high low 
+4.A7: high low 
+5.A21: high low 
+6.A17: high low 
+7.A25: low high 
+8.A9: high low 
+9.A28: high low 
+Satisfy 10 out of 10 (1) examples.
+
+Using testing data:
+Satisfy 14751 out of 25829 (0.5711) examples.
+
+
+MaxLearn UIUP PLP-trees for user 0 iteration 13:
+
+Using training data:
+0.A3: low high 
+1.A25: high low 
+10.A28: low high 
+11.A33: low high 
+12.A15: low high 
+13.A8: high low 
+14.A9: high low 
+15.A30: low high 
+16.A24: high low 
+17.A31: low high 
+18.A23: low high 
+19.A32: low high 
+2.A7: high low 
+20.A1: high low 
+21.A2: low high 
+22.A12: high low 
+23.A19: high low 
+24.A5: high low 
+25.A26: low high 
+26.A4: low high 
+27.A29: high low 
+28.A13: high low 
+29.A20: low high 
+3.A22: high low 
+4.A6: low high 
+5.A27: high low 
+6.A21: low high 
+7.A14: low high 
+8.A17: low high 
+9.A16: low high 
+Satisfy 10 out of 10 (1) examples.
+
+Using testing data:
+Satisfy 13002 out of 25829 (0.5034) examples.
+
+
+MaxLearn UIUP PLP-trees for user 0 iteration 14:
+
+Using training data:
+0.A24: high low 
+1.A3: low high 
+10.A7: low high 
+11.A8: low high 
+12.A27: high low 
+13.A12: high low 
+14.A16: low high 
+15.A14: low high 
+16.A23: high low 
+17.A18: low high 
+18.A25: high low 
+19.A21: low high 
+2.A11: low high 
+20.A26: low high 
+21.A10: high low 
+22.A2: high low 
+23.A31: high low 
+24.A6: low high 
+25.A17: high low 
+3.A9: high low 
+4.A15: high low 
+5.A28: low high 
+6.A13: low high 
+7.A22: high low 
+8.A33: high low 
+9.A19: high low 
+Satisfy 10 out of 10 (1) examples.
+
+Using testing data:
+Satisfy 13672 out of 25829 (0.5293) examples.
+
+
+MaxLearn UIUP PLP-trees for user 0 iteration 15:
+
+Using training data:
+0.A20: low high 
+1.A8: high low 
+10.A5: low high 
+11.A7: high low 
+12.A33: low high 
+13.A26: high low 
+14.A9: low high 
+15.A28: low high 
+16.A16: low high 
+17.A13: high low 
+18.A19: low high 
+19.A10: low high 
+2.A4: high low 
+20.A17: high low 
+21.A6: low high 
+22.A30: high low 
+23.A15: low high 
+24.A29: high low 
+25.A21: low high 
+26.A32: low high 
+27.A11: low high 
+28.A1: low high 
+29.A23: high low 
+3.A22: low high 
+30.A27: high low 
+4.A24: low high 
+5.A31: low high 
+6.A12: low high 
+7.A25: low high 
+8.A14: low high 
+9.A18: high low 
+Satisfy 10 out of 10 (1) examples.
+
+Using testing data:
+Satisfy 13285 out of 25829 (0.5143) examples.
+
+
+MaxLearn UIUP PLP-trees for user 0 iteration 16:
+
+Using training data:
+0.A17: high low 
+1.A26: low high 
+10.A2: low high 
+11.A12: low high 
+12.A23: high low 
+13.A29: high low 
+14.A8: high low 
+15.A20: high low 
+16.A33: low high 
+17.A32: high low 
+18.A31: low high 
+19.A24: high low 
+2.A28: low high 
+20.A19: high low 
+21.A16: high low 
+22.A13: low high 
+23.A25: high low 
+24.A27: high low 
+25.A15: high low 
+26.A3: high low 
+27.A30: high low 
+28.A10: low high 
+29.A5: low high 
+3.A6: low high 
+30.A7: low high 
+31.A11: high low 
+4.A14: high low 
+5.A4: high low 
+6.A22: high low 
+7.A18: high low 
+8.A21: high low 
+9.A9: high low 
+Satisfy 10 out of 10 (1) examples.
+
+Using testing data:
+Satisfy 13092 out of 25829 (0.5069) examples.
+
+
+MaxLearn UIUP PLP-trees for user 0 iteration 17:
+
+Using training data:
+0.A25: high low 
+1.A19: low high 
+10.A23: high low 
+11.A32: high low 
+12.A5: low high 
+13.A4: high low 
+14.A9: low high 
+15.A21: high low 
+16.A7: high low 
+17.A15: high low 
+18.A10: high low 
+19.A31: low high 
+2.A17: high low 
+20.A22: high low 
+21.A24: high low 
+22.A11: high low 
+23.A30: low high 
+24.A20: low high 
+25.A8: high low 
+26.A16: high low 
+27.A13: low high 
+28.A18: low high 
+29.A1: low high 
+3.A28: high low 
+4.A3: high low 
+5.A6: low high 
+6.A12: low high 
+7.A26: high low 
+8.A14: high low 
+9.A27: high low 
+Satisfy 10 out of 10 (1) examples.
+
+Using testing data:
+Satisfy 12794 out of 25829 (0.4953) examples.
+
+
+MaxLearn UIUP PLP-trees for user 0 iteration 18:
+
+Using training data:
+0.A12: low high 
+1.A4: high low 
+10.A6: low high 
+11.A31: high low 
+12.A23: low high 
+13.A13: high low 
+14.A10: high low 
+15.A9: high low 
+16.A27: low high 
+17.A20: high low 
+18.A33: low high 
+19.A17: high low 
+2.A22: low high 
+20.A7: low high 
+21.A2: low high 
+22.A19: low high 
+23.A11: high low 
+24.A15: high low 
+25.A24: high low 
+26.A18: high low 
+27.A1: high low 
+28.A28: high low 
+3.A16: high low 
+4.A26: high low 
+5.A3: high low 
+6.A29: high low 
+7.A5: low high 
+8.A25: low high 
+9.A14: low high 
+Satisfy 10 out of 10 (1) examples.
+
+Using testing data:
+Satisfy 13284 out of 25829 (0.5143) examples.
+
+
+MaxLearn UIUP PLP-trees for user 0 iteration 19:
+
+Using training data:
+0.A29: low high 
+1.A16: high low 
+10.A17: high low 
+11.A4: high low 
+12.A3: high low 
+13.A33: high low 
+14.A28: high low 
+15.A18: low high 
+16.A25: high low 
+17.A5: low high 
+18.A22: high low 
+19.A9: high low 
+2.A1: low high 
+20.A6: low high 
+21.A2: low high 
+22.A30: low high 
+23.A15: high low 
+24.A20: low high 
+25.A8: high low 
+26.A27: high low 
+27.A24: high low 
+28.A12: low high 
+29.A10: high low 
+3.A23: low high 
+30.A32: low high 
+31.A26: low high 
+4.A31: high low 
+5.A13: low high 
+6.A21: low high 
+7.A7: low high 
+8.A14: high low 
+9.A19: high low 
+Satisfy 10 out of 10 (1) examples.
+
+Using testing data:
+Satisfy 13806 out of 25829 (0.5345) examples.
+
+

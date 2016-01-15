@@ -1,0 +1,26 @@
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+
+Optimization: 9
+Answer: 2
+label(0,12,3,3) label(0,12,2,2) label(0,12,1,1) label(0,12,0,0) label(1,7,3,0) label(1,7,2,1) label(1,7,1,3) label(1,7,0,2)
+Optimization: 7
+Answer: 3
+label(0,12,3,1) label(0,12,2,0) label(0,12,1,2) label(0,12,0,3)
+Optimization: 2
+Answer: 4
+label(5,12,3,3) label(5,12,2,1) label(5,12,1,2) label(5,12,0,0) label(6,11,3,2) label(6,11,2,0) label(6,11,1,3) label(6,11,0,1) label(9,10,3,2) label(9,10,2,3) label(9,10,1,0) label(9,10,0,1) label(4,8,3,1) label(4,8,2,3) label(4,8,1,2) label(4,8,0,0) label(3,7,3,0) label(3,7,2,1) label(3,7,1,2) label(3,7,0,3) label(0,6,3,1) label(0,6,2,0) label(0,6,1,2) label(0,6,0,3) label(7,5,3,1) label(7,5,2,2) label(7,5,1,0) label(7,5,0,3) label(8,3,3,2) label(8,3,2,0) label(8,3,1,3) label(8,3,0,1) label(1,2,3,0) label(1,2,2,3) label(1,2,1,2) label(1,2,0,1) label(2,0,3,2) label(2,0,2,1) label(2,0,1,0) label(2,0,0,3)
+Optimization: 1
+Answer: 5
+label(5,12,3,3) label(5,12,2,1) label(5,12,1,2) label(5,12,0,0) label(6,11,3,2) label(6,11,2,0) label(6,11,1,3) label(6,11,0,1) label(9,10,3,2) label(9,10,2,3) label(9,10,1,0) label(9,10,0,1) label(4,8,3,1) label(4,8,2,3) label(4,8,1,2) label(4,8,0,0) label(3,7,3,0) label(3,7,2,1) label(3,7,1,2) label(3,7,0,3) label(0,6,3,0) label(0,6,2,1) label(0,6,1,2) label(0,6,0,3) label(7,5,3,1) label(7,5,2,2) label(7,5,1,0) label(7,5,0,3) label(8,3,3,2) label(8,3,2,0) label(8,3,1,3) label(8,3,0,1) label(1,2,3,0) label(1,2,2,3) label(1,2,1,2) label(1,2,0,1) label(2,0,3,2) label(2,0,2,1) label(2,0,1,0) label(2,0,0,3)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 5     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 5.254s (Solving: 2.45s 1st Model: 0.03s Unsat: 0.01s)
+CPU Time     : 5.130s

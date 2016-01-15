@@ -1,0 +1,298 @@
+MaxLearn UIUP PLP-trees for user 0:
+
+
+Using training data number 0:
+0.MiddleMiddleSquare: x b o 
+1.BottomMiddleSquare: o b x 
+2.MiddleLeftSquare: b x o 
+3.TopRightSquare: x b o 
+4.TopLeftSquare: b x o 
+5.BottomRightSquare: x b o 
+6.MiddleRightSquare: o b x 
+7.TopMiddleSquare: x o b 
+8.BottomLeftSquare: o b x 
+Satisfy 92 out of 120 (0.766667) examples.
+
+Using testing data number 0:
+Satisfy 145816 out of 207712 (0.7020) examples.
+
+
+Using training data number 1:
+0.MiddleMiddleSquare: x b o 
+1.BottomRightSquare: x b o 
+2.TopLeftSquare: b x o 
+3.BottomLeftSquare: b o x 
+4.MiddleRightSquare: o b x 
+5.TopRightSquare: x b o 
+6.TopMiddleSquare: o b x 
+Satisfy 100 out of 120 (0.833333) examples.
+
+Using testing data number 1:
+Satisfy 150948 out of 207712 (0.7267) examples.
+
+
+Using training data number 2:
+0.MiddleMiddleSquare: x b o 
+1.TopLeftSquare: x o b 
+2.MiddleRightSquare: b x o 
+3.BottomLeftSquare: b x o 
+4.BottomMiddleSquare: b x o 
+5.BottomRightSquare: b o x 
+6.TopMiddleSquare: b o x 
+7.MiddleLeftSquare: b o x 
+8.TopRightSquare: o b x 
+Satisfy 100 out of 120 (0.833333) examples.
+
+Using testing data number 2:
+Satisfy 146616 out of 207712 (0.7059) examples.
+
+
+Using training data number 3:
+0.MiddleMiddleSquare: x b o 
+1.TopLeftSquare: b x o 
+2.BottomRightSquare: b x o 
+3.TopRightSquare: x b o 
+4.BottomLeftSquare: b o x 
+5.MiddleLeftSquare: o x b 
+6.MiddleRightSquare: x o b 
+7.BottomMiddleSquare: x b o 
+Satisfy 105 out of 120 (0.875) examples.
+
+Using testing data number 3:
+Satisfy 151381 out of 207712 (0.7288) examples.
+
+
+Using training data number 4:
+0.MiddleMiddleSquare: x b o 
+1.TopLeftSquare: b x o 
+2.TopRightSquare: b x o 
+3.BottomMiddleSquare: b x o 
+4.BottomRightSquare: x b o 
+5.MiddleRightSquare: x b o 
+6.MiddleLeftSquare: o x b 
+Satisfy 101 out of 120 (0.841667) examples.
+
+Using testing data number 4:
+Satisfy 151482 out of 207712 (0.7293) examples.
+
+
+Using training data number 5:
+0.MiddleMiddleSquare: x b o 
+1.TopRightSquare: b x o 
+2.MiddleRightSquare: x b o 
+3.TopMiddleSquare: x b o 
+4.BottomRightSquare: o x b 
+5.BottomLeftSquare: b x o 
+6.BottomMiddleSquare: x b o 
+7.TopLeftSquare: b o x 
+8.MiddleLeftSquare: x b o 
+Satisfy 97 out of 120 (0.808333) examples.
+
+Using testing data number 5:
+Satisfy 148238 out of 207712 (0.7137) examples.
+
+
+Using training data number 6:
+0.MiddleMiddleSquare: x b o 
+1.TopRightSquare: b x o 
+2.TopMiddleSquare: o b x 
+3.TopLeftSquare: x o b 
+4.BottomLeftSquare: x b o 
+5.BottomRightSquare: x b o 
+6.BottomMiddleSquare: b o x 
+Satisfy 99 out of 120 (0.825) examples.
+
+Using testing data number 6:
+Satisfy 149615 out of 207712 (0.7203) examples.
+
+
+Using training data number 7:
+0.MiddleMiddleSquare: x b o 
+1.BottomMiddleSquare: o b x 
+2.BottomRightSquare: b x o 
+3.TopLeftSquare: b o x 
+4.BottomLeftSquare: x b o 
+5.TopRightSquare: o b x 
+6.TopMiddleSquare: b o x 
+7.MiddleRightSquare: o x b 
+Satisfy 92 out of 120 (0.766667) examples.
+
+Using testing data number 7:
+Satisfy 147085 out of 207712 (0.7081) examples.
+
+
+Using training data number 8:
+0.MiddleMiddleSquare: x b o 
+1.MiddleLeftSquare: b o x 
+2.TopMiddleSquare: o b x 
+3.TopLeftSquare: x b o 
+4.MiddleRightSquare: b o x 
+5.BottomRightSquare: b x o 
+6.BottomLeftSquare: x b o 
+7.TopRightSquare: b o x 
+8.BottomMiddleSquare: o x b 
+Satisfy 96 out of 120 (0.8) examples.
+
+Using testing data number 8:
+Satisfy 147226 out of 207712 (0.7088) examples.
+
+
+Using training data number 9:
+0.MiddleMiddleSquare: x b o 
+1.MiddleLeftSquare: o b x 
+2.TopLeftSquare: b x o 
+3.TopMiddleSquare: b x o 
+4.BottomRightSquare: x o b 
+5.BottomMiddleSquare: b x o 
+6.MiddleRightSquare: x b o 
+Satisfy 94 out of 120 (0.783333) examples.
+
+Using testing data number 9:
+Satisfy 147219 out of 207712 (0.7088) examples.
+
+
+Using training data number 10:
+0.MiddleMiddleSquare: x b o 
+1.BottomLeftSquare: b x o 
+2.BottomRightSquare: x b o 
+3.TopLeftSquare: b x o 
+4.MiddleRightSquare: o b x 
+5.MiddleLeftSquare: b x o 
+6.TopMiddleSquare: x b o 
+7.BottomMiddleSquare: b o x 
+Satisfy 96 out of 120 (0.8) examples.
+
+Using testing data number 10:
+Satisfy 152284 out of 207712 (0.7331) examples.
+
+
+Using training data number 11:
+0.MiddleMiddleSquare: x o b 
+1.TopRightSquare: x o b 
+2.BottomRightSquare: x b o 
+3.MiddleRightSquare: b x o 
+4.BottomLeftSquare: b x o 
+5.MiddleLeftSquare: o b x 
+Satisfy 99 out of 120 (0.825) examples.
+
+Using testing data number 11:
+Satisfy 134534 out of 207712 (0.6477) examples.
+
+
+Using training data number 12:
+0.MiddleMiddleSquare: x b o 
+1.TopLeftSquare: x b o 
+2.BottomRightSquare: x b o 
+3.BottomLeftSquare: o x b 
+4.TopMiddleSquare: b o x 
+5.MiddleRightSquare: x o b 
+6.BottomMiddleSquare: o b x 
+7.MiddleLeftSquare: o x b 
+8.TopRightSquare: x o b 
+Satisfy 97 out of 120 (0.808333) examples.
+
+Using testing data number 12:
+Satisfy 150062 out of 207712 (0.7225) examples.
+
+
+Using training data number 13:
+0.MiddleMiddleSquare: x b o 
+1.TopRightSquare: x b o 
+2.MiddleLeftSquare: b o x 
+3.BottomLeftSquare: x o b 
+4.MiddleRightSquare: b x o 
+5.BottomRightSquare: o b x 
+6.TopLeftSquare: o b x 
+7.TopMiddleSquare: x o b 
+8.BottomMiddleSquare: x b o 
+Satisfy 97 out of 120 (0.808333) examples.
+
+Using testing data number 13:
+Satisfy 150794 out of 207712 (0.7260) examples.
+
+
+Using training data number 14:
+0.MiddleMiddleSquare: x b o 
+1.TopLeftSquare: x b o 
+2.TopMiddleSquare: x b o 
+3.TopRightSquare: x b o 
+4.MiddleLeftSquare: x o b 
+5.BottomMiddleSquare: o b x 
+6.BottomRightSquare: x b o 
+7.MiddleRightSquare: o x b 
+Satisfy 100 out of 120 (0.833333) examples.
+
+Using testing data number 14:
+Satisfy 150456 out of 207712 (0.7243) examples.
+
+
+Using training data number 15:
+0.MiddleMiddleSquare: b x o 
+1.TopRightSquare: x o b 
+2.BottomMiddleSquare: b x o 
+3.MiddleLeftSquare: o x b 
+4.BottomRightSquare: o b x 
+5.TopLeftSquare: b o x 
+Satisfy 87 out of 120 (0.725) examples.
+
+Using testing data number 15:
+Satisfy 138073 out of 207712 (0.6647) examples.
+
+
+Using training data number 16:
+0.TopLeftSquare: x b o 
+1.TopMiddleSquare: b o x 
+2.BottomLeftSquare: x b o 
+3.BottomRightSquare: x b o 
+4.TopRightSquare: x b o 
+5.BottomMiddleSquare: o b x 
+6.MiddleLeftSquare: o x b 
+7.MiddleMiddleSquare: b x o 
+8.MiddleRightSquare: b o x 
+Satisfy 93 out of 120 (0.775) examples.
+
+Using testing data number 16:
+Satisfy 124513 out of 207712 (0.5995) examples.
+
+
+Using training data number 17:
+0.MiddleMiddleSquare: x b o 
+1.BottomLeftSquare: x b o 
+2.BottomRightSquare: x o b 
+3.MiddleLeftSquare: o x b 
+4.TopRightSquare: b x o 
+5.TopLeftSquare: o x b 
+6.MiddleRightSquare: o b x 
+Satisfy 91 out of 120 (0.758333) examples.
+
+Using testing data number 17:
+Satisfy 150670 out of 207712 (0.7254) examples.
+
+
+Using training data number 18:
+0.MiddleMiddleSquare: x b o 
+1.TopLeftSquare: x b o 
+2.BottomLeftSquare: x o b 
+3.MiddleLeftSquare: x b o 
+4.TopRightSquare: x b o 
+5.TopMiddleSquare: o x b 
+6.MiddleRightSquare: o b x 
+Satisfy 97 out of 120 (0.808333) examples.
+
+Using testing data number 18:
+Satisfy 150969 out of 207712 (0.7268) examples.
+
+
+Using training data number 19:
+0.MiddleMiddleSquare: x b o 
+1.MiddleRightSquare: o b x 
+2.BottomMiddleSquare: b x o 
+3.TopRightSquare: b x o 
+4.TopLeftSquare: x o b 
+5.BottomLeftSquare: x b o 
+Satisfy 93 out of 120 (0.775) examples.
+
+Using testing data number 19:
+Satisfy 145572 out of 207712 (0.7008) examples.
+
+

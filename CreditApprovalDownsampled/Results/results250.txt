@@ -1,0 +1,14 @@
+MaxLearn UIUP PLP-trees for user 0:
+
+
+Using training data number 0:
+Satisfy 250 out of 250 (1) examples.
+
+Using testing data number 0:
+Satisfy  out of 101600 () examples.
+
+
+Using training data number 1:
+Satisfy 250 out of 250 (1) examples.
+
+Using testing data number 1:

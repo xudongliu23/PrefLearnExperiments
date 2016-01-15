@@ -1,0 +1,177 @@
+MaxLearn UIUP PLP-trees for user 0:
+
+
+Using training data number 0:
+0.A8: high low 
+1.A1: low high 
+2.A9: high low 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 0:
+Satisfy 1702 out of 3471 (0.4903) examples.
+
+
+Using training data number 1:
+0.A7: high low 
+1.A5: high low 
+2.A6: high low 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 1:
+Satisfy 2249 out of 3471 (0.6479) examples.
+
+
+Using training data number 2:
+0.A4: low high 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 2:
+Satisfy 836 out of 3471 (0.2409) examples.
+
+
+Using training data number 3:
+0.A7: high low 
+1.A8: low high 
+2.A3: high low 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 3:
+Satisfy 1892 out of 3471 (0.5451) examples.
+
+
+Using training data number 4:
+0.A8: low high 
+1.A6: low high 
+2.A7: low high 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 4:
+Satisfy 668 out of 3471 (0.1925) examples.
+
+
+Using training data number 5:
+0.A4: low high 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 5:
+Satisfy 836 out of 3471 (0.2409) examples.
+
+
+Using training data number 6:
+0.A2: low high 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 6:
+Satisfy 836 out of 3471 (0.2409) examples.
+
+
+Using training data number 7:
+0.A4: low high 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 7:
+Satisfy 836 out of 3471 (0.2409) examples.
+
+
+Using training data number 8:
+0.A4: high low 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 8:
+Satisfy 898 out of 3471 (0.2587) examples.
+
+
+Using training data number 9:
+0.A4: low high 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 9:
+Satisfy 836 out of 3471 (0.2409) examples.
+
+
+Using training data number 10:
+0.A4: high low 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 10:
+Satisfy 898 out of 3471 (0.2587) examples.
+
+
+Using training data number 11:
+0.A4: low high 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 11:
+Satisfy 836 out of 3471 (0.2409) examples.
+
+
+Using training data number 12:
+0.A2: high low 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 12:
+Satisfy 874 out of 3471 (0.2518) examples.
+
+
+Using training data number 13:
+0.A8: high low 
+1.A6: low high 
+2.A10: high low 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 13:
+Satisfy 1838 out of 3471 (0.5295) examples.
+
+
+Using training data number 14:
+0.A4: low high 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 14:
+Satisfy 836 out of 3471 (0.2409) examples.
+
+
+Using training data number 15:
+0.A8: high low 
+1.A5: high low 
+2.A7: low high 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 15:
+Satisfy 2008 out of 3471 (0.5785) examples.
+
+
+Using training data number 16:
+0.A4: high low 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 16:
+Satisfy 898 out of 3471 (0.2587) examples.
+
+
+Using training data number 17:
+0.A9: high low 
+1.A5: high low 
+2.A10: high low 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 17:
+Satisfy 1794 out of 3471 (0.5169) examples.
+
+
+Using training data number 18:
+0.A4: low high 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 18:
+Satisfy 836 out of 3471 (0.2409) examples.
+
+
+Using training data number 19:
+0.A4: high low 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 19:
+Satisfy 898 out of 3471 (0.2587) examples.
+
+

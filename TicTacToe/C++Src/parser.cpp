@@ -75,7 +75,7 @@ int main(int argc, char** argv) {
 		string outcomes_path = string (argv[5]);
 		printOutcomes(outcomes_path, numeric_outcomes, outcomes_indices);
 	}
-	else if(argc == 7) {  
+	else if(argc == 8) {  
 		/* Gather the preference learning results, and translate them to readable formats.*/
 
 		// get domains
@@ -87,9 +87,29 @@ int main(int argc, char** argv) {
 		//displayVS(res);
 	
 		string userID = string(argv[4]);
-		string number_of_strict_ex_string = string(argv[5]);
-		string numberOfStrictExDir = string(argv[6]);
-		int number_of_strict_ex = atoi(number_of_strict_ex_string.c_str());
+		string doubleID1 = string(argv[5]);
+		string doubleID2 = string(argv[6]);
+		string numberOfStrictExDir = string(argv[7]);
+		string comm = "";
+		if(doubleID1 == "-1" && doubleID2 == "-1") {  // user has only one training dataset.
+			comm = "wc -l " + numberOfStrictExDir + "/User" + userID 
+														 + "/Training/examples.gringo | awk '{print $1}'";
+		}
+		else if(doubleID1 == "-1") {  // user has multiple training datasets indicated by doubleID2.
+			comm = "wc -l " + numberOfStrictExDir + "/User" + userID + "/Training/examples" 
+														 + doubleID2 + ".gringo | awk '{print $1}'";
+		}
+		else {  // user has multiple training datasets indicated by doubleID1 and doubleID2.
+			comm = "wc -l " + numberOfStrictExDir + "/User" + userID + "/Training/examples" 
+														 + doubleID1 + doubleID2 + ".gringo | awk '{print $1}'";
+		}
+		FILE *fp;
+		char content[8];
+		fp = popen(comm.c_str(), "r");
+		if(fp == NULL) {cout << "Error popen." << endl; exit(1);}
+		fgets(content, 8, fp);
+		pclose(fp);
+		int number_of_strict_ex = atoi(content);
 		int num = number_of_strict_ex - getNumberOfFalsifiedEx(res_path);
 		cout << "Satisfy " << num << " out of " << number_of_strict_ex << " (" << (double)num/number_of_strict_ex 
 				 << ") examples." << endl;
@@ -290,7 +310,10 @@ void updatePrefs(string prefs_path, vll &outcomes_indices) {
 }
 
 ll getOutcomeInd(size_t itemId, vll &outcomes_indices) {
-	return outcomes_indices[itemId];
+	///////////////// Change /////////////////////////////
+	//return outcomes_indices[itemId];
+	return itemId;
+	///////////////// Change /////////////////////////////
 }
 
 vs getTree(string res_path, vpIssDom &domains) {
@@ -393,7 +416,10 @@ void printOutcomes(string outcomes_path, vs numeric_outcomes, vll outcomes_indic
 		REP(i,0,NOs.size()-1) {
 			REP(j,0,NOs[i].size()-1) {
 				ofile << "outcome(";
-				ofile << outcomes_indices[i] << ",";
+	///////////////// Change /////////////////////////////
+				//ofile << outcomes_indices[i] << ",";
+				ofile << i << ",";
+	///////////////// Change /////////////////////////////
 				ofile << j << "," << NOs[i][j] << ")." << endl;
 			}
 		}

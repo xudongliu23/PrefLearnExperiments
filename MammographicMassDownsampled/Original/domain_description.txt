@@ -1,0 +1,5 @@
+BI-RADS:low,medium,high,vhigh
+Age:low,medium,high,vhigh
+Shape:1,2,3,4
+Margin:low,medium,high,vhigh
+Density:1,2,3,4

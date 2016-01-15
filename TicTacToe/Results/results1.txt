@@ -1,0 +1,183 @@
+MaxLearn UIUP PLP-trees for user 0:
+
+
+Using training data number 0:
+0.MiddleLeftSquare: b x o 
+1.BottomRightSquare: b o x 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 0:
+Satisfy 88541 out of 207831 (0.4260) examples.
+
+
+Using training data number 1:
+0.BottomRightSquare: b o x 
+1.MiddleMiddleSquare: x b o 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 1:
+Satisfy 99982 out of 207831 (0.4811) examples.
+
+
+Using training data number 2:
+0.BottomMiddleSquare: b x o 
+1.TopRightSquare: o b x 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 2:
+Satisfy 84895 out of 207831 (0.4085) examples.
+
+
+Using training data number 3:
+0.TopMiddleSquare: x o b 
+1.MiddleLeftSquare: o b x 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 3:
+Satisfy 85829 out of 207831 (0.4130) examples.
+
+
+Using training data number 4:
+0.TopRightSquare: o b x 
+1.TopMiddleSquare: b x o 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 4:
+Satisfy 76426 out of 207831 (0.3677) examples.
+
+
+Using training data number 5:
+0.TopRightSquare: x b o 
+1.MiddleLeftSquare: b x o 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 5:
+Satisfy 105344 out of 207831 (0.5069) examples.
+
+
+Using training data number 6:
+0.BottomLeftSquare: o x b 
+1.BottomRightSquare: o b x 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 6:
+Satisfy 71177 out of 207831 (0.3425) examples.
+
+
+Using training data number 7:
+0.BottomLeftSquare: x o b 
+1.TopMiddleSquare: o b x 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 7:
+Satisfy 99864 out of 207831 (0.4805) examples.
+
+
+Using training data number 8:
+0.TopMiddleSquare: b o x 
+1.MiddleLeftSquare: x b o 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 8:
+Satisfy 97117 out of 207831 (0.4673) examples.
+
+
+Using training data number 9:
+0.TopMiddleSquare: x o b 
+1.MiddleRightSquare: x b o 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 9:
+Satisfy 76529 out of 207831 (0.3682) examples.
+
+
+Using training data number 10:
+0.TopMiddleSquare: o b x 
+1.TopRightSquare: x b o 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 10:
+Satisfy 107858 out of 207831 (0.5190) examples.
+
+
+Using training data number 11:
+0.TopLeftSquare: x o b 
+1.TopMiddleSquare: b x o 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 11:
+Satisfy 97368 out of 207831 (0.4685) examples.
+
+
+Using training data number 12:
+0.TopRightSquare: x o b 
+1.MiddleMiddleSquare: o x b 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 12:
+Satisfy 86435 out of 207831 (0.4159) examples.
+
+
+Using training data number 13:
+0.TopRightSquare: x b o 
+1.TopMiddleSquare: o b x 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 13:
+Satisfy 109386 out of 207831 (0.5263) examples.
+
+
+Using training data number 14:
+0.BottomRightSquare: x b o 
+1.BottomLeftSquare: o x b 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 14:
+Satisfy 100508 out of 207831 (0.4836) examples.
+
+
+Using training data number 15:
+0.TopRightSquare: x o b 
+1.MiddleLeftSquare: x b o 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 15:
+Satisfy 93879 out of 207831 (0.4517) examples.
+
+
+Using training data number 16:
+0.TopRightSquare: x b o 
+1.MiddleLeftSquare: x o b 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 16:
+Satisfy 101698 out of 207831 (0.4893) examples.
+
+
+Using training data number 17:
+0.BottomLeftSquare: o b x 
+1.MiddleMiddleSquare: o b x 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 17:
+Satisfy 62869 out of 207831 (0.3025) examples.
+
+
+Using training data number 18:
+0.TopMiddleSquare: o b x 
+1.MiddleLeftSquare: b x o 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 18:
+Satisfy 101103 out of 207831 (0.4865) examples.
+
+
+Using training data number 19:
+0.MiddleMiddleSquare: o x b 
+1.BottomRightSquare: x b o 
+Satisfy 1 out of 1 (1) examples.
+
+Using testing data number 19:
+Satisfy 66516 out of 207831 (0.3200) examples.
+
+

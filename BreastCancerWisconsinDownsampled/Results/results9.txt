@@ -1,0 +1,259 @@
+MaxLearn UIUP PLP-trees for user 0:
+
+
+Using training data number 0:
+0.SingleEpithelialCellSize: low high medium vhigh 
+1.UniformityofCellShape: vhigh low high medium 
+2.UniformityofCellSize: vhigh high medium low 
+3.ClumpThickness: high vhigh medium low 
+4.BlandChromatin: high low vhigh medium 
+Satisfy 9 out of 9 (1) examples.
+
+Using testing data number 0:
+Satisfy 6331 out of 9000 (0.7034) examples.
+
+
+Using training data number 1:
+0.BareNuclei: low high medium vhigh 
+1.Mitoses: high vhigh medium low 
+2.ClumpThickness: medium high vhigh low 
+3.BlandChromatin: vhigh medium high low 
+4.SingleEpithelialCellSize: vhigh medium low high 
+5.NormalNucleoli: medium vhigh low high 
+6.MarginalAdhesion: high vhigh medium low 
+7.UniformityofCellShape: low vhigh medium high 
+Satisfy 9 out of 9 (1) examples.
+
+Using testing data number 1:
+Satisfy 6948 out of 9000 (0.7720) examples.
+
+
+Using training data number 2:
+0.SingleEpithelialCellSize: low high vhigh medium 
+1.UniformityofCellShape: low vhigh medium high 
+2.NormalNucleoli: low high vhigh medium 
+3.BareNuclei: vhigh high low medium 
+4.Mitoses: low medium high vhigh 
+5.BlandChromatin: medium high vhigh low 
+6.MarginalAdhesion: vhigh high medium low 
+7.UniformityofCellSize: medium vhigh low high 
+Satisfy 9 out of 9 (1) examples.
+
+Using testing data number 2:
+Satisfy 6730 out of 9000 (0.7478) examples.
+
+
+Using training data number 3:
+0.NormalNucleoli: low vhigh high medium 
+1.UniformityofCellShape: low vhigh medium high 
+2.Mitoses: high low medium vhigh 
+3.MarginalAdhesion: high medium low vhigh 
+4.SingleEpithelialCellSize: low high vhigh medium 
+Satisfy 9 out of 9 (1) examples.
+
+Using testing data number 3:
+Satisfy 6416 out of 9000 (0.7129) examples.
+
+
+Using training data number 4:
+0.UniformityofCellShape: low vhigh medium high 
+1.NormalNucleoli: medium low high vhigh 
+2.MarginalAdhesion: low high vhigh medium 
+Satisfy 9 out of 9 (1) examples.
+
+Using testing data number 4:
+Satisfy 6672 out of 9000 (0.7413) examples.
+
+
+Using training data number 5:
+0.UniformityofCellSize: low high vhigh medium 
+1.BlandChromatin: high medium vhigh low 
+2.ClumpThickness: high vhigh medium low 
+3.UniformityofCellShape: high medium vhigh low 
+4.NormalNucleoli: vhigh high medium low 
+5.MarginalAdhesion: high vhigh medium low 
+Satisfy 9 out of 9 (1) examples.
+
+Using testing data number 5:
+Satisfy 6480 out of 9000 (0.7200) examples.
+
+
+Using training data number 6:
+0.BareNuclei: low vhigh medium high 
+1.NormalNucleoli: vhigh low high medium 
+2.SingleEpithelialCellSize: medium high vhigh low 
+3.BlandChromatin: vhigh high low medium 
+4.UniformityofCellShape: high vhigh medium low 
+5.UniformityofCellSize: vhigh high medium low 
+6.Mitoses: vhigh high medium low 
+7.ClumpThickness: vhigh high medium low 
+8.MarginalAdhesion: vhigh low high medium 
+Satisfy 9 out of 9 (1) examples.
+
+Using testing data number 6:
+Satisfy 5990 out of 9000 (0.6656) examples.
+
+
+Using training data number 7:
+0.Mitoses: low vhigh medium high 
+1.UniformityofCellShape: low high medium vhigh 
+2.MarginalAdhesion: high low vhigh medium 
+3.BareNuclei: vhigh medium high low 
+4.NormalNucleoli: high vhigh low medium 
+5.ClumpThickness: medium vhigh low high 
+6.UniformityofCellSize: medium vhigh high low 
+Satisfy 9 out of 9 (1) examples.
+
+Using testing data number 7:
+Satisfy 6909 out of 9000 (0.7677) examples.
+
+
+Using training data number 8:
+0.BareNuclei: low high medium vhigh 
+1.SingleEpithelialCellSize: vhigh low high medium 
+2.MarginalAdhesion: low medium high vhigh 
+Satisfy 9 out of 9 (1) examples.
+
+Using testing data number 8:
+Satisfy 7343 out of 9000 (0.8159) examples.
+
+
+Using training data number 9:
+0.NormalNucleoli: low high medium vhigh 
+1.Mitoses: vhigh high medium low 
+2.UniformityofCellSize: high low vhigh medium 
+3.BareNuclei: medium high low vhigh 
+Satisfy 9 out of 9 (1) examples.
+
+Using testing data number 9:
+Satisfy 6736 out of 9000 (0.7484) examples.
+
+
+Using training data number 10:
+0.MarginalAdhesion: low high medium vhigh 
+1.NormalNucleoli: medium low high vhigh 
+2.ClumpThickness: vhigh high low medium 
+3.Mitoses: high vhigh medium low 
+Satisfy 9 out of 9 (1) examples.
+
+Using testing data number 10:
+Satisfy 6396 out of 9000 (0.7107) examples.
+
+
+Using training data number 11:
+0.ClumpThickness: low medium high vhigh 
+1.MarginalAdhesion: high low medium vhigh 
+2.NormalNucleoli: low high vhigh medium 
+3.SingleEpithelialCellSize: high medium vhigh low 
+4.BareNuclei: low vhigh medium high 
+5.UniformityofCellSize: vhigh medium high low 
+6.Mitoses: medium vhigh high low 
+7.UniformityofCellShape: vhigh low high medium 
+Satisfy 9 out of 9 (1) examples.
+
+Using testing data number 11:
+Satisfy 7542 out of 9000 (0.8380) examples.
+
+
+Using training data number 12:
+0.BareNuclei: low medium high vhigh 
+1.SingleEpithelialCellSize: high low medium vhigh 
+2.UniformityofCellSize: vhigh medium high low 
+3.UniformityofCellShape: low vhigh high medium 
+Satisfy 9 out of 9 (1) examples.
+
+Using testing data number 12:
+Satisfy 7515 out of 9000 (0.8350) examples.
+
+
+Using training data number 13:
+0.NormalNucleoli: high low vhigh medium 
+1.Mitoses: medium vhigh low high 
+2.BlandChromatin: low high medium vhigh 
+3.ClumpThickness: medium vhigh high low 
+4.BareNuclei: vhigh high medium low 
+5.MarginalAdhesion: vhigh high medium low 
+Satisfy 9 out of 9 (1) examples.
+
+Using testing data number 13:
+Satisfy 5572 out of 9000 (0.6191) examples.
+
+
+Using training data number 14:
+0.MarginalAdhesion: low medium high vhigh 
+1.BareNuclei: medium high vhigh low 
+2.UniformityofCellSize: high low vhigh medium 
+3.ClumpThickness: vhigh low high medium 
+4.BlandChromatin: low high vhigh medium 
+5.UniformityofCellShape: vhigh medium high low 
+6.Mitoses: medium high vhigh low 
+7.NormalNucleoli: vhigh high medium low 
+Satisfy 9 out of 9 (1) examples.
+
+Using testing data number 14:
+Satisfy 6326 out of 9000 (0.7029) examples.
+
+
+Using training data number 15:
+0.UniformityofCellSize: low medium high vhigh 
+1.ClumpThickness: medium high vhigh low 
+Satisfy 9 out of 9 (1) examples.
+
+Using testing data number 15:
+Satisfy 7383 out of 9000 (0.8203) examples.
+
+
+Using training data number 16:
+0.BlandChromatin: low medium vhigh high 
+1.MarginalAdhesion: high medium vhigh low 
+2.Mitoses: high medium low vhigh 
+3.UniformityofCellShape: vhigh high low medium 
+4.ClumpThickness: high vhigh medium low 
+5.NormalNucleoli: vhigh low high medium 
+6.SingleEpithelialCellSize: medium low vhigh high 
+Satisfy 9 out of 9 (1) examples.
+
+Using testing data number 16:
+Satisfy 6716 out of 9000 (0.7462) examples.
+
+
+Using training data number 17:
+0.MarginalAdhesion: low vhigh high medium 
+1.Mitoses: low vhigh medium high 
+2.NormalNucleoli: low vhigh medium high 
+3.BlandChromatin: vhigh low medium high 
+4.SingleEpithelialCellSize: medium low vhigh high 
+5.UniformityofCellSize: medium vhigh low high 
+6.ClumpThickness: high medium vhigh low 
+Satisfy 9 out of 9 (1) examples.
+
+Using testing data number 17:
+Satisfy 6520 out of 9000 (0.7244) examples.
+
+
+Using training data number 18:
+0.BareNuclei: low medium high vhigh 
+1.BlandChromatin: medium vhigh low high 
+2.UniformityofCellSize: high medium vhigh low 
+3.MarginalAdhesion: vhigh high medium low 
+4.NormalNucleoli: high vhigh medium low 
+Satisfy 9 out of 9 (1) examples.
+
+Using testing data number 18:
+Satisfy 7248 out of 9000 (0.8053) examples.
+
+
+Using training data number 19:
+0.BareNuclei: low medium high vhigh 
+1.SingleEpithelialCellSize: vhigh low medium high 
+2.UniformityofCellSize: low vhigh medium high 
+3.BlandChromatin: low vhigh medium high 
+4.Mitoses: vhigh medium high low 
+5.ClumpThickness: medium high low vhigh 
+6.MarginalAdhesion: vhigh high low medium 
+Satisfy 9 out of 9 (1) examples.
+
+Using testing data number 19:
+Satisfy 7547 out of 9000 (0.8386) examples.
+
+

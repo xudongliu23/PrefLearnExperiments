@@ -1,0 +1,234 @@
+MaxLearn UIUP PLP-trees for user 0:
+
+
+Using training data number 0:
+0.Margin: low high vhigh medium 
+1.Age: medium low high vhigh 
+2.Density: 4 3 1 2 
+3.Shape: 2 1 3 4 
+4.BI-RADS: medium high low vhigh 
+Satisfy 112 out of 120 (0.933333) examples.
+
+Using testing data number 0:
+Satisfy 590 out of 672 (0.8780) examples.
+
+
+Using training data number 1:
+0.Margin: low high vhigh medium 
+1.Density: 2 3 4 1 
+2.BI-RADS: low medium high vhigh 
+3.Age: medium vhigh low high 
+4.Shape: 4 1 2 3 
+Satisfy 107 out of 120 (0.891667) examples.
+
+Using testing data number 1:
+Satisfy 578 out of 672 (0.8601) examples.
+
+
+Using training data number 2:
+0.Margin: low high vhigh medium 
+1.Shape: 2 1 3 4 
+2.Age: vhigh medium low high 
+3.BI-RADS: low medium vhigh high 
+Satisfy 109 out of 120 (0.908333) examples.
+
+Using testing data number 2:
+Satisfy 590 out of 672 (0.8780) examples.
+
+
+Using training data number 3:
+0.Margin: low high vhigh medium 
+1.Age: medium high low vhigh 
+2.BI-RADS: medium low vhigh high 
+3.Shape: 2 1 3 4 
+Satisfy 107 out of 120 (0.891667) examples.
+
+Using testing data number 3:
+Satisfy 590 out of 672 (0.8780) examples.
+
+
+Using training data number 4:
+0.Margin: low high vhigh medium 
+1.BI-RADS: medium low high vhigh 
+2.Density: 2 4 1 3 
+3.Age: medium low vhigh high 
+4.Shape: 3 1 4 2 
+Satisfy 109 out of 120 (0.908333) examples.
+
+Using testing data number 4:
+Satisfy 572 out of 672 (0.8512) examples.
+
+
+Using training data number 5:
+0.Margin: low high vhigh medium 
+1.Shape: 2 1 3 4 
+2.Age: medium vhigh low high 
+3.Density: 2 4 3 1 
+4.BI-RADS: medium high low vhigh 
+Satisfy 112 out of 120 (0.933333) examples.
+
+Using testing data number 5:
+Satisfy 593 out of 672 (0.8824) examples.
+
+
+Using training data number 6:
+0.Margin: low high vhigh medium 
+1.Shape: 2 1 3 4 
+2.BI-RADS: medium low vhigh high 
+3.Density: 4 3 1 2 
+4.Age: low vhigh medium high 
+Satisfy 111 out of 120 (0.925) examples.
+
+Using testing data number 6:
+Satisfy 590 out of 672 (0.8780) examples.
+
+
+Using training data number 7:
+0.Margin: low high vhigh medium 
+1.Shape: 2 3 4 1 
+2.BI-RADS: high medium low vhigh 
+3.Age: medium low vhigh high 
+Satisfy 107 out of 120 (0.891667) examples.
+
+Using testing data number 7:
+Satisfy 582 out of 672 (0.8661) examples.
+
+
+Using training data number 8:
+0.Shape: 2 1 3 4 
+1.Density: 1 4 2 3 
+2.Margin: high low medium vhigh 
+3.BI-RADS: medium high vhigh low 
+4.Age: vhigh medium high low 
+Satisfy 109 out of 120 (0.908333) examples.
+
+Using testing data number 8:
+Satisfy 555 out of 672 (0.8259) examples.
+
+
+Using training data number 9:
+0.Margin: low high vhigh medium 
+1.Shape: 2 3 1 4 
+2.Density: 1 4 2 3 
+3.BI-RADS: medium high low vhigh 
+4.Age: vhigh medium low high 
+Satisfy 113 out of 120 (0.941667) examples.
+
+Using testing data number 9:
+Satisfy 589 out of 672 (0.8765) examples.
+
+
+Using training data number 10:
+0.BI-RADS: medium high low vhigh 
+1.Shape: 2 1 3 4 
+2.Margin: low high vhigh medium 
+3.Age: vhigh medium low high 
+4.Density: 4 1 2 3 
+Satisfy 106 out of 120 (0.883333) examples.
+
+Using testing data number 10:
+Satisfy 583 out of 672 (0.8676) examples.
+
+
+Using training data number 11:
+0.Margin: low high vhigh medium 
+1.Density: 4 2 3 1 
+2.BI-RADS: medium low high vhigh 
+3.Shape: 1 2 4 3 
+Satisfy 111 out of 120 (0.925) examples.
+
+Using testing data number 11:
+Satisfy 572 out of 672 (0.8512) examples.
+
+
+Using training data number 12:
+0.Margin: low high vhigh medium 
+1.Shape: 2 3 1 4 
+2.BI-RADS: low medium high vhigh 
+3.Age: medium low high vhigh 
+Satisfy 111 out of 120 (0.925) examples.
+
+Using testing data number 12:
+Satisfy 595 out of 672 (0.8854) examples.
+
+
+Using training data number 13:
+0.Margin: low high vhigh medium 
+1.Density: 2 3 1 4 
+2.BI-RADS: low medium high vhigh 
+3.Shape: 3 2 1 4 
+4.Age: low medium vhigh high 
+Satisfy 111 out of 120 (0.925) examples.
+
+Using testing data number 13:
+Satisfy 571 out of 672 (0.8497) examples.
+
+
+Using training data number 14:
+0.BI-RADS: low medium high vhigh 
+1.Shape: 2 1 3 4 
+2.Margin: low high vhigh medium 
+3.Age: low medium high vhigh 
+Satisfy 114 out of 120 (0.95) examples.
+
+Using testing data number 14:
+Satisfy 576 out of 672 (0.8571) examples.
+
+
+Using training data number 15:
+0.Shape: 2 1 3 4 
+1.BI-RADS: medium low high vhigh 
+2.Margin: low vhigh high medium 
+3.Density: 2 1 4 3 
+Satisfy 116 out of 120 (0.966667) examples.
+
+Using testing data number 15:
+Satisfy 563 out of 672 (0.8378) examples.
+
+
+Using training data number 16:
+0.Margin: low high vhigh medium 
+1.Density: 4 2 1 3 
+2.Age: medium low high vhigh 
+3.BI-RADS: medium low high vhigh 
+4.Shape: 2 1 3 4 
+Satisfy 107 out of 120 (0.891667) examples.
+
+Using testing data number 16:
+Satisfy 582 out of 672 (0.8661) examples.
+
+
+Using training data number 17:
+0.Shape: 2 1 3 4 
+1.BI-RADS: low medium high vhigh 
+2.Density: 4 1 2 3 
+3.Age: low vhigh high medium 
+4.Margin: high medium vhigh low 
+Satisfy 109 out of 120 (0.908333) examples.
+
+Using testing data number 17:
+Satisfy 568 out of 672 (0.8452) examples.
+
+
+Using training data number 18:
+0.BI-RADS: medium high low vhigh 
+1.Shape: 1 2 3 4 
+2.Margin: low high vhigh medium 
+3.Age: vhigh high low medium 
+Satisfy 112 out of 120 (0.933333) examples.
+
+Using testing data number 18:
+Satisfy 554 out of 672 (0.8244) examples.
+
+
+Using training data number 19:
+0.Margin: low high vhigh medium 
+1.Shape: 2 1 3 4 
+2.BI-RADS: low medium high vhigh 
+3.Density: 4 1 3 2 
+Satisfy 112 out of 120 (0.933333) examples.
+
+Using testing data number 19:
+Satisfy 589 out of 672 (0.8765) examples.
+
+

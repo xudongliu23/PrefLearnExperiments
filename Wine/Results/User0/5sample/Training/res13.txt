@@ -1,0 +1,26 @@
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+
+Optimization: 5
+Answer: 2
+label(0,12,3,1) label(0,12,2,3) label(0,12,1,2) label(0,12,0,0) label(1,10,3,1) label(1,10,2,2) label(1,10,1,3) label(1,10,0,0)
+Optimization: 4
+Answer: 3
+label(0,11,3,1) label(0,11,2,3) label(0,11,1,0) label(0,11,0,2)
+Optimization: 3
+Answer: 4
+label(0,12,3,1) label(0,12,2,0) label(0,12,1,2) label(0,12,0,3)
+Optimization: 1
+Answer: 5
+label(1,12,3,0) label(1,12,2,1) label(1,12,1,2) label(1,12,0,3) label(0,11,3,0) label(0,11,2,1) label(0,11,1,2) label(0,11,0,3) label(4,10,3,2) label(4,10,2,3) label(4,10,1,0) label(4,10,0,1) label(8,8,3,2) label(8,8,2,0) label(8,8,1,1) label(8,8,0,3) label(3,4,3,3) label(3,4,2,0) label(3,4,1,2) label(3,4,0,1) label(2,3,3,2) label(2,3,2,1) label(2,3,1,0) label(2,3,0,3) label(6,2,3,2) label(6,2,2,0) label(6,2,1,3) label(6,2,0,1) label(7,1,3,0) label(7,1,2,3) label(7,1,1,1) label(7,1,0,2) label(5,0,3,3) label(5,0,2,0) label(5,0,1,1) label(5,0,0,2)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 5     
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 4.875s (Solving: 2.20s 1st Model: 0.02s Unsat: 0.00s)
+CPU Time     : 4.730s

@@ -1,0 +1,380 @@
+MaxLearn UIUP PLP-trees for user 0:
+
+
+Using training data number 0:
+0.F4: 0 1 
+1.F9: 0 1 
+10.F2: 1 0 
+11.F12: 0 1 
+12.F5: 1 0 
+13.F10: 0 1 
+2.F15: 0 1 
+3.F11: 1 0 
+4.F3: 1 0 
+5.F7: 1 0 
+6.F14: 0 1 
+7.F13: 1 0 
+8.F6: 0 1 
+9.F1: 1 0 
+Satisfy 104 out of 110 (0.945455) examples.
+
+Using testing data number 0:
+Satisfy 7514 out of 8068 (0.9313) examples.
+
+
+Using training data number 1:
+0.F4: 0 1 
+1.F9: 0 1 
+10.F12: 0 1 
+11.F3: 0 1 
+2.F15: 0 1 
+3.F7: 1 0 
+4.F5: 0 1 
+5.F6: 1 0 
+6.F8: 0 1 
+7.F1: 1 0 
+8.F11: 1 0 
+9.F2: 0 1 
+Satisfy 105 out of 110 (0.954545) examples.
+
+Using testing data number 1:
+Satisfy 7558 out of 8068 (0.9368) examples.
+
+
+Using training data number 2:
+0.F9: 0 1 
+1.F4: 0 1 
+10.F11: 0 1 
+11.F12: 0 1 
+12.F14: 1 0 
+13.F1: 0 1 
+14.F6: 0 1 
+2.F15: 0 1 
+3.F8: 1 0 
+4.F13: 0 1 
+5.F2: 0 1 
+6.F10: 1 0 
+7.F5: 0 1 
+8.F3: 1 0 
+9.F7: 1 0 
+Satisfy 104 out of 110 (0.945455) examples.
+
+Using testing data number 2:
+Satisfy 7552 out of 8068 (0.9360) examples.
+
+
+Using training data number 3:
+0.F9: 0 1 
+1.F14: 0 1 
+10.F6: 1 0 
+2.F3: 0 1 
+3.F4: 0 1 
+4.F10: 1 0 
+5.F13: 0 1 
+6.F12: 0 1 
+7.F2: 0 1 
+8.F15: 0 1 
+9.F5: 0 1 
+Satisfy 106 out of 110 (0.963636) examples.
+
+Using testing data number 3:
+Satisfy 7051 out of 8068 (0.8739) examples.
+
+
+Using training data number 4:
+0.F9: 0 1 
+1.F15: 0 1 
+10.F12: 0 1 
+2.F8: 1 0 
+3.F11: 1 0 
+4.F10: 1 0 
+5.F4: 0 1 
+6.F5: 0 1 
+7.F14: 1 0 
+8.F13: 1 0 
+9.F2: 1 0 
+Satisfy 105 out of 110 (0.954545) examples.
+
+Using testing data number 4:
+Satisfy 7223 out of 8068 (0.8953) examples.
+
+
+Using training data number 5:
+0.F4: 0 1 
+1.F9: 0 1 
+2.F7: 1 0 
+3.F11: 1 0 
+4.F15: 1 0 
+5.F14: 1 0 
+6.F13: 0 1 
+7.F10: 1 0 
+8.F1: 1 0 
+9.F12: 1 0 
+Satisfy 108 out of 110 (0.981818) examples.
+
+Using testing data number 5:
+Satisfy 7284 out of 8068 (0.9028) examples.
+
+
+Using training data number 6:
+0.F9: 0 1 
+1.F4: 0 1 
+10.F11: 1 0 
+11.F13: 1 0 
+2.F15: 0 1 
+3.F12: 0 1 
+4.F5: 1 0 
+5.F2: 1 0 
+6.F1: 1 0 
+7.F3: 0 1 
+8.F10: 1 0 
+9.F6: 0 1 
+Satisfy 104 out of 110 (0.945455) examples.
+
+Using testing data number 6:
+Satisfy 7501 out of 8068 (0.9297) examples.
+
+
+Using training data number 7:
+0.F4: 0 1 
+1.F9: 0 1 
+10.F10: 0 1 
+11.F6: 1 0 
+12.F13: 0 1 
+13.F3: 1 0 
+2.F7: 1 0 
+3.F15: 0 1 
+4.F8: 1 0 
+5.F2: 1 0 
+6.F12: 0 1 
+7.F5: 0 1 
+8.F14: 0 1 
+9.F11: 1 0 
+Satisfy 104 out of 110 (0.945455) examples.
+
+Using testing data number 7:
+Satisfy 7485 out of 8068 (0.9277) examples.
+
+
+Using training data number 8:
+0.F9: 0 1 
+1.F15: 0 1 
+10.F2: 0 1 
+11.F6: 1 0 
+2.F13: 0 1 
+3.F4: 0 1 
+4.F8: 0 1 
+5.F11: 0 1 
+6.F7: 0 1 
+7.F3: 1 0 
+8.F1: 1 0 
+9.F10: 1 0 
+Satisfy 106 out of 110 (0.963636) examples.
+
+Using testing data number 8:
+Satisfy 7305 out of 8068 (0.9054) examples.
+
+
+Using training data number 9:
+0.F9: 0 1 
+1.F4: 0 1 
+2.F15: 0 1 
+3.F13: 1 0 
+4.F14: 1 0 
+5.F3: 0 1 
+6.F5: 1 0 
+7.F6: 0 1 
+8.F10: 0 1 
+9.F8: 1 0 
+Satisfy 107 out of 110 (0.972727) examples.
+
+Using testing data number 9:
+Satisfy 7483 out of 8068 (0.9275) examples.
+
+
+Using training data number 10:
+0.F4: 0 1 
+1.F14: 1 0 
+10.F8: 1 0 
+11.F11: 1 0 
+2.F9: 0 1 
+3.F12: 1 0 
+4.F1: 0 1 
+5.F3: 0 1 
+6.F6: 0 1 
+7.F13: 0 1 
+8.F2: 1 0 
+9.F7: 0 1 
+Satisfy 105 out of 110 (0.954545) examples.
+
+Using testing data number 10:
+Satisfy 7098 out of 8068 (0.8798) examples.
+
+
+Using training data number 11:
+0.F4: 0 1 
+1.F3: 0 1 
+10.F11: 0 1 
+2.F5: 0 1 
+3.F1: 1 0 
+4.F2: 1 0 
+5.F7: 0 1 
+6.F8: 1 0 
+7.F14: 0 1 
+8.F10: 1 0 
+9.F13: 1 0 
+Satisfy 108 out of 110 (0.981818) examples.
+
+Using testing data number 11:
+Satisfy 7006 out of 8068 (0.8684) examples.
+
+
+Using training data number 12:
+0.F4: 0 1 
+1.F3: 0 1 
+10.F15: 1 0 
+2.F13: 0 1 
+3.F11: 1 0 
+4.F2: 0 1 
+5.F8: 1 0 
+6.F7: 1 0 
+7.F12: 1 0 
+8.F9: 0 1 
+9.F10: 1 0 
+Satisfy 107 out of 110 (0.972727) examples.
+
+Using testing data number 12:
+Satisfy 7017 out of 8068 (0.8697) examples.
+
+
+Using training data number 13:
+0.F9: 0 1 
+1.F15: 0 1 
+10.F3: 0 1 
+11.F8: 1 0 
+12.F11: 1 0 
+13.F4: 1 0 
+2.F12: 1 0 
+3.F14: 1 0 
+4.F10: 1 0 
+5.F6: 1 0 
+6.F5: 0 1 
+7.F1: 1 0 
+8.F2: 0 1 
+9.F13: 1 0 
+Satisfy 106 out of 110 (0.963636) examples.
+
+Using testing data number 13:
+Satisfy 7169 out of 8068 (0.8886) examples.
+
+
+Using training data number 14:
+0.F4: 0 1 
+1.F14: 0 1 
+10.F15: 1 0 
+11.F13: 1 0 
+12.F6: 1 0 
+13.F7: 0 1 
+2.F8: 1 0 
+3.F9: 0 1 
+4.F2: 1 0 
+5.F10: 0 1 
+6.F3: 1 0 
+7.F12: 1 0 
+8.F5: 1 0 
+9.F1: 1 0 
+Satisfy 105 out of 110 (0.954545) examples.
+
+Using testing data number 14:
+Satisfy 7186 out of 8068 (0.8907) examples.
+
+
+Using training data number 15:
+0.F9: 0 1 
+1.F15: 0 1 
+2.F10: 0 1 
+3.F11: 1 0 
+4.F6: 1 0 
+5.F7: 1 0 
+6.F14: 0 1 
+7.F4: 0 1 
+8.F1: 1 0 
+9.F12: 0 1 
+Satisfy 103 out of 110 (0.936364) examples.
+
+Using testing data number 15:
+Satisfy 7183 out of 8068 (0.8903) examples.
+
+
+Using training data number 16:
+0.F9: 0 1 
+1.F4: 0 1 
+2.F7: 1 0 
+3.F15: 0 1 
+4.F6: 1 0 
+5.F11: 1 0 
+6.F1: 1 0 
+7.F10: 0 1 
+8.F12: 0 1 
+9.F14: 0 1 
+Satisfy 106 out of 110 (0.963636) examples.
+
+Using testing data number 16:
+Satisfy 7459 out of 8068 (0.9245) examples.
+
+
+Using training data number 17:
+0.F4: 0 1 
+1.F15: 0 1 
+10.F7: 0 1 
+11.F6: 1 0 
+12.F11: 0 1 
+2.F9: 0 1 
+3.F1: 1 0 
+4.F13: 1 0 
+5.F3: 0 1 
+6.F5: 1 0 
+7.F12: 0 1 
+8.F8: 0 1 
+9.F14: 1 0 
+Satisfy 105 out of 110 (0.954545) examples.
+
+Using testing data number 17:
+Satisfy 7323 out of 8068 (0.9077) examples.
+
+
+Using training data number 18:
+0.F9: 0 1 
+1.F4: 0 1 
+2.F11: 0 1 
+3.F12: 1 0 
+4.F2: 1 0 
+5.F6: 1 0 
+6.F13: 0 1 
+7.F7: 0 1 
+Satisfy 108 out of 110 (0.981818) examples.
+
+Using testing data number 18:
+Satisfy 7371 out of 8068 (0.9136) examples.
+
+
+Using training data number 19:
+0.F4: 0 1 
+1.F9: 0 1 
+10.F8: 0 1 
+11.F6: 1 0 
+12.F13: 0 1 
+2.F3: 0 1 
+3.F10: 1 0 
+4.F14: 1 0 
+5.F5: 0 1 
+6.F2: 1 0 
+7.F7: 0 1 
+8.F11: 1 0 
+9.F12: 1 0 
+Satisfy 108 out of 110 (0.981818) examples.
+
+Using testing data number 19:
+Satisfy 7396 out of 8068 (0.9167) examples.
+
+

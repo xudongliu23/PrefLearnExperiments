@@ -1,0 +1,44 @@
+clasp version 3.1.1
+Reading from stdin
+Solving...
+Answer: 1
+
+Optimization: 60
+Answer: 2
+label(7,12,3,0) label(7,12,2,3) label(7,12,1,1) label(7,12,0,2) label(10,11,3,3) label(10,11,2,2) label(10,11,1,1) label(10,11,0,0) label(9,10,3,3) label(9,10,2,2) label(9,10,1,0) label(9,10,0,1) label(4,8,3,3) label(4,8,2,1) label(4,8,1,2) label(4,8,0,0) label(5,7,3,1) label(5,7,2,0) label(5,7,1,3) label(5,7,0,2) label(8,6,3,2) label(8,6,2,3) label(8,6,1,1) label(8,6,0,0) label(0,5,3,2) label(0,5,2,3) label(0,5,1,0) label(0,5,0,1) label(3,4,3,1) label(3,4,2,3) label(3,4,1,0) label(3,4,0,2) label(1,3,3,2) label(1,3,2,0) label(1,3,1,3) label(1,3,0,1) label(6,2,3,3) label(6,2,2,1) label(6,2,1,2) label(6,2,0,0) label(2,0,3,1) label(2,0,2,0) label(2,0,1,2) label(2,0,0,3)
+Optimization: 44
+Answer: 3
+label(2,12,3,3) label(2,12,2,1) label(2,12,1,2) label(2,12,0,0) label(3,11,3,3) label(3,11,2,2) label(3,11,1,1) label(3,11,0,0) label(10,10,3,1) label(10,10,2,0) label(10,10,1,2) label(10,10,0,3) label(0,8,3,2) label(0,8,2,0) label(0,8,1,1) label(0,8,0,3) label(5,7,3,1) label(5,7,2,0) label(5,7,1,2) label(5,7,0,3) label(9,6,3,3) label(9,6,2,1) label(9,6,1,2) label(9,6,0,0) label(8,5,3,3) label(8,5,2,0) label(8,5,1,1) label(8,5,0,2) label(1,4,3,0) label(1,4,2,2) label(1,4,1,1) label(1,4,0,3) label(4,3,3,1) label(4,3,2,0) label(4,3,1,2) label(4,3,0,3) label(7,2,3,3) label(7,2,2,2) label(7,2,1,0) label(7,2,0,1) label(6,0,3,0) label(6,0,2,3) label(6,0,1,1) label(6,0,0,2)
+Optimization: 28
+Answer: 4
+label(2,12,3,3) label(2,12,2,1) label(2,12,1,2) label(2,12,0,0) label(3,11,3,3) label(3,11,2,2) label(3,11,1,1) label(3,11,0,0) label(10,10,3,1) label(10,10,2,0) label(10,10,1,2) label(10,10,0,3) label(4,8,3,2) label(4,8,2,3) label(4,8,1,0) label(4,8,0,1) label(5,7,3,1) label(5,7,2,0) label(5,7,1,2) label(5,7,0,3) label(9,6,3,3) label(9,6,2,1) label(9,6,1,2) label(9,6,0,0) label(8,5,3,3) label(8,5,2,0) label(8,5,1,1) label(8,5,0,2) label(1,4,3,0) label(1,4,2,2) label(1,4,1,1) label(1,4,0,3) label(6,3,3,0) label(6,3,2,3) label(6,3,1,1) label(6,3,0,2) label(7,2,3,3) label(7,2,2,2) label(7,2,1,0) label(7,2,0,1) label(0,0,3,1) label(0,0,2,3) label(0,0,1,0) label(0,0,0,2)
+Optimization: 26
+Answer: 5
+label(2,12,3,1) label(2,12,2,3) label(2,12,1,2) label(2,12,0,0) label(3,11,3,3) label(3,11,2,2) label(3,11,1,1) label(3,11,0,0) label(4,8,3,2) label(4,8,2,3) label(4,8,1,0) label(4,8,0,1) label(5,7,3,1) label(5,7,2,0) label(5,7,1,2) label(5,7,0,3) label(1,4,3,0) label(1,4,2,2) label(1,4,1,1) label(1,4,0,3) label(0,0,3,1) label(0,0,2,3) label(0,0,1,0) label(0,0,0,2)
+Optimization: 25
+Answer: 6
+label(0,12,3,1) label(0,12,2,2) label(0,12,1,0) label(0,12,0,3) label(3,11,3,3) label(3,11,2,2) label(3,11,1,1) label(3,11,0,0) label(4,8,3,2) label(4,8,2,3) label(4,8,1,0) label(4,8,0,1) label(2,7,3,3) label(2,7,2,1) label(2,7,1,2) label(2,7,0,0) label(5,6,3,0) label(5,6,2,1) label(5,6,1,2) label(5,6,0,3) label(1,4,3,0) label(1,4,2,2) label(1,4,1,1) label(1,4,0,3)
+Optimization: 7
+Answer: 7
+label(0,6,3,0) label(0,6,2,1) label(0,6,1,2) label(0,6,0,3)
+Optimization: 5
+Answer: 8
+label(8,12,3,0) label(8,12,2,3) label(8,12,1,2) label(8,12,0,1) label(9,11,3,2) label(9,11,2,1) label(9,11,1,0) label(9,11,0,3) label(1,10,3,2) label(1,10,2,1) label(1,10,1,3) label(1,10,0,0) label(4,8,3,0) label(4,8,2,2) label(4,8,1,1) label(4,8,0,3) label(10,7,3,1) label(10,7,2,2) label(10,7,1,3) label(10,7,0,0) label(0,6,3,0) label(0,6,2,1) label(0,6,1,2) label(0,6,0,3) label(2,5,3,2) label(2,5,2,1) label(2,5,1,0) label(2,5,0,3) label(6,4,3,0) label(6,4,2,1) label(6,4,1,3) label(6,4,0,2) label(5,3,3,1) label(5,3,2,0) label(5,3,1,3) label(5,3,0,2) label(7,1,3,1) label(7,1,2,3) label(7,1,1,2) label(7,1,0,0) label(3,0,3,0) label(3,0,2,1) label(3,0,1,3) label(3,0,0,2)
+Optimization: 4
+Answer: 9
+label(8,12,3,0) label(8,12,2,3) label(8,12,1,2) label(8,12,0,1) label(9,11,3,2) label(9,11,2,1) label(9,11,1,0) label(9,11,0,3) label(1,10,3,3) label(1,10,2,1) label(1,10,1,2) label(1,10,0,0) label(4,8,3,0) label(4,8,2,2) label(4,8,1,1) label(4,8,0,3) label(10,7,3,1) label(10,7,2,2) label(10,7,1,3) label(10,7,0,0) label(0,6,3,0) label(0,6,2,1) label(0,6,1,2) label(0,6,0,3) label(2,5,3,2) label(2,5,2,1) label(2,5,1,0) label(2,5,0,3) label(6,4,3,0) label(6,4,2,1) label(6,4,1,3) label(6,4,0,2) label(5,3,3,1) label(5,3,2,0) label(5,3,1,3) label(5,3,0,2) label(7,1,3,1) label(7,1,2,3) label(7,1,1,2) label(7,1,0,0) label(3,0,3,0) label(3,0,2,1) label(3,0,1,3) label(3,0,0,2)
+Optimization: 2
+Answer: 10
+label(8,12,3,0) label(8,12,2,3) label(8,12,1,2) label(8,12,0,1) label(9,11,3,2) label(9,11,2,1) label(9,11,1,0) label(9,11,0,3) label(1,10,3,1) label(1,10,2,0) label(1,10,1,2) label(1,10,0,3) label(4,8,3,0) label(4,8,2,2) label(4,8,1,1) label(4,8,0,3) label(10,7,3,1) label(10,7,2,2) label(10,7,1,3) label(10,7,0,0) label(0,6,3,0) label(0,6,2,1) label(0,6,1,2) label(0,6,0,3) label(2,5,3,2) label(2,5,2,1) label(2,5,1,0) label(2,5,0,3) label(6,4,3,0) label(6,4,2,1) label(6,4,1,3) label(6,4,0,2) label(5,3,3,1) label(5,3,2,0) label(5,3,1,3) label(5,3,0,2) label(7,1,3,1) label(7,1,2,3) label(7,1,1,2) label(7,1,0,0) label(3,0,3,0) label(3,0,2,1) label(3,0,1,3) label(3,0,0,2)
+Optimization: 1
+Answer: 11
+label(1,12,3,0) label(1,12,2,2) label(1,12,1,3) label(1,12,0,1) label(6,8,3,2) label(6,8,2,0) label(6,8,1,3) label(6,8,0,1) label(7,7,3,1) label(7,7,2,2) label(7,7,1,0) label(7,7,0,3) label(0,6,3,0) label(0,6,2,1) label(0,6,1,2) label(0,6,0,3) label(2,5,3,1) label(2,5,2,2) label(2,5,1,3) label(2,5,0,0) label(4,4,3,0) label(4,4,2,1) label(4,4,1,2) label(4,4,0,3) label(5,3,3,0) label(5,3,2,3) label(5,3,1,1) label(5,3,0,2) label(3,0,3,3) label(3,0,2,1) label(3,0,1,0) label(3,0,0,2)
+Optimization: 0
+OPTIMUM FOUND
+
+Models       : 11    
+  Optimum    : yes
+Optimization : 0
+Calls        : 1
+Time         : 25.147s (Solving: 21.02s 1st Model: 0.07s Unsat: 0.01s)
+CPU Time     : 24.950s

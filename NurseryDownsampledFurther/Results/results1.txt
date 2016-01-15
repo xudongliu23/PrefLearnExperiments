@@ -1,0 +1,153 @@
+MaxLearn UIUP PLP-trees for user 0:
+
+
+Using training data number 0:
+
+Using testing data number 0:
+Satisfy 288206 out of 548063 (0.5259) examples.
+
+
+Using training data number 1:
+
+Using testing data number 1:
+Satisfy 256113 out of 548063 (0.4673) examples.
+
+
+Using training data number 2:
+0.Housing: convenient less_conv critical 
+1.Social: nonprob slightly_prob problematic 
+2.Health: not_recom recommended priority 
+3.Parents: great_pret usual pretentious 
+4.Finance: convenient inconv 
+5.Form: completed incomplete foster complete 
+6.Children: more 2 1 3 
+Satisfy 2 out of 2 (1) examples.
+
+Using testing data number 2:
+Satisfy 235830 out of 548063 (0.4303) examples.
+
+
+Using training data number 3:
+0.Finance: inconv convenient 
+1.Form: completed complete incomplete foster 
+2.Parents: great_pret pretentious usual 
+3.Housing: critical convenient less_conv 
+4.Social: problematic slightly_prob nonprob 
+5.Health: recommended priority not_recom 
+6.Children: 2 more 3 1 
+Satisfy 2 out of 2 (1) examples.
+
+Using testing data number 3:
+Satisfy 286526 out of 548063 (0.5228) examples.
+
+
+Using training data number 4:
+
+Using testing data number 4:
+Satisfy 325818 out of 548063 (0.5945) examples.
+
+
+Using training data number 5:
+
+Using testing data number 5:
+Satisfy 256552 out of 548063 (0.4681) examples.
+
+
+Using training data number 6:
+
+Using testing data number 6:
+Satisfy 277243 out of 548063 (0.5059) examples.
+
+
+Using training data number 7:
+
+Using testing data number 7:
+Satisfy 296916 out of 548063 (0.5418) examples.
+
+
+Using training data number 8:
+
+Using testing data number 8:
+Satisfy 431479 out of 548063 (0.7873) examples.
+
+
+Using training data number 9:
+
+Using testing data number 9:
+Satisfy 439355 out of 548063 (0.8017) examples.
+
+
+Using training data number 10:
+
+Using testing data number 10:
+Satisfy 435017 out of 548063 (0.7937) examples.
+
+
+Using training data number 11:
+
+Using testing data number 11:
+Satisfy 231431 out of 548063 (0.4223) examples.
+
+
+Using training data number 12:
+0.Finance: inconv convenient 
+1.Form: complete foster completed incomplete 
+2.Housing: critical less_conv convenient 
+3.Social: slightly_prob problematic nonprob 
+4.Children: more 1 3 2 
+5.Health: priority not_recom recommended 
+Satisfy 2 out of 2 (1) examples.
+
+Using testing data number 12:
+Satisfy 288441 out of 548063 (0.5263) examples.
+
+
+Using training data number 13:
+
+Using testing data number 13:
+Satisfy 298274 out of 548063 (0.5442) examples.
+
+
+Using training data number 14:
+0.Health: priority recommended not_recom 
+1.Finance: inconv convenient 
+2.Form: foster incomplete complete completed 
+3.Children: 1 2 3 more 
+4.Social: slightly_prob nonprob problematic 
+5.Housing: less_conv convenient critical 
+Satisfy 2 out of 2 (1) examples.
+
+Using testing data number 14:
+Satisfy 480332 out of 548063 (0.8764) examples.
+
+
+Using training data number 15:
+
+Using testing data number 15:
+Satisfy 281792 out of 548063 (0.5142) examples.
+
+
+Using training data number 16:
+
+Using testing data number 16:
+Satisfy 300154 out of 548063 (0.5477) examples.
+
+
+Using training data number 17:
+
+Using testing data number 17:
+Satisfy 251656 out of 548063 (0.4592) examples.
+
+
+Using training data number 18:
+
+Using testing data number 18:
+Satisfy 260885 out of 548063 (0.4760) examples.
+
+
+Using training data number 19:
+
+Using testing data number 19:
+Satisfy 270810 out of 548063 (0.4941) examples.
+
+

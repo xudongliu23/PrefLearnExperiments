@@ -13,8 +13,8 @@ CarEvaluation=${root_dir}/CarEvaluation/Scripts/run.sh
 number_of_all_examples_CarEvaluation=682721
 TicTacToe=${root_dir}/TicTacToe/Scripts/run.sh
 number_of_all_examples_TicTacToe=207832
-Nursery=${root_dir}/Nursery/Scripts/run.sh
-number_of_all_examples_Nursery=573194 # 1% of all 57319460 examples
+NurseryDownsampledFurther=${root_dir}/NurseryDownsampledFurther/Scripts/run.sh
+number_of_all_examples_NurseryDownsampledFurther=573194 # 1% of all 57319460 examples
 MammographicMass=${root_dir}/MammographicMass/Scripts/run.sh
 number_of_all_examples_MammographicMass=165889
 Wine=${root_dir}/Wine/Scripts/run.sh
@@ -71,21 +71,19 @@ clasp=${usr_dir}/.tools/clasp-3.1.3/clasp-3.1.3
 #done
 #echo "PrefLearn experiment is done on the TicTacToe dataset." | mail -s "TicTacToe Done" xudong.liu23@gmail.com
 #
-# For Nursery, the extra testing part was on 1% of the whole extra which is too many.
-# But I have generated test_extra's in Original/StrictExamples/User0/Testing/.
 #for (( i=10; i<100; i+=10 )); do
-#	time $Nursery $gringo3 $clasp $i $number_of_all_examples_Nursery
+#	time $NurseryDownsampledFurther $gringo3 $clasp $i $number_of_all_examples_NurseryDownsampledFurther
 #	sleep 2
 #done
 #for (( i=100; i<1000; i+=100 )); do
-#	time $Nursery $gringo3 $clasp $i $number_of_all_examples_Nursery
+#	time $NurseryDownsampledFurther $gringo3 $clasp $i $number_of_all_examples_NurseryDownsampledFurther
 #	sleep 2
 #done
 #for (( i=2000; i<4000; i+=1000 )); do
-#	time $Nursery $gringo3 $clasp $i $number_of_all_examples_Nursery
+#	time $NurseryDownsampledFurther $gringo3 $clasp $i $number_of_all_examples_NurseryDownsampledFurther
 #	sleep 2
 #done
-#echo "PrefLearn experiment is done on the Nursery dataset." | mail -s "Nursery Done" xudong.liu23@gmail.com
+#echo "PrefLearn experiment is done on the NurseryDownsampledFurther dataset." | mail -s "NurseryDownsampledFurther Done" xudong.liu23@gmail.com
 
 for (( i=1; i<10; i+=1 )); do
 	time $MammographicMass $gringo3 $clasp $usr_dir $i $number_of_all_examples_MammographicMass

@@ -1,0 +1,234 @@
+MaxLearn UIUP PLP-trees for user 0:
+
+
+Using training data number 0:
+0.A6: vhigh high medium low 
+1.A9: low medium vhigh high 
+2.A5: low vhigh high medium 
+3.A1: a13 a12 a11 a14 
+4.A2: vhigh medium low high 
+5.A7: low medium high vhigh 
+6.A8: 3 2 1 4 
+7.A3: vhigh medium low high 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 0:
+Satisfy 96556 out of 172365 (0.5602) examples.
+
+
+Using training data number 1:
+0.A8: 2 3 4 1 
+1.A9: medium high vhigh low 
+2.A7: medium high low vhigh 
+3.A10: a103 a102 a101 
+4.A2: medium low vhigh high 
+5.A1: a11 a13 a14 a12 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 1:
+Satisfy 83488 out of 172365 (0.4844) examples.
+
+
+Using training data number 2:
+0.A5: medium high low vhigh 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 2:
+Satisfy 80424 out of 172365 (0.4666) examples.
+
+
+Using training data number 3:
+0.A2: high low vhigh medium 
+1.A7: vhigh low high medium 
+2.A4: medium vhigh high low 
+3.A3: low vhigh medium high 
+4.A9: medium low high vhigh 
+5.A1: a13 a11 a14 a12 
+6.A8: 3 4 1 2 
+7.A5: low high medium vhigh 
+8.A6: low high vhigh medium 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 3:
+Satisfy 98955 out of 172365 (0.5741) examples.
+
+
+Using training data number 4:
+0.A4: high medium vhigh low 
+1.A9: vhigh high low medium 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 4:
+Satisfy 80658 out of 172365 (0.4679) examples.
+
+
+Using training data number 5:
+0.A5: low high vhigh medium 
+1.A6: medium high low vhigh 
+2.A9: high low vhigh medium 
+3.A8: 4 3 1 2 
+4.A1: a11 a12 a14 a13 
+5.A4: medium low high vhigh 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 5:
+Satisfy 84948 out of 172365 (0.4928) examples.
+
+
+Using training data number 6:
+0.A6: vhigh medium high low 
+1.A1: a12 a14 a11 a13 
+2.A8: 3 4 1 2 
+3.A4: high vhigh low medium 
+4.A5: vhigh low high medium 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 6:
+Satisfy 102927 out of 172365 (0.5971) examples.
+
+
+Using training data number 7:
+0.A10: a103 a101 a102 
+1.A2: low vhigh high medium 
+2.A7: low medium vhigh high 
+3.A9: high low vhigh medium 
+4.A5: vhigh medium low high 
+5.A3: vhigh low high medium 
+6.A1: a11 a13 a14 a12 
+7.A8: 1 3 2 4 
+8.A4: low medium vhigh high 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 7:
+Satisfy 94420 out of 172365 (0.5478) examples.
+
+
+Using training data number 8:
+0.A2: medium low vhigh high 
+1.A1: a11 a13 a12 a14 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 8:
+Satisfy 78922 out of 172365 (0.4579) examples.
+
+
+Using training data number 9:
+0.A9: vhigh low medium high 
+1.A6: low vhigh medium high 
+2.A1: a12 a11 a14 a13 
+3.A3: medium high low vhigh 
+4.A2: high medium vhigh low 
+5.A8: 3 1 2 4 
+6.A10: a101 a102 a103 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 9:
+Satisfy 69170 out of 172365 (0.4013) examples.
+
+
+Using training data number 10:
+0.A6: vhigh high medium low 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 10:
+Satisfy 65268 out of 172365 (0.3787) examples.
+
+
+Using training data number 11:
+0.A7: vhigh high low medium 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 11:
+Satisfy 74049 out of 172365 (0.4296) examples.
+
+
+Using training data number 12:
+0.A6: vhigh medium low high 
+1.A4: low vhigh medium high 
+2.A7: vhigh high low medium 
+3.A1: a13 a12 a14 a11 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 12:
+Satisfy 95769 out of 172365 (0.5556) examples.
+
+
+Using training data number 13:
+0.A6: high vhigh low medium 
+1.A9: high vhigh low medium 
+2.A4: high medium vhigh low 
+3.A3: low vhigh medium high 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 13:
+Satisfy 102369 out of 172365 (0.5939) examples.
+
+
+Using training data number 14:
+0.A4: high vhigh medium low 
+1.A8: 1 3 2 4 
+2.A2: medium low vhigh high 
+3.A7: medium high low vhigh 
+4.A6: medium high vhigh low 
+5.A3: medium vhigh low high 
+6.A5: low medium high vhigh 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 14:
+Satisfy 87177 out of 172365 (0.5058) examples.
+
+
+Using training data number 15:
+0.A1: a13 a14 a11 a12 
+1.A10: a103 a101 a102 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 15:
+Satisfy 98145 out of 172365 (0.5694) examples.
+
+
+Using training data number 16:
+0.A5: high vhigh low medium 
+1.A2: low medium high vhigh 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 16:
+Satisfy 82827 out of 172365 (0.4805) examples.
+
+
+Using training data number 17:
+0.A5: medium vhigh low high 
+1.A2: high medium low vhigh 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 17:
+Satisfy 72713 out of 172365 (0.4219) examples.
+
+
+Using training data number 18:
+0.A9: vhigh medium high low 
+1.A7: high medium low vhigh 
+2.A8: 2 1 3 4 
+3.A1: a12 a13 a14 a11 
+4.A4: low vhigh high medium 
+5.A2: vhigh medium low high 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 18:
+Satisfy 81747 out of 172365 (0.4743) examples.
+
+
+Using training data number 19:
+0.A10: a102 a103 a101 
+1.A1: a11 a12 a14 a13 
+2.A5: high low medium vhigh 
+3.A7: medium high low vhigh 
+4.A2: low vhigh medium high 
+5.A8: 4 3 2 1 
+6.A9: low medium vhigh high 
+Satisfy 3 out of 3 (1) examples.
+
+Using testing data number 19:
+Satisfy 59171 out of 172365 (0.3433) examples.
+
+
