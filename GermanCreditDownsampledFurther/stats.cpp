@@ -6,7 +6,7 @@
 #include <string.h>
 using namespace std;
 
-void getStatsSingle(string path);
+void getStatsSingle(string path, int sampleSize);
 
 int main(int argc, char** argv) {
 #if 0
@@ -20,13 +20,14 @@ int main(int argc, char** argv) {
 #endif
 
 	string path = argv[1];
-	getStatsSingle(path);
+	int sampleSize = atoi(argv[2]);
+	getStatsSingle(path, sampleSize);
 
 
 	return 0;
 }
 
-void getStatsSingle(string path) {
+void getStatsSingle(string path, int sampleSize) {
 	ifstream ifile;
 	double table[2];
 	for(int i=0; i<2; i++) {
@@ -62,9 +63,11 @@ void getStatsSingle(string path) {
 	}
 	ifile.close();
 
-	for(int i=0; i<2; i++) {
-		cout << table[i] / 20 << ",";
-	}
+	cout << sampleSize << ",";
+	//for(int i=0; i<2; i++) {
+	//	cout << table[i] / 20 << ",";
+	//}
+	cout << table[0] / 20 << "," << table[1] / 20;
 	cout << endl;
 
 }

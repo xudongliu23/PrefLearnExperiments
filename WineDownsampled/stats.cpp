@@ -29,8 +29,8 @@ int main(int argc, char** argv) {
 
 void getStatsSingle(string path, int sampleSize) {
 	ifstream ifile;
-	double table[2];
-	for(int i=0; i<2; i++) {
+	double table[3];
+	for(int i=0; i<3; i++) {
 		table[i] = 0.0;
 	}
 
@@ -51,10 +51,16 @@ void getStatsSingle(string path, int sampleSize) {
 					table[0] += atof(line.substr(foundLeftPar+1, foundRightPar-foundLeftPar-1).c_str());
 
 					satStringInd++;
-				} else {
+				} else if (satStringInd == 1) {
 					size_t foundLeftPar = line.find("(");
 					size_t foundRightPar = line.find(")");
 					table[1] += atof(line.substr(foundLeftPar+1, foundRightPar-foundLeftPar-1).c_str());
+
+					satStringInd++;
+				} else {
+					size_t foundLeftPar = line.find("(");
+					size_t foundRightPar = line.find(")");
+					table[2] += atof(line.substr(foundLeftPar+1, foundRightPar-foundLeftPar-1).c_str());
 
 					satStringInd = 0;
 				}
@@ -67,7 +73,7 @@ void getStatsSingle(string path, int sampleSize) {
 	//for(int i=0; i<2; i++) {
 	//	cout << table[i] / 20 << ",";
 	//}
-	cout << table[0] / 20 << "," << table[1] / 20;
+	cout << table[0] / 20 << "," << table[2] / 20;
 	cout << endl;
 
 }
