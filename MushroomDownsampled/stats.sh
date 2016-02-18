@@ -16,6 +16,7 @@ done
 for (( i=10; i<50; i+=10 )); do
 	./stats Results/results${i}.txt $i >> Results/sum.txt
 done
+./stats Results/results250.txt 250 >> Results/sum.txt
 
 #echo ""
 #

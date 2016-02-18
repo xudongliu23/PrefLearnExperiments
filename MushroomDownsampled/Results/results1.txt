@@ -10,10 +10,10 @@ Using training data number 0:
 5.GillSize: n b 
 6.StalkShape: e t 
 7.GillSpacing: c d w 
-Satisfy 1 out of 1 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 0:
-Satisfy 5066 out of 8447 (0.5997) examples.
+Satisfy 4911 out of 8447 (0.5814) examples.
 
 
 Using training data number 1:
@@ -21,10 +21,10 @@ Using training data number 1:
 1.CapColor: high vhigh low medium 
 2.CapSurface: f g y s 
 3.GillSize: b n 
-Satisfy 1 out of 1 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 1:
-Satisfy 4618 out of 8447 (0.5467) examples.
+Satisfy 4476 out of 8447 (0.5299) examples.
 
 
 Using training data number 2:
@@ -32,10 +32,10 @@ Using training data number 2:
 1.CapShape: medium vhigh low high 
 2.CapSurface: g s y f 
 3.Bruises: f t 
-Satisfy 1 out of 1 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 2:
-Satisfy 4765 out of 8447 (0.5641) examples.
+Satisfy 4615 out of 8447 (0.5463) examples.
 
 
 Using training data number 3:
@@ -43,10 +43,10 @@ Using training data number 3:
 1.CapSurface: y s g f 
 2.GillAttachment: a d n f 
 3.GillSpacing: c w d 
-Satisfy 1 out of 1 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 3:
-Satisfy 5314 out of 8447 (0.6291) examples.
+Satisfy 5169 out of 8447 (0.6119) examples.
 
 
 Using training data number 4:
@@ -54,10 +54,10 @@ Using training data number 4:
 1.GillColor: high low vhigh medium 
 2.CapColor: medium vhigh high low 
 3.Bruises: t f 
-Satisfy 1 out of 1 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 4:
-Satisfy 4761 out of 8447 (0.5636) examples.
+Satisfy 4618 out of 8447 (0.5467) examples.
 
 
 Using training data number 5:
@@ -65,10 +65,10 @@ Using training data number 5:
 1.CapSurface: y s g f 
 2.GillSpacing: c d w 
 3.Bruises: t f 
-Satisfy 1 out of 1 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 5:
-Satisfy 5546 out of 8447 (0.6566) examples.
+Satisfy 5380 out of 8447 (0.6369) examples.
 
 
 Using training data number 6:
@@ -76,10 +76,10 @@ Using training data number 6:
 1.CapColor: medium high vhigh low 
 2.CapSurface: y f g s 
 3.Odor: medium vhigh low high 
-Satisfy 1 out of 1 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 6:
-Satisfy 3407 out of 8447 (0.4033) examples.
+Satisfy 3319 out of 8447 (0.3929) examples.
 
 
 Using training data number 7:
@@ -91,10 +91,10 @@ Using training data number 7:
 5.GillSize: b n 
 6.GillSpacing: c d w 
 7.CapSurface: y f g s 
-Satisfy 1 out of 1 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 7:
-Satisfy 3950 out of 8447 (0.4676) examples.
+Satisfy 3837 out of 8447 (0.4542) examples.
 
 
 Using training data number 8:
@@ -102,10 +102,10 @@ Using training data number 8:
 1.CapColor: low high vhigh medium 
 2.Odor: low vhigh medium high 
 3.Bruises: t f 
-Satisfy 1 out of 1 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 8:
-Satisfy 5373 out of 8447 (0.6361) examples.
+Satisfy 5220 out of 8447 (0.6180) examples.
 
 
 Using training data number 9:
@@ -117,10 +117,10 @@ Using training data number 9:
 5.GillSize: b n 
 6.StalkShape: e t 
 7.GillSpacing: c d w 
-Satisfy 1 out of 1 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 9:
-Satisfy 3379 out of 8447 (0.4000) examples.
+Satisfy 3282 out of 8447 (0.3885) examples.
 
 
 Using training data number 10:
@@ -128,19 +128,19 @@ Using training data number 10:
 1.Odor: medium high low vhigh 
 2.CapColor: vhigh medium high low 
 3.CapSurface: s g f y 
-Satisfy 1 out of 1 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 10:
-Satisfy 5424 out of 8447 (0.6421) examples.
+Satisfy 5266 out of 8447 (0.6234) examples.
 
 
 Using training data number 11:
 0.Odor: low medium vhigh high 
 1.CapColor: low medium high vhigh 
-Satisfy 1 out of 1 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 11:
-Satisfy 3747 out of 8447 (0.4436) examples.
+Satisfy 3628 out of 8447 (0.4295) examples.
 
 
 Using training data number 12:
@@ -148,10 +148,10 @@ Using training data number 12:
 1.CapColor: low vhigh medium high 
 2.CapShape: medium vhigh high low 
 3.GillSize: b n 
-Satisfy 1 out of 1 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 12:
-Satisfy 3399 out of 8447 (0.4024) examples.
+Satisfy 3304 out of 8447 (0.3911) examples.
 
 
 Using training data number 13:
@@ -159,10 +159,10 @@ Using training data number 13:
 1.CapColor: medium vhigh high low 
 2.GillColor: vhigh medium high low 
 3.GillSpacing: c w d 
-Satisfy 1 out of 1 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 13:
-Satisfy 3691 out of 8447 (0.4370) examples.
+Satisfy 3582 out of 8447 (0.4241) examples.
 
 
 Using training data number 14:
@@ -170,10 +170,10 @@ Using training data number 14:
 1.GillColor: medium vhigh high low 
 2.CapColor: high vhigh low medium 
 3.CapSurface: f g y s 
-Satisfy 1 out of 1 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 14:
-Satisfy 5527 out of 8447 (0.6543) examples.
+Satisfy 5358 out of 8447 (0.6343) examples.
 
 
 Using training data number 15:
@@ -181,10 +181,10 @@ Using training data number 15:
 1.CapShape: medium vhigh low high 
 2.CapSurface: f s g y 
 3.Odor: low high vhigh medium 
-Satisfy 1 out of 1 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 15:
-Satisfy 4914 out of 8447 (0.5817) examples.
+Satisfy 4766 out of 8447 (0.5642) examples.
 
 
 Using training data number 16:
@@ -192,10 +192,10 @@ Using training data number 16:
 1.CapSurface: y s f g 
 2.CapShape: medium vhigh high low 
 3.GillSize: b n 
-Satisfy 1 out of 1 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 16:
-Satisfy 3976 out of 8447 (0.4707) examples.
+Satisfy 3869 out of 8447 (0.4580) examples.
 
 
 Using training data number 17:
@@ -203,10 +203,10 @@ Using training data number 17:
 1.Odor: low medium high vhigh 
 2.CapSurface: f y g s 
 3.GillSpacing: d c w 
-Satisfy 1 out of 1 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 17:
-Satisfy 6478 out of 8447 (0.7669) examples.
+Satisfy 6281 out of 8447 (0.7436) examples.
 
 
 Using training data number 18:
@@ -214,10 +214,10 @@ Using training data number 18:
 1.CapSurface: f y s g 
 2.Odor: medium high vhigh low 
 3.CapColor: high low vhigh medium 
-Satisfy 1 out of 1 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 18:
-Satisfy 4957 out of 8447 (0.5868) examples.
+Satisfy 4808 out of 8447 (0.5692) examples.
 
 
 Using training data number 19:
@@ -225,9 +225,9 @@ Using training data number 19:
 1.CapSurface: s g f y 
 2.CapColor: high low vhigh medium 
 3.Bruises: f t 
-Satisfy 1 out of 1 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 19:
-Satisfy 3499 out of 8447 (0.4142) examples.
+Satisfy 3391 out of 8447 (0.4014) examples.
 
 

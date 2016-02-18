@@ -1,0 +1,257 @@
+MaxLearn UIUP PLP-trees for user 0:
+
+
+Using training data number 0:
+0.Health: priority recommended not_recom 
+1.HasNurs: critical less_proper improper proper 
+Satisfy 67 out of 71 (0.943662) examples.
+
+Using testing data number 0:
+Satisfy 488682 out of 547994 (0.8918) examples.
+
+
+Using training data number 1:
+0.Health: priority recommended not_recom 
+1.HasNurs: improper critical proper less_proper 
+2.Parents: great_pret usual pretentious 
+3.Social: nonprob problematic slightly_prob 
+4.Finance: inconv convenient 
+5.Housing: convenient critical less_conv 
+Satisfy 66 out of 71 (0.929577) examples.
+
+Using testing data number 1:
+Satisfy 495678 out of 547994 (0.9045) examples.
+
+
+Using training data number 2:
+0.Health: priority recommended not_recom 
+1.Form: incomplete completed foster complete 
+2.Social: problematic slightly_prob nonprob 
+3.Parents: great_pret usual pretentious 
+4.Finance: convenient inconv 
+5.Housing: convenient critical less_conv 
+Satisfy 64 out of 71 (0.901408) examples.
+
+Using testing data number 2:
+Satisfy 479711 out of 547994 (0.8754) examples.
+
+
+Using training data number 3:
+0.Health: priority recommended not_recom 
+1.HasNurs: critical less_proper improper proper 
+2.Children: 3 more 1 2 
+3.Form: completed incomplete complete foster 
+4.Housing: critical convenient less_conv 
+5.Social: problematic slightly_prob nonprob 
+6.Finance: inconv convenient 
+7.Parents: usual great_pret pretentious 
+Satisfy 69 out of 71 (0.971831) examples.
+
+Using testing data number 3:
+Satisfy 498369 out of 547994 (0.9094) examples.
+
+
+Using training data number 4:
+0.Health: priority recommended not_recom 
+1.HasNurs: critical improper less_proper proper 
+2.Social: problematic nonprob slightly_prob 
+3.Form: foster completed complete incomplete 
+Satisfy 67 out of 71 (0.943662) examples.
+
+Using testing data number 4:
+Satisfy 504203 out of 547994 (0.9201) examples.
+
+
+Using training data number 5:
+0.Health: priority recommended not_recom 
+1.Parents: great_pret pretentious usual 
+2.HasNurs: improper critical less_proper proper 
+3.Form: incomplete complete completed foster 
+4.Finance: inconv convenient 
+5.Social: problematic nonprob slightly_prob 
+6.Housing: convenient critical less_conv 
+Satisfy 68 out of 71 (0.957746) examples.
+
+Using testing data number 5:
+Satisfy 499726 out of 547994 (0.9119) examples.
+
+
+Using training data number 6:
+0.Health: priority recommended not_recom 
+1.Form: foster completed incomplete complete 
+2.Finance: convenient inconv 
+3.Social: slightly_prob problematic nonprob 
+4.Housing: critical convenient less_conv 
+5.HasNurs: less_proper improper critical proper 
+Satisfy 68 out of 71 (0.957746) examples.
+
+Using testing data number 6:
+Satisfy 477725 out of 547994 (0.8718) examples.
+
+
+Using training data number 7:
+0.Health: priority recommended not_recom 
+1.HasNurs: critical proper improper less_proper 
+2.Social: problematic nonprob slightly_prob 
+3.Children: more 3 2 1 
+4.Parents: great_pret usual pretentious 
+5.Housing: critical less_conv convenient 
+Satisfy 69 out of 71 (0.971831) examples.
+
+Using testing data number 7:
+Satisfy 503263 out of 547994 (0.9184) examples.
+
+
+Using training data number 8:
+0.Health: priority recommended not_recom 
+1.Social: problematic slightly_prob nonprob 
+2.HasNurs: critical proper improper less_proper 
+3.Form: incomplete complete foster completed 
+4.Housing: critical less_conv convenient 
+Satisfy 66 out of 71 (0.929577) examples.
+
+Using testing data number 8:
+Satisfy 489698 out of 547994 (0.8936) examples.
+
+
+Using training data number 9:
+0.Health: priority recommended not_recom 
+1.HasNurs: critical less_proper proper improper 
+2.Social: slightly_prob nonprob problematic 
+3.Form: completed incomplete complete foster 
+4.Parents: pretentious usual great_pret 
+5.Children: 3 more 2 1 
+6.Finance: convenient inconv 
+7.Housing: convenient critical less_conv 
+Satisfy 67 out of 71 (0.943662) examples.
+
+Using testing data number 9:
+Satisfy 490827 out of 547994 (0.8957) examples.
+
+
+Using training data number 10:
+0.Health: recommended priority not_recom 
+1.HasNurs: critical proper improper less_proper 
+2.Social: problematic nonprob slightly_prob 
+3.Finance: inconv convenient 
+4.Children: 2 3 1 more 
+Satisfy 67 out of 71 (0.943662) examples.
+
+Using testing data number 10:
+Satisfy 461576 out of 547994 (0.8423) examples.
+
+
+Using training data number 11:
+0.Health: priority recommended not_recom 
+1.HasNurs: critical improper proper less_proper 
+2.Form: complete incomplete completed foster 
+3.Housing: convenient critical less_conv 
+4.Finance: convenient inconv 
+5.Children: 3 1 more 2 
+Satisfy 66 out of 71 (0.929577) examples.
+
+Using testing data number 11:
+Satisfy 501515 out of 547994 (0.9152) examples.
+
+
+Using training data number 12:
+0.Health: priority recommended not_recom 
+1.HasNurs: improper critical less_proper proper 
+2.Parents: pretentious great_pret usual 
+3.Housing: critical convenient less_conv 
+4.Finance: inconv convenient 
+Satisfy 69 out of 71 (0.971831) examples.
+
+Using testing data number 12:
+Satisfy 493785 out of 547994 (0.9011) examples.
+
+
+Using training data number 13:
+0.Health: priority recommended not_recom 
+1.Parents: great_pret pretentious usual 
+2.Housing: less_conv convenient critical 
+3.Form: incomplete foster completed complete 
+4.Social: slightly_prob nonprob problematic 
+Satisfy 69 out of 71 (0.971831) examples.
+
+Using testing data number 13:
+Satisfy 493739 out of 547994 (0.9010) examples.
+
+
+Using training data number 14:
+0.Health: priority recommended not_recom 
+1.Parents: great_pret usual pretentious 
+2.Children: 3 2 more 1 
+3.Social: slightly_prob problematic nonprob 
+4.HasNurs: critical proper less_proper improper 
+5.Finance: convenient inconv 
+6.Housing: less_conv critical convenient 
+Satisfy 67 out of 71 (0.943662) examples.
+
+Using testing data number 14:
+Satisfy 490676 out of 547994 (0.8954) examples.
+
+
+Using training data number 15:
+0.Health: priority recommended not_recom 
+1.HasNurs: critical proper less_proper improper 
+2.Social: problematic slightly_prob nonprob 
+3.Housing: critical convenient less_conv 
+4.Finance: convenient inconv 
+5.Parents: usual pretentious great_pret 
+Satisfy 69 out of 71 (0.971831) examples.
+
+Using testing data number 15:
+Satisfy 496707 out of 547994 (0.9064) examples.
+
+
+Using training data number 16:
+0.Health: priority recommended not_recom 
+1.Parents: great_pret pretentious usual 
+2.Children: 3 more 1 2 
+3.Social: slightly_prob nonprob problematic 
+4.Form: foster complete incomplete completed 
+5.HasNurs: less_proper critical proper improper 
+Satisfy 69 out of 71 (0.971831) examples.
+
+Using testing data number 16:
+Satisfy 495383 out of 547994 (0.9040) examples.
+
+
+Using training data number 17:
+0.Health: priority recommended not_recom 
+1.HasNurs: critical less_proper improper proper 
+2.Finance: convenient inconv 
+3.Form: foster completed incomplete complete 
+4.Social: nonprob slightly_prob problematic 
+5.Housing: less_conv critical convenient 
+Satisfy 65 out of 71 (0.915493) examples.
+
+Using testing data number 17:
+Satisfy 496240 out of 547994 (0.9056) examples.
+
+
+Using training data number 18:
+0.Health: priority recommended not_recom 
+1.HasNurs: critical proper less_proper improper 
+2.Children: 2 1 3 more 
+Satisfy 68 out of 71 (0.957746) examples.
+
+Using testing data number 18:
+Satisfy 491468 out of 547994 (0.8968) examples.
+
+
+Using training data number 19:
+0.Health: priority recommended not_recom 
+1.HasNurs: critical less_proper improper proper 
+2.Social: slightly_prob problematic nonprob 
+3.Parents: great_pret pretentious usual 
+4.Children: 1 more 2 3 
+5.Finance: convenient inconv 
+6.Form: completed complete incomplete foster 
+Satisfy 68 out of 71 (0.957746) examples.
+
+Using testing data number 19:
+Satisfy 498292 out of 547994 (0.9093) examples.
+
+

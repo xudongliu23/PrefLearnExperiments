@@ -6,10 +6,10 @@ Using training data number 0:
 1.StalkShape: t e 
 2.Bruises: f t 
 3.CapSurface: s g y f 
-Satisfy 3 out of 3 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 0:
-Satisfy 5328 out of 8445 (0.6309) examples.
+Satisfy 5171 out of 8445 (0.6123) examples.
 
 
 Using training data number 1:
@@ -21,10 +21,10 @@ Using training data number 1:
 5.GillSpacing: c d w 
 6.CapColor: vhigh low high medium 
 7.StalkShape: e t 
-Satisfy 3 out of 3 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 1:
-Satisfy 4721 out of 8445 (0.5590) examples.
+Satisfy 4578 out of 8445 (0.5421) examples.
 
 
 Using training data number 2:
@@ -32,10 +32,10 @@ Using training data number 2:
 1.GillSpacing: c d w 
 2.StalkShape: e t 
 3.CapSurface: f g y s 
-Satisfy 3 out of 3 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 2:
-Satisfy 4187 out of 8445 (0.4958) examples.
+Satisfy 4070 out of 8445 (0.4819) examples.
 
 
 Using training data number 3:
@@ -43,10 +43,10 @@ Using training data number 3:
 1.Bruises: t f 
 2.CapSurface: y s g f 
 3.Odor: vhigh high low medium 
-Satisfy 3 out of 3 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 3:
-Satisfy 4614 out of 8445 (0.5464) examples.
+Satisfy 4482 out of 8445 (0.5307) examples.
 
 
 Using training data number 4:
@@ -59,18 +59,18 @@ Using training data number 4:
 6.GillSpacing: d w c 
 7.Bruises: f t 
 8.Odor: low high vhigh medium 
-Satisfy 3 out of 3 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 4:
-Satisfy 4688 out of 8445 (0.5551) examples.
+Satisfy 4543 out of 8445 (0.5380) examples.
 
 
 Using training data number 5:
 0.CapColor: medium low vhigh high 
-Satisfy 3 out of 3 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 5:
-Satisfy 3206 out of 8445 (0.3796) examples.
+Satisfy 3119 out of 8445 (0.3693) examples.
 
 
 Using training data number 6:
@@ -78,10 +78,10 @@ Using training data number 6:
 1.StalkShape: t e 
 2.GillSize: b n 
 3.GillColor: high low vhigh medium 
-Satisfy 3 out of 3 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 6:
-Satisfy 5451 out of 8445 (0.6455) examples.
+Satisfy 5292 out of 8445 (0.6266) examples.
 
 
 Using training data number 7:
@@ -89,37 +89,37 @@ Using training data number 7:
 1.GillSize: b n 
 2.Bruises: f t 
 3.GillSpacing: c d w 
-Satisfy 3 out of 3 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 7:
-Satisfy 5113 out of 8445 (0.6054) examples.
+Satisfy 4949 out of 8445 (0.5860) examples.
 
 
 Using training data number 8:
 0.StalkShape: t e 
 1.CapSurface: g y s f 
-Satisfy 3 out of 3 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 8:
-Satisfy 4946 out of 8445 (0.5857) examples.
+Satisfy 4802 out of 8445 (0.5686) examples.
 
 
 Using training data number 9:
 0.CapColor: low medium vhigh high 
-Satisfy 3 out of 3 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 9:
-Satisfy 3625 out of 8445 (0.4292) examples.
+Satisfy 3518 out of 8445 (0.4166) examples.
 
 
 Using training data number 10:
 0.CapSurface: g f s y 
 1.GillSpacing: w c d 
 2.Bruises: t f 
-Satisfy 3 out of 3 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 10:
-Satisfy 4750 out of 8445 (0.5625) examples.
+Satisfy 4609 out of 8445 (0.5458) examples.
 
 
 Using training data number 11:
@@ -128,43 +128,43 @@ Using training data number 11:
 2.Bruises: f t 
 3.StalkShape: e t 
 4.CapSurface: y g f s 
-Satisfy 3 out of 3 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 11:
-Satisfy 4964 out of 8445 (0.5878) examples.
+Satisfy 4823 out of 8445 (0.5711) examples.
 
 
 Using training data number 12:
 0.CapSurface: s y f g 
 1.Odor: high medium vhigh low 
-Satisfy 3 out of 3 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 12:
-Satisfy 3129 out of 8445 (0.3705) examples.
+Satisfy 3048 out of 8445 (0.3609) examples.
 
 
 Using training data number 13:
 0.GillColor: high low vhigh medium 
-Satisfy 3 out of 3 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 13:
-Satisfy 3897 out of 8445 (0.4615) examples.
+Satisfy 3782 out of 8445 (0.4478) examples.
 
 
 Using training data number 14:
 0.Odor: vhigh high low medium 
-Satisfy 3 out of 3 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 14:
-Satisfy 2973 out of 8445 (0.3520) examples.
+Satisfy 2895 out of 8445 (0.3428) examples.
 
 
 Using training data number 15:
 0.CapSurface: f g y s 
-Satisfy 3 out of 3 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 15:
-Satisfy 3769 out of 8445 (0.4463) examples.
+Satisfy 3665 out of 8445 (0.4340) examples.
 
 
 Using training data number 16:
@@ -175,27 +175,27 @@ Using training data number 16:
 4.CapColor: low medium high vhigh 
 5.StalkShape: e t 
 6.Bruises: f t 
-Satisfy 3 out of 3 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 16:
-Satisfy 4058 out of 8445 (0.4805) examples.
+Satisfy 3940 out of 8445 (0.4665) examples.
 
 
 Using training data number 17:
 0.CapColor: vhigh medium low high 
-Satisfy 3 out of 3 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 17:
-Satisfy 3675 out of 8445 (0.4352) examples.
+Satisfy 3558 out of 8445 (0.4213) examples.
 
 
 Using training data number 18:
 0.Odor: low high vhigh medium 
 1.GillSpacing: c w d 
-Satisfy 3 out of 3 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 18:
-Satisfy 4823 out of 8445 (0.5711) examples.
+Satisfy 4674 out of 8445 (0.5535) examples.
 
 
 Using training data number 19:
@@ -205,9 +205,9 @@ Using training data number 19:
 3.CapShape: high vhigh low medium 
 4.CapSurface: s f g y 
 5.StalkShape: t e 
-Satisfy 3 out of 3 (1) examples.
+Satisfy 250 out of 250 (1) examples.
 
 Using testing data number 19:
-Satisfy 4979 out of 8445 (0.5896) examples.
+Satisfy 4830 out of 8445 (0.5719) examples.
 
 

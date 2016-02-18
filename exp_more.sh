@@ -56,6 +56,10 @@ clasp=${usr_dir}/.tools/clasp-3.1.3/clasp-3.1.3
 #	time $MushroomDownsampled $gringo3 $clasp $usr_dir $i $number_of_all_examples_MushroomDownsampled
 #	sleep 2
 #done
+#for (( i=250; i<260; i+=10 )); do
+#	time $MushroomDownsampled $gringo3 $clasp $usr_dir $i $number_of_all_examples_MushroomDownsampled
+#	sleep 2
+#done
 #sleep 2
 #echo "PrefLearn experiment is done on the MushroomDownsampled dataset." | mail -s "MushroomDownsampled Done" xudong.liu23@gmail.com
 #
@@ -70,30 +74,29 @@ clasp=${usr_dir}/.tools/clasp-3.1.3/clasp-3.1.3
 #sleep 2
 #echo "PrefLearn experiment is done on the TicTacToe dataset." | mail -s "TicTacToe Done" xudong.liu23@gmail.com
 #
-#for (( i=50; i<260; i+=10 )); do
-#	time $GermanCreditDownsampledFurther $gringo3 $clasp $usr_dir $i $number_of_all_examples_GermanCreditDownsampledFurther
-#	sleep 2
-#done
-#sleep 2
-#echo "PrefLearn experiment is done on the GermanCreditDownsampledFurther dataset." | mail -s "GermanCreditDownsampledFurther Done" xudong.liu23@gmail.com
-
+for (( i=250; i<260; i+=10 )); do
+	time $GermanCreditDownsampledFurther $gringo3 $clasp $usr_dir $i $number_of_all_examples_GermanCreditDownsampledFurther
+	sleep 2
+done
+sleep 2
+echo "PrefLearn experiment is done on the GermanCreditDownsampledFurther dataset." | mail -s "GermanCreditDownsampledFurther Done" xudong.liu23@gmail.com
+#
 #for (( i=1; i<10; i+=1 )); do
 #	time $CarEvaluation $gringo3 $clasp $usr_dir $i $number_of_all_examples_CarEvaluation
 #	sleep 2
 #done
-for (( i=10; i<210; i+=10 )); do
-	time $CarEvaluation $gringo3 $clasp $usr_dir $i $number_of_all_examples_CarEvaluation
-	sleep 2
-done
+#for (( i=10; i<210; i+=10 )); do
+#	time $CarEvaluation $gringo3 $clasp $usr_dir $i $number_of_all_examples_CarEvaluation
+#	sleep 2
+#done
 #for (( i=210; i<260; i+=10 )); do
 #	time $CarEvaluation $gringo3 $clasp $usr_dir $i $number_of_all_examples_CarEvaluation
 #	sleep 2
 #done
-sleep 2
-echo "PrefLearn experiment is done on the CarEvaluation dataset." | mail -s "CarEvaluation Done" xudong.liu23@gmail.com
-
-#time $NurseryDownsampledFurther $gringo3 $clasp $usr_dir 1 $number_of_all_examples_NurseryDownsampledFurther
-#for (( i=1; i<10; i+=1 )); do
+#sleep 2
+#echo "PrefLearn experiment is done on the CarEvaluation dataset." | mail -s "CarEvaluation Done" xudong.liu23@gmail.com
+#
+#for (( i=2; i<10; i+=1 )); do
 #	time $NurseryDownsampledFurther $gringo3 $clasp $usr_dir $i $number_of_all_examples_NurseryDownsampledFurther
 #	sleep 2
 #done
@@ -101,6 +104,5 @@ echo "PrefLearn experiment is done on the CarEvaluation dataset." | mail -s "Car
 #	time $NurseryDownsampledFurther $gringo3 $clasp $usr_dir $i $number_of_all_examples_NurseryDownsampledFurther
 #	sleep 2
 #done
-#sleep 2
 #echo "PrefLearn experiment is done on the NurseryDownsampledFurther dataset." | mail -s "NurseryDownsampledFurther Done" xudong.liu23@gmail.com
 
